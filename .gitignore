@@ -1,0 +1,19 @@
+# Python bytecode & cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# IDE / System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Scraped Data & Logs (Keeps Git clean; generated locally by users)
+data/snapshot_manifest.csv
+*.log
