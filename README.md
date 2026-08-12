@@ -167,6 +167,16 @@ The `data/raw_cdx/`, `data/raw_html/`, and `data/raw_snapshots/` directories are
 
 See [INSIGHTS.md](./INSIGHTS.md) for the full business analysis and what these patterns actually mean.
 
+## Visualizations
+
+The pipeline generates three publication-ready charts analyzing repricing patterns:
+
+![Time Series: Annual Repricing Trends](./outputs/figures/chart1_time_series_index.png)
+
+![Sector Radar: Cohort Archetypes](./outputs/figures/chart2_strategic_matrix.png)
+
+![Cadence Distribution: Median Days Between Changes](./outputs/figures/chart3_interval_distribution.png)
+
 ## Limitations
 
 1. **Detection methodology:** This project detects visible-text changes on pricing pages. It doesn't distinguish between major pricing shifts and minor copy edits. That's intentional — the raw frequency is useful, but requires human interpretation.
