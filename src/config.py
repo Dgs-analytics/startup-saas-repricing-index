@@ -61,3 +61,27 @@ def validate_environment() -> None:
             sys.exit(1)
 
     print("Environment validated: seed CSV and all required directories present.")
+    # --- Visualization Theme Colors ---
+BG_COLOR = "#0b0e14"
+CARD_BG = "#161b22"
+TEXT_COLOR = "#ffffff"
+GRID_COLOR = "#30363d"
+NEON_CYAN = "#00f2fe"
+NEON_PINK = "#ff007f"
+
+# Chart color palette — carefully chosen for maximum distinction across 13 companies
+CHART_COLORS = [
+    "#FF6B6B",  # Red
+    "#4ECDC4",  # Teal
+    "#45B7D1",  # Blue
+    "#FFA07A",  # Light Salmon
+    "#98D8C8",  # Mint
+    "#F7DC6F",  # Gold
+    "#BB8FCE",  # Light Purple
+    "#85C1E2",  # Sky Blue
+    "#F8B88B",  # Peach
+    "#52C0A1",  # Sea Green
+    "#D4AF37",  # Brass
+    "#E74C3C",  # Crimson
+    "#3498DB",  # Dodger Blue
+]

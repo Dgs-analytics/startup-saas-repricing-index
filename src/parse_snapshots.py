@@ -28,7 +28,7 @@ METRICS_CSV_PATH = PROCESSED_DATA_DIR / "repricing_metrics.csv"
 TRENDS_CSV_PATH = PROCESSED_DATA_DIR / "annual_repricing_trends.csv"
 
 
-def load_targets():
+def load_targets() -> List[Dict[str, str]]:
     """Reads the 13 companies and their pricing URLs from seed_domains.csv."""
     targets = []
     with open(SEED_CSV_PATH, "r", encoding="utf-8") as f:

@@ -11,6 +11,10 @@ setup(
         "pandas>=2.0.0",
         "tqdm>=4.65.0",
         "urllib3>=2.0.0",
+        "matplotlib>=3.7.0",
+        "seaborn>=0.12.0",
+        "plotly>=5.15.0",
+        "beautifulsoup4>=4.12.0",
     ],
     python_requires=">=3.11",
 )

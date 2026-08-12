@@ -12,20 +12,23 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
-from config import PROCESSED_DATA_DIR, FIGURES_DIR
+from config import (
+    PROCESSED_DATA_DIR,
+    FIGURES_DIR,
+    BG_COLOR,
+    CARD_BG,
+    TEXT_COLOR,
+    GRID_COLOR,
+    NEON_CYAN,
+    NEON_PINK,
+    CHART_COLORS,
+)
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - [%(levelname)s] - %(message)s")
 logger = logging.getLogger("visualize")
 
 METRICS_PATH = PROCESSED_DATA_DIR / "repricing_metrics.csv"
 TRENDS_PATH = PROCESSED_DATA_DIR / "annual_repricing_trends.csv"
-
-BG_COLOR = "#0b0e14"
-CARD_BG = "#161b22"
-TEXT_COLOR = "#ffffff"
-GRID_COLOR = "#30363d"
-NEON_CYAN = "#00f2fe"
-NEON_PINK = "#ff007f"
 
 COHORT_MAP = {
     "GitHub": "Developer Tools", "Linear": "Developer Tools",
@@ -37,8 +40,7 @@ COHORT_MAP = {
     "ConvertKit": "Creative & Marketing",
 }
 
-
-def apply_theme():
+def apply_theme() -> None:
     plt.rcParams.update({
         "figure.facecolor": BG_COLOR,
         "axes.facecolor": CARD_BG,
@@ -67,11 +69,7 @@ def chart1_time_series_index() -> None:
 
     fig, ax = plt.subplots(figsize=(11, 6))
     companies = df_trends["company"].unique()
-    colors = [
-        "#00f2fe", "#ff007f", "#7928ca", "#00e676", "#ff9100",
-        "#ffea00", "#d500f9", "#29b6f6", "#ff5252", "#a7ffeb",
-        "#76ff03", "#e040fb", "#18ffff",
-    ]
+    colors = CHART_COLORS
 
     for idx, company in enumerate(companies):
         c_data = df_trends[df_trends["company"] == company].sort_values(by="year")
