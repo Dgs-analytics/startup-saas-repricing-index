@@ -14,6 +14,10 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Scraped Data & Logs (Keeps Git clean; generated locally by users)
-data/snapshot_manifest.csv
+# Large regeneratable scraped data (run main.py to reproduce locally)
+data/raw_cdx/
+data/raw_html/
+data/raw_snapshots/
+
+# Logs
 *.log

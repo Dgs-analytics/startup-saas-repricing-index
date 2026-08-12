@@ -3,12 +3,20 @@
 import logging
 import sys
 from datetime import datetime
+from pathlib import Path
 
-from src.analyze_metrics import generate_executive_insights
-from src.config import validate_environment
-from src.fetch_snapshots import export_summary_manifest, process_seed_manifest
-from src.parse_snapshots import calculate_repricing_metrics
-from src.visualize import generate_charts
+# Make everything inside src/ importable by simple module name
+# (e.g. `import config` instead of `import src.config`), matching
+# how every file inside src/ imports its own dependencies.
+SRC_DIR = Path(__file__).resolve().parent / "src"
+sys.path.insert(0, str(SRC_DIR))
+
+from analyze_metrics import generate_executive_insights
+from config import validate_environment
+from fetch_snapshots import export_summary_manifest, process_seed_manifest
+from download_snapshots import download_all_html
+from parse_snapshots import calculate_repricing_metrics
+from visualize import generate_index_visuals
 
 logging.basicConfig(
     level=logging.INFO,
@@ -33,14 +41,17 @@ def run_pipeline() -> None:
 
     export_summary_manifest(extracted_records)
 
+    logging.info("Phase 1b/4: Downloading real HTML snapshots for all companies...")
+    download_all_html()
+
     logging.info("Phase 2/4: Calculating historical lifespan and frequency metrics...")
     calculate_repricing_metrics()
 
     logging.info("Phase 3/4: Aggregating executive summary statistics...")
     generate_executive_insights()
 
-    logging.info("Phase 4/4: Generating data visualization artifacts...")
-    generate_charts()
+    logging.info("Phase 4/4: Generating index visualization artifacts...")
+    generate_index_visuals()
 
     elapsed = (datetime.now() - start_time).total_seconds()
     logging.info(f"=== PIPELINE COMPLETED SUCCESSFULLY IN {elapsed:.2f} SECONDS ===")

@@ -1,0 +1,3679 @@
+{
+  "GitHub": {
+    "total_raw_captures": 80376,
+    "unique_content_events": 54,
+    "events": [
+      {
+        "date": "2014-06-05",
+        "timestamp": "20140605102233",
+        "text_hash": "b9325032dc20c8663d4d8591d25ad9c76fba57de52cf6eef7579d3b0ca314170",
+        "snapshot_url": "https://web.archive.org/web/20140605102233/github.com/pricing"
+      },
+      {
+        "date": "2017-02-04",
+        "timestamp": "20170204100605",
+        "text_hash": "a0340a5df094f69f30603f2ea3c9414b99bc2bf67617f9fefadc6ade25df7120",
+        "snapshot_url": "https://web.archive.org/web/20170204100605/www.github.com/pricing"
+      },
+      {
+        "date": "2018-01-23",
+        "timestamp": "20180123125147",
+        "text_hash": "47b22cc0aa37a25b2caeec8498ca9243619896bde8303d0b8a76b619611dd1a4",
+        "snapshot_url": "https://web.archive.org/web/20180123125147/github.com/pricing"
+      },
+      {
+        "date": "2018-05-20",
+        "timestamp": "20180520213157",
+        "text_hash": "2b40eca43f5b31f7de5c88879d5c382f1ba7d8a6de9bccc6bceb05d94a4c40ad",
+        "snapshot_url": "https://web.archive.org/web/20180520213157/www.github.com/pricing"
+      },
+      {
+        "date": "2018-08-22",
+        "timestamp": "20180822235143",
+        "text_hash": "c7c5301c41425fcfd687cc6e2c61183458b684e4903eb67e975052ca39721aee",
+        "snapshot_url": "https://web.archive.org/web/20180822235143/github.com/pricing"
+      },
+      {
+        "date": "2018-10-19",
+        "timestamp": "20181019164453",
+        "text_hash": "4c197b478516000716604cc908524c8a0b98c89a5bdf6061d173016424c37976",
+        "snapshot_url": "https://web.archive.org/web/20181019164453/www.github.com/pricing"
+      },
+      {
+        "date": "2018-11-26",
+        "timestamp": "20181126074444",
+        "text_hash": "5a5b3fffbb31a4c0a72fcb1800599e72cbdcf1362977fb55e64beb9dfe9d1e10",
+        "snapshot_url": "https://web.archive.org/web/20181126074444/www.github.com/pricing"
+      },
+      {
+        "date": "2019-01-01",
+        "timestamp": "20190101082252",
+        "text_hash": "64bef75bda41499d3fb271ce7d41bdc8218ad72226f742572c3db84c9a43c1d9",
+        "snapshot_url": "https://web.archive.org/web/20190101082252/github.com/pricing"
+      },
+      {
+        "date": "2019-01-13",
+        "timestamp": "20190113120444",
+        "text_hash": "fbba54f23acb9e63747448d80db8fd2b2ec280b1e05165e6077dbb710315f912",
+        "snapshot_url": "https://web.archive.org/web/20190113120444/www.github.com/pricing"
+      },
+      {
+        "date": "2019-01-24",
+        "timestamp": "20190124211608",
+        "text_hash": "a5fa3bd7284d5f9ca4f065317051c54018187401a0ac3c46eb46e866235876b8",
+        "snapshot_url": "https://web.archive.org/web/20190124211608/github.com/pricing"
+      },
+      {
+        "date": "2019-02-03",
+        "timestamp": "20190203184520",
+        "text_hash": "6d4a2d3c63d87b1496518a9f1407260051c9edf0e42aa99ff24a3192ffd6763e",
+        "snapshot_url": "https://web.archive.org/web/20190203184520/www.github.com/pricing"
+      },
+      {
+        "date": "2019-02-13",
+        "timestamp": "20190213150744",
+        "text_hash": "3d9cddafe5e2a8ea02f8cdcc8d90caf63e00378b43bebfbf7e2f5bfc74338561",
+        "snapshot_url": "https://web.archive.org/web/20190213150744/github.com/pricing"
+      },
+      {
+        "date": "2019-08-19",
+        "timestamp": "20190819125928",
+        "text_hash": "9f2cd2ef2f5d91f9ce02d432aa253ebb8b0e67ccf80507952883bb6d2c7698e7",
+        "snapshot_url": "https://web.archive.org/web/20190819125928/www.github.com/pricing"
+      },
+      {
+        "date": "2019-08-25",
+        "timestamp": "20190825231600",
+        "text_hash": "20945eb4a2eef1e2bae963b9fa0abfbd0c689a91faf2b8f539b43eac17d05d9a",
+        "snapshot_url": "https://web.archive.org/web/20190825231600/github.com/pricing"
+      },
+      {
+        "date": "2019-11-29",
+        "timestamp": "20191129064550",
+        "text_hash": "f5f0f8bb76cb3ead5a454882a5e58ba05b9a18c10404d5a6e80da6a374ae1d98",
+        "snapshot_url": "https://web.archive.org/web/20191129064550/www.github.com/pricing"
+      },
+      {
+        "date": "2019-12-15",
+        "timestamp": "20191215191209",
+        "text_hash": "d998977457b82595720a5078f6de6f69bc02fba50a0a1863a53d0016b51a0066",
+        "snapshot_url": "https://web.archive.org/web/20191215191209/github.com/pricing"
+      },
+      {
+        "date": "2020-01-02",
+        "timestamp": "20200102023532",
+        "text_hash": "e59adf1826b71a44f8fb26c26434ce8105f7cd5e062a4f36b87408e6ccad4311",
+        "snapshot_url": "https://web.archive.org/web/20200102023532/github.com/pricing"
+      },
+      {
+        "date": "2020-01-07",
+        "timestamp": "20200107003315",
+        "text_hash": "f5398a14ae9be6fbb48ff8a67a990268082e1d7bd505c82fff932c0862c651a0",
+        "snapshot_url": "https://web.archive.org/web/20200107003315/www.github.com/pricing"
+      },
+      {
+        "date": "2020-01-28",
+        "timestamp": "20200128130915",
+        "text_hash": "7576855929fa6599ae4ffa446dbdb47b7194d8026666cc1f1cc1facb6baa9ed5",
+        "snapshot_url": "https://web.archive.org/web/20200128130915/github.com/pricing"
+      },
+      {
+        "date": "2020-01-31",
+        "timestamp": "20200131155058",
+        "text_hash": "490dee999fbe8e2cea700d54ec6335a5e162f68f130e3c92351c070870679d72",
+        "snapshot_url": "https://web.archive.org/web/20200131155058/www.github.com/pricing"
+      },
+      {
+        "date": "2020-05-01",
+        "timestamp": "20200501014311",
+        "text_hash": "55b793e2e7fc665b2dfda573b91f7660a3f075be4c19dfc1c7ee545640613e6d",
+        "snapshot_url": "https://web.archive.org/web/20200501014311/www.github.com/pricing"
+      },
+      {
+        "date": "2020-05-25",
+        "timestamp": "20200525215203",
+        "text_hash": "96d6c1435ac94aedc91e464fd6c15e49a98d9b11e317f1e3e5c0706d5c716e42",
+        "snapshot_url": "https://web.archive.org/web/20200525215203/github.com/pricing"
+      },
+      {
+        "date": "2020-06-07",
+        "timestamp": "20200607212745",
+        "text_hash": "f02bc5f08a57431be459bb9061fa20e34902b3807dcf9dce30c71152663586bd",
+        "snapshot_url": "https://web.archive.org/web/20200607212745/www.github.com/pricing"
+      },
+      {
+        "date": "2020-06-20",
+        "timestamp": "20200620230810",
+        "text_hash": "7786babfd9bad0ef07950c6c7a74b52feebe542c2406cac7be26b51355c40f3b",
+        "snapshot_url": "https://web.archive.org/web/20200620230810/github.com/pricing"
+      },
+      {
+        "date": "2020-08-04",
+        "timestamp": "20200804232206",
+        "text_hash": "0b57db7b0f3492b8cc65c36c766bce4ac972cffff52db2206c75b173cf9fe9d1",
+        "snapshot_url": "https://web.archive.org/web/20200804232206/github.com/pricing"
+      },
+      {
+        "date": "2020-08-17",
+        "timestamp": "20200817110219",
+        "text_hash": "f0606de816f14d5240559acbf9595ba80fccf791826675b03169fdf033fd283a",
+        "snapshot_url": "https://web.archive.org/web/20200817110219/www.github.com/pricing"
+      },
+      {
+        "date": "2020-09-13",
+        "timestamp": "20200913194340",
+        "text_hash": "6bb489183676a85252a37f69c61e93c6ecf518a663fbeef863da8da0278b37e3",
+        "snapshot_url": "https://web.archive.org/web/20200913194340/www.github.com/pricing"
+      },
+      {
+        "date": "2020-10-11",
+        "timestamp": "20201011191839",
+        "text_hash": "aef54985daab3c56753681ff6f7e34e37e863702d7e9bb26a6b44ac7da3e98ee",
+        "snapshot_url": "https://web.archive.org/web/20201011191839/www.github.com/pricing"
+      },
+      {
+        "date": "2020-11-02",
+        "timestamp": "20201102100326",
+        "text_hash": "db97ff17a2c18938934f2c590defa62d8a3d37376fb3abfbc63488560dd6466b",
+        "snapshot_url": "https://web.archive.org/web/20201102100326/github.com/pricing"
+      },
+      {
+        "date": "2020-11-25",
+        "timestamp": "20201125153054",
+        "text_hash": "aef54985daab3c56753681ff6f7e34e37e863702d7e9bb26a6b44ac7da3e98ee",
+        "snapshot_url": "https://web.archive.org/web/20201125153054/www.github.com/pricing"
+      },
+      {
+        "date": "2020-12-17",
+        "timestamp": "20201217060205",
+        "text_hash": "6bb489183676a85252a37f69c61e93c6ecf518a663fbeef863da8da0278b37e3",
+        "snapshot_url": "https://web.archive.org/web/20201217060205/github.com/pricing"
+      },
+      {
+        "date": "2021-01-08",
+        "timestamp": "20210108171138",
+        "text_hash": "ffae4fe9b9e99c61f2e981b813771756837c63c2d4995b15bb85727f14984752",
+        "snapshot_url": "https://web.archive.org/web/20210108171138/www.github.com/pricing"
+      },
+      {
+        "date": "2021-01-31",
+        "timestamp": "20210131141442",
+        "text_hash": "6743b1e89c5b760f3c8e9e8f7cfba06f0c895550f9fcb61336b5c63ece3a8421",
+        "snapshot_url": "https://web.archive.org/web/20210131141442/github.com/pricing"
+      },
+      {
+        "date": "2021-02-23",
+        "timestamp": "20210223103915",
+        "text_hash": "3baee2b5c118a4a2ac9cad6af6bf51d810115d593bb0351dca3890f7e9442b76",
+        "snapshot_url": "https://web.archive.org/web/20210223103915/www.github.com/pricing"
+      },
+      {
+        "date": "2022-05-20",
+        "timestamp": "20220520142352",
+        "text_hash": "8010c4d11752cbd58790bc1ccdcd8ca140feca654fc4c614fb51e83e1b5cdc23",
+        "snapshot_url": "https://web.archive.org/web/20220520142352/github.com/pricing"
+      },
+      {
+        "date": "2022-06-10",
+        "timestamp": "20220610090508",
+        "text_hash": "7f180c80ab8f059ac791cc3390d12d81f5e7b4d7443ec9969b6a594d495a5705",
+        "snapshot_url": "https://web.archive.org/web/20220610090508/www.github.com/pricing"
+      },
+      {
+        "date": "2023-01-28",
+        "timestamp": "20230128024241",
+        "text_hash": "ec726b91fd140365b96a3ae13fc620babed98cada74fd3ecc0462b5290f7bb75",
+        "snapshot_url": "https://web.archive.org/web/20230128024241/github.com/pricing"
+      },
+      {
+        "date": "2023-04-16",
+        "timestamp": "20230416022813",
+        "text_hash": "ec19b0b3e3531cf06ad8a0b98bf534f6a3b54eccfd7928deb0393301bab1cf55",
+        "snapshot_url": "https://web.archive.org/web/20230416022813/github.com/pricing"
+      },
+      {
+        "date": "2023-05-04",
+        "timestamp": "20230504163045",
+        "text_hash": "3f21343952b9487a3a3fbf37abbad0baecc4f0391edb7b13821ae6670177decc",
+        "snapshot_url": "https://web.archive.org/web/20230504163045/www.github.com/pricing"
+      },
+      {
+        "date": "2023-06-14",
+        "timestamp": "20230614010148",
+        "text_hash": "1fa2310429211ccb05aa5ac999ee67fdf3f2f322bb1be75f7eab378b2812b4cb",
+        "snapshot_url": "https://web.archive.org/web/20230614010148/www.github.com/pricing"
+      },
+      {
+        "date": "2023-07-06",
+        "timestamp": "20230706084103",
+        "text_hash": "ea97743d5f6b5c7fe094d165f17ef36d24947098cc9367ea0ee0d8841a7830a5",
+        "snapshot_url": "https://web.archive.org/web/20230706084103/github.com/pricing"
+      },
+      {
+        "date": "2023-07-27",
+        "timestamp": "20230727020456",
+        "text_hash": "8d22672324f7f5662d2713bfb0f68dcac91ddd428c238d43a1f045aa1606f4ba",
+        "snapshot_url": "https://web.archive.org/web/20230727020456/www.github.com/pricing"
+      },
+      {
+        "date": "2023-09-10",
+        "timestamp": "20230910183217",
+        "text_hash": "a462f8a9e766970a2dc9e49c72011234a4e432ebf7815b115f67918626d56c27",
+        "snapshot_url": "https://web.archive.org/web/20230910183217/www.github.com/pricing"
+      },
+      {
+        "date": "2023-10-06",
+        "timestamp": "20231006042506",
+        "text_hash": "f742639a8aeb83672258fe0db94b11fdac3995f6d3a0115768996db0f5378a9d",
+        "snapshot_url": "https://web.archive.org/web/20231006042506/github.com/pricing"
+      },
+      {
+        "date": "2023-11-27",
+        "timestamp": "20231127120228",
+        "text_hash": "2c1f4d6219f8cea311bc5daf2ca6a120a52af5e0f9a6c32f768f4ccb12a86d6e",
+        "snapshot_url": "https://web.archive.org/web/20231127120228/github.com/pricing"
+      },
+      {
+        "date": "2023-12-23",
+        "timestamp": "20231223130311",
+        "text_hash": "38609821b85bfde164540c4e664d18e0e989652cf1f1cf4c9a86bd66831ea07c",
+        "snapshot_url": "https://web.archive.org/web/20231223130311/www.github.com/pricing"
+      },
+      {
+        "date": "2024-01-23",
+        "timestamp": "20240123160007",
+        "text_hash": "7003bbc1567d3c88695e063b87ba1ebc4877ce03423f7ad1c27f50763ffb73b7",
+        "snapshot_url": "https://web.archive.org/web/20240123160007/github.com/pricing"
+      },
+      {
+        "date": "2024-03-28",
+        "timestamp": "20240328002108",
+        "text_hash": "ebcb47c824d3be1ccbc40cb212470e0a353fd375e634e477844fd8ca6fd1d278",
+        "snapshot_url": "https://web.archive.org/web/20240328002108/github.com/pricing"
+      },
+      {
+        "date": "2024-04-29",
+        "timestamp": "20240429003004",
+        "text_hash": "160160afa5191829d15690534627fe35aab35f9c3411d8a9984d4e685e4b07f4",
+        "snapshot_url": "https://web.archive.org/web/20240429003004/www.github.com/pricing"
+      },
+      {
+        "date": "2024-05-30",
+        "timestamp": "20240530092627",
+        "text_hash": "d8b0490f8cd3f79245c6dc381ad356dacf34f25e80bc3cf337a5fe817ed364c0",
+        "snapshot_url": "https://web.archive.org/web/20240530092627/github.com/pricing"
+      },
+      {
+        "date": "2024-06-30",
+        "timestamp": "20240630192134",
+        "text_hash": "62595b65fb19865b2558d15e4ba55e770bb3d1accc738e62b3a6103d222573b9",
+        "snapshot_url": "https://web.archive.org/web/20240630192134/www.github.com/pricing"
+      },
+      {
+        "date": "2024-08-02",
+        "timestamp": "20240802164525",
+        "text_hash": "c3a4471e8f3d70b8784575bba82d1fa3722f8107ee1fa437ba70a2ec9fbed4ef",
+        "snapshot_url": "https://web.archive.org/web/20240802164525/github.com/pricing"
+      },
+      {
+        "date": "2026-05-18",
+        "timestamp": "20260518190906",
+        "text_hash": "5c8f8fc23ee11ec014bac892f8f6c6215576951ef0ecfec3569c8dc9f115a620",
+        "snapshot_url": "https://web.archive.org/web/20260518190906/github.com/pricing"
+      },
+      {
+        "date": "2026-06-26",
+        "timestamp": "20260626144726",
+        "text_hash": "5eb869a93d8db5c1f926042165a78b3b69f0602a5055df84bb6b7ebaf42c7ee9",
+        "snapshot_url": "https://web.archive.org/web/20260626144726/github.com/pricing"
+      }
+    ]
+  },
+  "Linear": {
+    "total_raw_captures": 175,
+    "unique_content_events": 36,
+    "events": [
+      {
+        "date": "2020-07-01",
+        "timestamp": "20200701053740",
+        "text_hash": "7232b2278ab9df536b485e6f59f6d380b3b177881b2b0397d346aff8eb634992",
+        "snapshot_url": "https://web.archive.org/web/20200701053740/www.linear.app/pricing"
+      },
+      {
+        "date": "2020-08-05",
+        "timestamp": "20200805212922",
+        "text_hash": "6fd5de7e322d81b304db4a2a4c7f077ca2f9938cee2cfdbfab0e4e80fdd9f63c",
+        "snapshot_url": "https://web.archive.org/web/20200805212922/www.linear.app/pricing"
+      },
+      {
+        "date": "2020-12-03",
+        "timestamp": "20201203220652",
+        "text_hash": "f2624ad56f85be62eb7f426dd4df48a0508016238d9535ecf09975851a8fd802",
+        "snapshot_url": "https://web.archive.org/web/20201203220652/www.linear.app/pricing"
+      },
+      {
+        "date": "2020-12-09",
+        "timestamp": "20201209060656",
+        "text_hash": "129ba4b5a4781c0223b9ecbe8d5043ad8bf7a93453ec9f05a8fd6cbbf87d15b5",
+        "snapshot_url": "https://web.archive.org/web/20201209060656/www.linear.app/pricing"
+      },
+      {
+        "date": "2021-01-21",
+        "timestamp": "20210121163508",
+        "text_hash": "df2d4207a469e3b56e24377b14c5b1988b08ce50dcc157cb281886e6a67b2478",
+        "snapshot_url": "https://web.archive.org/web/20210121163508/www.linear.app/pricing"
+      },
+      {
+        "date": "2021-02-25",
+        "timestamp": "20210225124321",
+        "text_hash": "951a34a467d18bf42ff21084512e0f01715323a882035ca3e022baf54bce202d",
+        "snapshot_url": "https://web.archive.org/web/20210225124321/www.linear.app/pricing"
+      },
+      {
+        "date": "2021-04-12",
+        "timestamp": "20210412144747",
+        "text_hash": "37797a2dfcb46151b8c7c810a014bcd24f343e21ad2ae2f07200d4fc41628f48",
+        "snapshot_url": "https://web.archive.org/web/20210412144747/www.linear.app/pricing"
+      },
+      {
+        "date": "2021-09-27",
+        "timestamp": "20210927215039",
+        "text_hash": "1995f6b31ce2da98976341e5b6db49f6e06db8f2a228e9ef074e23a54d5a3f03",
+        "snapshot_url": "https://web.archive.org/web/20210927215039/www.linear.app/pricing"
+      },
+      {
+        "date": "2022-01-29",
+        "timestamp": "20220129033140",
+        "text_hash": "179bb1b56784041713640ac4ec313ecc1234c9b3bedcf36909798ccbc9c17dab",
+        "snapshot_url": "https://web.archive.org/web/20220129033140/www.linear.app/pricing"
+      },
+      {
+        "date": "2023-04-27",
+        "timestamp": "20230427202532",
+        "text_hash": "0d1bab89d60b02a755ff1756bbe935ec1efedb899256e9080407a7bf2abbb634",
+        "snapshot_url": "https://web.archive.org/web/20230427202532/www.linear.app/pricing"
+      },
+      {
+        "date": "2023-06-21",
+        "timestamp": "20230621193256",
+        "text_hash": "dc3f6ab7fe07208ab954e4b32f178b0dbd6e0c6e07442d11a17479792eb78f7c",
+        "snapshot_url": "https://web.archive.org/web/20230621193256/www.linear.app/pricing"
+      },
+      {
+        "date": "2023-08-18",
+        "timestamp": "20230818072256",
+        "text_hash": "1f249ce4f0b50124765cec15b2d52e7bb6996b354d779ad54af56288ea66d066",
+        "snapshot_url": "https://web.archive.org/web/20230818072256/www.linear.app/pricing"
+      },
+      {
+        "date": "2023-12-06",
+        "timestamp": "20231206064600",
+        "text_hash": "318f3c7faa68b972c84f487b15ec59ab7caf5fbbe27a78d6a4882533ee9effc3",
+        "snapshot_url": "https://web.archive.org/web/20231206064600/www.linear.app/pricing"
+      },
+      {
+        "date": "2023-12-28",
+        "timestamp": "20231228163640",
+        "text_hash": "9556ab57129ccd2c0cb406d8f557e7dd963b7cb149217bf327af1dbbe387bd5c",
+        "snapshot_url": "https://web.archive.org/web/20231228163640/www.linear.app/pricing"
+      },
+      {
+        "date": "2024-01-28",
+        "timestamp": "20240128004838",
+        "text_hash": "b2bd9dc0da568790446401a731da57ac54faf880c89d33d33e9bc5b1ff09733e",
+        "snapshot_url": "https://web.archive.org/web/20240128004838/www.linear.app/pricing"
+      },
+      {
+        "date": "2024-03-08",
+        "timestamp": "20240308205951",
+        "text_hash": "5a77e848d5c55addbfee8c6e4ef90f509baa9e0151a5a9489c15bd33046c7a19",
+        "snapshot_url": "https://web.archive.org/web/20240308205951/www.linear.app/pricing"
+      },
+      {
+        "date": "2024-05-16",
+        "timestamp": "20240516194329",
+        "text_hash": "7d4ab8e41581f121df2b537061c101741538f0ec6e81573c9313e6aaef0faedf",
+        "snapshot_url": "https://web.archive.org/web/20240516194329/www.linear.app/pricing"
+      },
+      {
+        "date": "2024-06-10",
+        "timestamp": "20240610215230",
+        "text_hash": "13f3560a35b88fb93d5d4b22a39eb41327f7f45763833f6e9c1bd6f5cb7af257",
+        "snapshot_url": "https://web.archive.org/web/20240610215230/www.linear.app/pricing"
+      },
+      {
+        "date": "2024-09-20",
+        "timestamp": "20240920152700",
+        "text_hash": "f197b2d3a8a93ef2729862906bb255b7826836c3482ad7ac481d2952782ef10c",
+        "snapshot_url": "https://web.archive.org/web/20240920152700/www.linear.app/pricing"
+      },
+      {
+        "date": "2025-03-26",
+        "timestamp": "20250326200010",
+        "text_hash": "9ad3a5bfb388b956be083d3e9a38012343c3f4946623da15da9a8a01454bff5d",
+        "snapshot_url": "https://web.archive.org/web/20250326200010/www.linear.app/pricing"
+      },
+      {
+        "date": "2025-04-08",
+        "timestamp": "20250408181041",
+        "text_hash": "22571441917d48563a4a19f0f9c22613b7cc073303640dd11e25da990b177281",
+        "snapshot_url": "https://web.archive.org/web/20250408181041/www.linear.app/pricing"
+      },
+      {
+        "date": "2025-05-10",
+        "timestamp": "20250510193638",
+        "text_hash": "732fb9eeecfcd18ef7c9c2ff1a670400ed72ba1617245b74314d5809ddad59e9",
+        "snapshot_url": "https://web.archive.org/web/20250510193638/www.linear.app/pricing"
+      },
+      {
+        "date": "2025-07-13",
+        "timestamp": "20250713101933",
+        "text_hash": "e63257aa52a89184c5441915a612ee9cb852f790c199477bb3f3e6e689875789",
+        "snapshot_url": "https://web.archive.org/web/20250713101933/www.linear.app/pricing"
+      },
+      {
+        "date": "2025-07-28",
+        "timestamp": "20250728074509",
+        "text_hash": "60e5de37a81a799bc4c07144f55982dc56a89019cff09caa13bfe3dd8ba77718",
+        "snapshot_url": "https://web.archive.org/web/20250728074509/www.linear.app/pricing"
+      },
+      {
+        "date": "2025-07-30",
+        "timestamp": "20250730112655",
+        "text_hash": "57b800ab070c0b4387c01cb3d3601d5b03b2db7ef0a8dde180c554b305aecfd0",
+        "snapshot_url": "https://web.archive.org/web/20250730112655/www.linear.app/pricing"
+      },
+      {
+        "date": "2025-09-10",
+        "timestamp": "20250910183016",
+        "text_hash": "cfbf87458fc91e7b881c37e6dfb617a63881925255df4665133e129e0ec59302",
+        "snapshot_url": "https://web.archive.org/web/20250910183016/www.linear.app/pricing"
+      },
+      {
+        "date": "2025-12-02",
+        "timestamp": "20251202082911",
+        "text_hash": "b52fff68953a336a0c14b0b3a9246636681a323de42018ed4254f8aae38891be",
+        "snapshot_url": "https://web.archive.org/web/20251202082911/www.linear.app/pricing"
+      },
+      {
+        "date": "2026-04-28",
+        "timestamp": "20260428124543",
+        "text_hash": "1e67f00c6c3a65cf506d9603bc0d1aed7ce2d31cafb4d1badeac252dc2e487a8",
+        "snapshot_url": "https://web.archive.org/web/20260428124543/www.linear.app/pricing"
+      },
+      {
+        "date": "2026-05-17",
+        "timestamp": "20260517074651",
+        "text_hash": "c0033c2dba1552552650145e5338604f4248ffaf5b83d32131812198c27dc252",
+        "snapshot_url": "https://web.archive.org/web/20260517074651/www.linear.app/pricing"
+      },
+      {
+        "date": "2026-05-22",
+        "timestamp": "20260522231814",
+        "text_hash": "bfd480202e6186ac5d820ad2f17289c567a9484064fc9bb8927923120d7c5799",
+        "snapshot_url": "https://web.archive.org/web/20260522231814/www.linear.app/pricing"
+      },
+      {
+        "date": "2026-05-28",
+        "timestamp": "20260528165418",
+        "text_hash": "99295afd1cb994d54158b8ce18de8ba0bb6be16d0bd56b12ae3e700098aea20f",
+        "snapshot_url": "https://web.archive.org/web/20260528165418/www.linear.app/pricing"
+      },
+      {
+        "date": "2026-06-04",
+        "timestamp": "20260604225005",
+        "text_hash": "766c0f7feb813b75f196db62cb636dfc857aa40790dba13ba99010d9985cad31",
+        "snapshot_url": "https://web.archive.org/web/20260604225005/www.linear.app/pricing"
+      },
+      {
+        "date": "2026-07-01",
+        "timestamp": "20260701010606",
+        "text_hash": "52d81ec2d42d69ab80af69fe1d1885e2045bbcec8be677908ba9243fb2147ef2",
+        "snapshot_url": "https://web.archive.org/web/20260701010606/www.linear.app/pricing"
+      },
+      {
+        "date": "2026-07-22",
+        "timestamp": "20260722115033",
+        "text_hash": "1bb15629e4a368a46df8adb953e1379cd7800f1d6b600438581ff513a99b761e",
+        "snapshot_url": "https://web.archive.org/web/20260722115033/www.linear.app/pricing"
+      },
+      {
+        "date": "2026-07-31",
+        "timestamp": "20260731192118",
+        "text_hash": "a5dfe174884021b1ccb121ac29398208dcd3ed244cfcf9cb36b7d3f6d337d212",
+        "snapshot_url": "https://web.archive.org/web/20260731192118/www.linear.app/pricing"
+      },
+      {
+        "date": "2026-08-03",
+        "timestamp": "20260803130245",
+        "text_hash": "ecfdfee8b2f74057190a5046abcee44e70432bbfd7545cc28fb59b8d0ad1fdfd",
+        "snapshot_url": "https://web.archive.org/web/20260803130245/www.linear.app/pricing"
+      }
+    ]
+  },
+  "Vercel": {
+    "total_raw_captures": 986,
+    "unique_content_events": 68,
+    "events": [
+      {
+        "date": "2020-04-22",
+        "timestamp": "20200422121817",
+        "text_hash": "a39983069c43f78ed1c830cfc8aadca75fd06b6db56749d70e1b9914c2c0f2d8",
+        "snapshot_url": "https://web.archive.org/web/20200422121817/vercel.com/pricing"
+      },
+      {
+        "date": "2020-04-30",
+        "timestamp": "20200430023526",
+        "text_hash": "8d9a1b6a0ea63419b98e6d038f5eba49b89a187976126ef0ebb1dd3355f10fb6",
+        "snapshot_url": "https://web.archive.org/web/20200430023526/vercel.com/pricing"
+      },
+      {
+        "date": "2020-06-04",
+        "timestamp": "20200604142458",
+        "text_hash": "5a4d75ea91c98c6208fc8569fc5934f3870075bdc31c1c6ff8cf2285172142d4",
+        "snapshot_url": "https://web.archive.org/web/20200604142458/vercel.com/pricing"
+      },
+      {
+        "date": "2020-06-12",
+        "timestamp": "20200612125719",
+        "text_hash": "4efb92cf0d5d445fcc14e96fae86899c54822d2bba5c57a43165eacf5736bd9c",
+        "snapshot_url": "https://web.archive.org/web/20200612125719/vercel.com/pricing"
+      },
+      {
+        "date": "2020-06-25",
+        "timestamp": "20200625101127",
+        "text_hash": "1ba3a0834335b0de289a066391229b66529fb88221f277b56677037bf3fe80bc",
+        "snapshot_url": "https://web.archive.org/web/20200625101127/vercel.com/pricing"
+      },
+      {
+        "date": "2020-10-21",
+        "timestamp": "20201021151353",
+        "text_hash": "7937afd61c7671a88b716c74ffc54fccc61dd95570689805efc8587e5a4b3e89",
+        "snapshot_url": "https://web.archive.org/web/20201021151353/vercel.com/pricing"
+      },
+      {
+        "date": "2021-03-04",
+        "timestamp": "20210304153817",
+        "text_hash": "e181996dcbf0878ce37648fde1b6ebdd93dfb9811178a5b4caacc86c9548573a",
+        "snapshot_url": "https://web.archive.org/web/20210304153817/vercel.com/pricing"
+      },
+      {
+        "date": "2022-04-10",
+        "timestamp": "20220410102653",
+        "text_hash": "497d4199b84ac5d2a57f56156dcd4af255b3ae8f78b90d4b15da431e43dc65db",
+        "snapshot_url": "https://web.archive.org/web/20220410102653/vercel.com/pricing"
+      },
+      {
+        "date": "2022-07-09",
+        "timestamp": "20220709135332",
+        "text_hash": "fd284ec15a3725cec1cf693def56a31ec1de7e2757867c0e9d8239e2486ac799",
+        "snapshot_url": "https://web.archive.org/web/20220709135332/vercel.com/pricing"
+      },
+      {
+        "date": "2022-08-05",
+        "timestamp": "20220805043006",
+        "text_hash": "aff2921dce5f0e947e2a17b8e0c35bc663a377c1dd634c6fe0eaa7663dcbd7a2",
+        "snapshot_url": "https://web.archive.org/web/20220805043006/vercel.com/pricing"
+      },
+      {
+        "date": "2022-09-12",
+        "timestamp": "20220912201931",
+        "text_hash": "0cefcca9fcc8f862dfaadfbe7c14f44962bb09a5c20f3a7b120cad0e98462595",
+        "snapshot_url": "https://web.archive.org/web/20220912201931/vercel.com/pricing"
+      },
+      {
+        "date": "2022-10-22",
+        "timestamp": "20221022153314",
+        "text_hash": "034088a8e924bc8126513bec7f9eb6a803d207df50aa9bfe3fbdf60bb246d044",
+        "snapshot_url": "https://web.archive.org/web/20221022153314/vercel.com/pricing"
+      },
+      {
+        "date": "2022-10-26",
+        "timestamp": "20221026205214",
+        "text_hash": "ecfbe4f25397e2aae52ab703136a5dc5c1ccedfc1e331db094de9a554de36c61",
+        "snapshot_url": "https://web.archive.org/web/20221026205214/vercel.com/pricing"
+      },
+      {
+        "date": "2022-11-18",
+        "timestamp": "20221118113705",
+        "text_hash": "9cdc7f2ec43e26b1f77a12a30b97a707a62d60658ebe0afb2e01daeb7e5c93ae",
+        "snapshot_url": "https://web.archive.org/web/20221118113705/vercel.com/pricing"
+      },
+      {
+        "date": "2022-11-29",
+        "timestamp": "20221129184644",
+        "text_hash": "88397bd083220e5b0b0c6f6230cb9d7f8eb8c6eb4f75029d75d4699642f3730a",
+        "snapshot_url": "https://web.archive.org/web/20221129184644/vercel.com/pricing"
+      },
+      {
+        "date": "2022-12-15",
+        "timestamp": "20221215150611",
+        "text_hash": "e9607c91317e60cd2204d05ed77e4076e0c1c8d8c4f0ddc2620d3bc29af57a3a",
+        "snapshot_url": "https://web.archive.org/web/20221215150611/vercel.com/pricing"
+      },
+      {
+        "date": "2022-12-29",
+        "timestamp": "20221229213627",
+        "text_hash": "7af1835fd0ea4879e8505bc484b813e7f3d7bd31da80dc4f672930a1625d30ed",
+        "snapshot_url": "https://web.archive.org/web/20221229213627/vercel.com/pricing"
+      },
+      {
+        "date": "2023-01-09",
+        "timestamp": "20230109023357",
+        "text_hash": "6f4f2480f660d46b51286c8c6a13d1a9a90d060aa8bf51b0f8193d802c45fca5",
+        "snapshot_url": "https://web.archive.org/web/20230109023357/vercel.com/pricing"
+      },
+      {
+        "date": "2023-01-25",
+        "timestamp": "20230125171005",
+        "text_hash": "e407375438998bc0c3b13deb741d47299d07b449971928512a659d49b1daebdb",
+        "snapshot_url": "https://web.archive.org/web/20230125171005/vercel.com/pricing"
+      },
+      {
+        "date": "2023-02-09",
+        "timestamp": "20230209225924",
+        "text_hash": "465efb9f2b4b43d8c5956e9d0f366b76060fa4acc68966cdede31e39867842cf",
+        "snapshot_url": "https://web.archive.org/web/20230209225924/vercel.com/pricing"
+      },
+      {
+        "date": "2023-02-25",
+        "timestamp": "20230225153219",
+        "text_hash": "79fd41dca88194ec60226dd4f9940417f25a8d30594c6a43c131d1be78991b6d",
+        "snapshot_url": "https://web.archive.org/web/20230225153219/vercel.com/pricing"
+      },
+      {
+        "date": "2023-03-05",
+        "timestamp": "20230305230842",
+        "text_hash": "170547dac0ee56c82ae045026bb3eef0cea91fb84fe8668870dd376be237f72b",
+        "snapshot_url": "https://web.archive.org/web/20230305230842/vercel.com/pricing"
+      },
+      {
+        "date": "2023-03-08",
+        "timestamp": "20230308152158",
+        "text_hash": "5e0881ea64d7dd4b17b582ea378bd26365e5abd65f33e53d4f762d7221b85cef",
+        "snapshot_url": "https://web.archive.org/web/20230308152158/vercel.com/pricing"
+      },
+      {
+        "date": "2023-05-10",
+        "timestamp": "20230510051750",
+        "text_hash": "2335bbc9073d19829fd2f430b3516fd82800b8480eb92dd709a42c84d8059f6e",
+        "snapshot_url": "https://web.archive.org/web/20230510051750/vercel.com/pricing"
+      },
+      {
+        "date": "2023-12-06",
+        "timestamp": "20231206133940",
+        "text_hash": "68888f0c5261de5125cc2d986bbf036850e7a85c4aa3dfcf0efde92ff51e2309",
+        "snapshot_url": "https://web.archive.org/web/20231206133940/vercel.com/pricing"
+      },
+      {
+        "date": "2023-12-23",
+        "timestamp": "20231223020837",
+        "text_hash": "8ac733c6d8ae1a88a89a4dbeab3c78b3b1ef3bede14fa2fadc67b3b034225aeb",
+        "snapshot_url": "https://web.archive.org/web/20231223020837/vercel.com/pricing"
+      },
+      {
+        "date": "2024-01-02",
+        "timestamp": "20240102222518",
+        "text_hash": "09a526ce42fb33509e4e03762ff19a21075bda52fc00ebec8ee8c7a6143c8e66",
+        "snapshot_url": "https://web.archive.org/web/20240102222518/vercel.com/pricing"
+      },
+      {
+        "date": "2024-01-15",
+        "timestamp": "20240115074002",
+        "text_hash": "6db5be3aa81c8f12de05e9a5939672ef0fa6a08d0c35751feaee5e92a1a5da25",
+        "snapshot_url": "https://web.archive.org/web/20240115074002/vercel.com/pricing"
+      },
+      {
+        "date": "2024-01-18",
+        "timestamp": "20240118022206",
+        "text_hash": "000b1b005c77fe369c2e083c7d93ae45c86c43a01bc2249c644a891f549bb7c5",
+        "snapshot_url": "https://web.archive.org/web/20240118022206/vercel.com/pricing"
+      },
+      {
+        "date": "2024-02-26",
+        "timestamp": "20240226191407",
+        "text_hash": "a3c386927ac9474bdedb68c6ce3a423f761bd7e508e8fbefc5a6ce5f5cbaca21",
+        "snapshot_url": "https://web.archive.org/web/20240226191407/vercel.com/pricing"
+      },
+      {
+        "date": "2024-03-03",
+        "timestamp": "20240303044717",
+        "text_hash": "3fcd4059df1feca3e51bc93605760979b5b9902993b0ec284ddb6eccf2517cb2",
+        "snapshot_url": "https://web.archive.org/web/20240303044717/vercel.com/pricing"
+      },
+      {
+        "date": "2024-03-29",
+        "timestamp": "20240329054245",
+        "text_hash": "4cf304a26816ebc948f900b75befdac453116f6502b0a0f5cd37b6a04749c3c0",
+        "snapshot_url": "https://web.archive.org/web/20240329054245/vercel.com/pricing"
+      },
+      {
+        "date": "2024-04-11",
+        "timestamp": "20240411200738",
+        "text_hash": "5138c5909abe1926bdd52a597cee5fd1bb7ae6f9fd33551392b409691c6ff3ee",
+        "snapshot_url": "https://web.archive.org/web/20240411200738/vercel.com/pricing"
+      },
+      {
+        "date": "2024-04-21",
+        "timestamp": "20240421204049",
+        "text_hash": "4c7e7af5c2544fc2627bf7bae5a3aa6338b89cb4b5151f5c60f015a500f06c14",
+        "snapshot_url": "https://web.archive.org/web/20240421204049/vercel.com/pricing"
+      },
+      {
+        "date": "2024-06-19",
+        "timestamp": "20240619160134",
+        "text_hash": "22f78a6331946705aa4b8687497dae353b5f2e5e0d3f7d846458823f2d4a2aee",
+        "snapshot_url": "https://web.archive.org/web/20240619160134/vercel.com/pricing"
+      },
+      {
+        "date": "2024-06-25",
+        "timestamp": "20240625000934",
+        "text_hash": "83c2d18f168bfeb460fc3f258694bfaec520578907b9d05400f8dade93750dd5",
+        "snapshot_url": "https://web.archive.org/web/20240625000934/vercel.com/pricing"
+      },
+      {
+        "date": "2024-12-21",
+        "timestamp": "20241221192525",
+        "text_hash": "35b44a146587420fbef614c4e4d11866d9eab9cd81edbcd4b590f5c24c9b0c93",
+        "snapshot_url": "https://web.archive.org/web/20241221192525/vercel.com/pricing"
+      },
+      {
+        "date": "2025-01-12",
+        "timestamp": "20250112161812",
+        "text_hash": "e8a20e375d06ebece0b4732bf09fe27016b40f826705411161440875df78db90",
+        "snapshot_url": "https://web.archive.org/web/20250112161812/vercel.com/pricing"
+      },
+      {
+        "date": "2025-01-17",
+        "timestamp": "20250117090324",
+        "text_hash": "f5559b4e5b0b2d9f79a0c7477d0da540ebf0d7005d1b862a8994103b148e5afa",
+        "snapshot_url": "https://web.archive.org/web/20250117090324/vercel.com/pricing"
+      },
+      {
+        "date": "2025-02-01",
+        "timestamp": "20250201131831",
+        "text_hash": "6622d9da23f188809ce171069b79850e4a688ddc386403a6029c147db2fb817c",
+        "snapshot_url": "https://web.archive.org/web/20250201131831/vercel.com/pricing"
+      },
+      {
+        "date": "2025-02-04",
+        "timestamp": "20250204165842",
+        "text_hash": "100f8a64eb1f80bf750dae37254b40da5a0a0d196b34124c89d9c462faa033fa",
+        "snapshot_url": "https://web.archive.org/web/20250204165842/vercel.com/pricing"
+      },
+      {
+        "date": "2025-02-08",
+        "timestamp": "20250208072229",
+        "text_hash": "ac6cbe6a6ad68c3c0f7c1aab951676a7108f3a7e2cf8fb2495e2224022ab5b93",
+        "snapshot_url": "https://web.archive.org/web/20250208072229/vercel.com/pricing"
+      },
+      {
+        "date": "2025-02-12",
+        "timestamp": "20250212170730",
+        "text_hash": "a6b35e7bef51e873a24962f5cf5035e27c84b5c219f8aaa0c46672b8072c1855",
+        "snapshot_url": "https://web.archive.org/web/20250212170730/vercel.com/pricing"
+      },
+      {
+        "date": "2025-02-14",
+        "timestamp": "20250214134053",
+        "text_hash": "059a27e4c13982deaa29cca5fa50452fc93a1d953fd6b30d55c8cd1b5dc663c6",
+        "snapshot_url": "https://web.archive.org/web/20250214134053/vercel.com/pricing"
+      },
+      {
+        "date": "2025-02-27",
+        "timestamp": "20250227033904",
+        "text_hash": "c50c7c84769278e07c201a92848c3233e678821cd104d89739372f7c9310abb3",
+        "snapshot_url": "https://web.archive.org/web/20250227033904/vercel.com/pricing"
+      },
+      {
+        "date": "2025-03-03",
+        "timestamp": "20250303142728",
+        "text_hash": "e298bf22449cff259c077cee091e2c93d56f243f1bfd5bcd7b8b3defaebfbe17",
+        "snapshot_url": "https://web.archive.org/web/20250303142728/vercel.com/pricing"
+      },
+      {
+        "date": "2025-03-15",
+        "timestamp": "20250315084045",
+        "text_hash": "a4b58745534c2b137fb3badf2199f60a681f21dedde72274bad20f48f48f6569",
+        "snapshot_url": "https://web.archive.org/web/20250315084045/vercel.com/pricing"
+      },
+      {
+        "date": "2025-03-20",
+        "timestamp": "20250320072956",
+        "text_hash": "13eb10d4bb44d73ef933674cb8f9e71b9c35ec0a672e5e0fc5019bbd902331a2",
+        "snapshot_url": "https://web.archive.org/web/20250320072956/vercel.com/pricing"
+      },
+      {
+        "date": "2025-03-21",
+        "timestamp": "20250321085947",
+        "text_hash": "5a4c09673a8260afd97e87aea805ba0201d4689470b759348b765ce0f7dacfb8",
+        "snapshot_url": "https://web.archive.org/web/20250321085947/vercel.com/pricing"
+      },
+      {
+        "date": "2025-04-22",
+        "timestamp": "20250422012530",
+        "text_hash": "25e0526476355ba3474e3a2c62b3c6e57926087aaaeec65597c3eb2c51e9838e",
+        "snapshot_url": "https://web.archive.org/web/20250422012530/vercel.com/pricing"
+      },
+      {
+        "date": "2025-05-22",
+        "timestamp": "20250522205243",
+        "text_hash": "415cd951d21bfa098584c19150ed075643923a6b4f87a88fad3b7f9fc5b6df10",
+        "snapshot_url": "https://web.archive.org/web/20250522205243/vercel.com/pricing"
+      },
+      {
+        "date": "2025-09-03",
+        "timestamp": "20250903134556",
+        "text_hash": "1bb8db3e7656f5e96ea38abf8f3fc7d3e2b0b742009ae3b30968dd77f5300b19",
+        "snapshot_url": "https://web.archive.org/web/20250903134556/vercel.com/pricing"
+      },
+      {
+        "date": "2025-09-11",
+        "timestamp": "20250911182523",
+        "text_hash": "3270b2dc87fb76c62ee1934addc0b39f6d75220c6dc038c19a0f26c29e7a8a6d",
+        "snapshot_url": "https://web.archive.org/web/20250911182523/vercel.com/pricing"
+      },
+      {
+        "date": "2025-10-01",
+        "timestamp": "20251001001622",
+        "text_hash": "dcc02f39445ae530375eb219ec65de6058de0c5d37977fb73a9b194d0adf6744",
+        "snapshot_url": "https://web.archive.org/web/20251001001622/vercel.com/pricing"
+      },
+      {
+        "date": "2025-10-11",
+        "timestamp": "20251011174517",
+        "text_hash": "44768e16c2c2710b99daf6c6a78e7e42f3859077a7b59c8a695ab43efd6708db",
+        "snapshot_url": "https://web.archive.org/web/20251011174517/vercel.com/pricing"
+      },
+      {
+        "date": "2025-10-16",
+        "timestamp": "20251016151751",
+        "text_hash": "38005ac95b8b319cd86aee2ed94952b15fa94e864508b771b10639769731c2d4",
+        "snapshot_url": "https://web.archive.org/web/20251016151751/vercel.com/pricing"
+      },
+      {
+        "date": "2025-11-16",
+        "timestamp": "20251116040152",
+        "text_hash": "b9ba775c4459024bcd09e25789118e11ad216a6d48128534c311d5243f315bb4",
+        "snapshot_url": "https://web.archive.org/web/20251116040152/vercel.com/pricing"
+      },
+      {
+        "date": "2025-11-24",
+        "timestamp": "20251124041459",
+        "text_hash": "d9a0eaa370f6dc0ca6e9a64e1691a582d74c4b8642d592a109afce005c000d71",
+        "snapshot_url": "https://web.archive.org/web/20251124041459/vercel.com/pricing"
+      },
+      {
+        "date": "2025-11-28",
+        "timestamp": "20251128210205",
+        "text_hash": "79aef19523e8b64d5c69988f3313befdf28eb323510c70693b6580884eb1306f",
+        "snapshot_url": "https://web.archive.org/web/20251128210205/vercel.com/pricing"
+      },
+      {
+        "date": "2025-12-05",
+        "timestamp": "20251205002755",
+        "text_hash": "0973e62d7b253bacf22ad1b6b5f27cace15c58d30bb56c88b4527ba995fafd93",
+        "snapshot_url": "https://web.archive.org/web/20251205002755/vercel.com/pricing"
+      },
+      {
+        "date": "2025-12-06",
+        "timestamp": "20251206191615",
+        "text_hash": "02801593fba4f5642e5ed9857c37a63c1d16556edadeae6ebdb95ff1812b433c",
+        "snapshot_url": "https://web.archive.org/web/20251206191615/vercel.com/pricing"
+      },
+      {
+        "date": "2025-12-10",
+        "timestamp": "20251210045632",
+        "text_hash": "178adb911a960f9aee873e33c7e62e3a0a241e0d6ad91f3bba862c9ed3bd20b0",
+        "snapshot_url": "https://web.archive.org/web/20251210045632/vercel.com/pricing"
+      },
+      {
+        "date": "2025-12-14",
+        "timestamp": "20251214123242",
+        "text_hash": "9783b4a843ae90bfbc5bdf1e537b728cae0d43fcc98a6d285f8355c97ecd4395",
+        "snapshot_url": "https://web.archive.org/web/20251214123242/vercel.com/pricing"
+      },
+      {
+        "date": "2025-12-17",
+        "timestamp": "20251217054644",
+        "text_hash": "835a3be95f1bf21b986b8066d09b85264e30c1e031afca6b7d70968f4d2895a5",
+        "snapshot_url": "https://web.archive.org/web/20251217054644/vercel.com/pricing"
+      },
+      {
+        "date": "2026-01-11",
+        "timestamp": "20260111181553",
+        "text_hash": "6db393684cc5d826a2e44de1be6622d2e556d9424cb7c06d160e1dbcfb5847fe",
+        "snapshot_url": "https://web.archive.org/web/20260111181553/vercel.com/pricing"
+      },
+      {
+        "date": "2026-01-16",
+        "timestamp": "20260116001349",
+        "text_hash": "3e6029afe6766eca684c3d95e62f36862dadfaa4e851564c5c1d66c215137fb3",
+        "snapshot_url": "https://web.archive.org/web/20260116001349/vercel.com/pricing"
+      },
+      {
+        "date": "2026-02-09",
+        "timestamp": "20260209121517",
+        "text_hash": "7f4df5ea2211e3139a3ba12232ab075bb8bb1036229431993d07935503a3ec78",
+        "snapshot_url": "https://web.archive.org/web/20260209121517/vercel.com/pricing"
+      },
+      {
+        "date": "2026-03-08",
+        "timestamp": "20260308213053",
+        "text_hash": "5f729e4a22f86a78567709ec5e70add9c8188701ed1506fca981f8c4c5cb4ea5",
+        "snapshot_url": "https://web.archive.org/web/20260308213053/vercel.com/pricing"
+      }
+    ]
+  },
+  "Stripe": {
+    "total_raw_captures": 1316,
+    "unique_content_events": 67,
+    "events": [
+      {
+        "date": "2019-05-07",
+        "timestamp": "20190507010838",
+        "text_hash": "58c3f180fbcb4789818637b5fb67c7ed082a4468ba72f58e1aaf8cfd90b82e9c",
+        "snapshot_url": "https://web.archive.org/web/20190507010838/www.stripe.com/pricing"
+      },
+      {
+        "date": "2019-07-09",
+        "timestamp": "20190709185146",
+        "text_hash": "2ed6bd7bf43243325a0be4f0c0e8a5d0ca9d2735d8b93985d13a2bc0235025b8",
+        "snapshot_url": "https://web.archive.org/web/20190709185146/www.stripe.com/pricing"
+      },
+      {
+        "date": "2019-09-15",
+        "timestamp": "20190915144305",
+        "text_hash": "52c04d1e450a36416d29434b0743248d20548b6b84e616d788570d00545c0f73",
+        "snapshot_url": "https://web.archive.org/web/20190915144305/www.stripe.com/pricing"
+      },
+      {
+        "date": "2019-10-24",
+        "timestamp": "20191024180317",
+        "text_hash": "a0d444943b580561668a80368e55da6d8f2c5646865bbb36b01c109a80170418",
+        "snapshot_url": "https://web.archive.org/web/20191024180317/www.stripe.com/pricing"
+      },
+      {
+        "date": "2019-11-23",
+        "timestamp": "20191123010932",
+        "text_hash": "83897d0ce1865ec768392eadb465a41af5d716f6fe571db144211d5016a5c8eb",
+        "snapshot_url": "https://web.archive.org/web/20191123010932/www.stripe.com/pricing"
+      },
+      {
+        "date": "2019-12-17",
+        "timestamp": "20191217101318",
+        "text_hash": "0b4212da9db373d5277b68f1402974331b2df8a0f8ae4fb39166f2d8bbb851a7",
+        "snapshot_url": "https://web.archive.org/web/20191217101318/www.stripe.com/pricing"
+      },
+      {
+        "date": "2020-01-11",
+        "timestamp": "20200111184122",
+        "text_hash": "9618d228854a81418f3a170dc54718a7c3b87db50b7d12b5b5e7539e3b2687d4",
+        "snapshot_url": "https://web.archive.org/web/20200111184122/www.stripe.com/pricing"
+      },
+      {
+        "date": "2020-02-02",
+        "timestamp": "20200202052705",
+        "text_hash": "a00b88e58905fad87cb08d2469a73469cf714172a8745b0dcfe8bf1918435fcb",
+        "snapshot_url": "https://web.archive.org/web/20200202052705/www.stripe.com/pricing"
+      },
+      {
+        "date": "2020-02-20",
+        "timestamp": "20200220001517",
+        "text_hash": "6a03f57203c082bf8c3c1771cdea0b2f55bf4c96cfbcdc44e82ec4a224cd2236",
+        "snapshot_url": "https://web.archive.org/web/20200220001517/www.stripe.com/pricing"
+      },
+      {
+        "date": "2020-03-07",
+        "timestamp": "20200307070314",
+        "text_hash": "02889f0faf3a84ceb9d73304bc87445fc2630adc91801994374b797d147f6173",
+        "snapshot_url": "https://web.archive.org/web/20200307070314/www.stripe.com/pricing"
+      },
+      {
+        "date": "2020-03-29",
+        "timestamp": "20200329040549",
+        "text_hash": "14fd669bdba6843ce765c865cd2deb3a73d89012e6eac662b0f249ca0bfd1489",
+        "snapshot_url": "https://web.archive.org/web/20200329040549/www.stripe.com/pricing"
+      },
+      {
+        "date": "2020-04-12",
+        "timestamp": "20200412222434",
+        "text_hash": "59446ee2e46605f41a773cf23e8b757769ed9176b4f73a00678112b7cfbde6af",
+        "snapshot_url": "https://web.archive.org/web/20200412222434/www.stripe.com/pricing"
+      },
+      {
+        "date": "2020-04-26",
+        "timestamp": "20200426175604",
+        "text_hash": "029081ce8292f29946eefef52ab4edb16adad16ffec14f28a3e1e7050bb8767a",
+        "snapshot_url": "https://web.archive.org/web/20200426175604/www.stripe.com/pricing"
+      },
+      {
+        "date": "2020-05-22",
+        "timestamp": "20200522133531",
+        "text_hash": "77a60dfe47dd37d7c7acdaef40b68c2347093c3de65fde3d7408adb2787df82d",
+        "snapshot_url": "https://web.archive.org/web/20200522133531/www.stripe.com/pricing"
+      },
+      {
+        "date": "2020-06-09",
+        "timestamp": "20200609044648",
+        "text_hash": "4c0e775102a5f328d9cffcc25a4e652387708db21d5ed41fa6814170c08feaa3",
+        "snapshot_url": "https://web.archive.org/web/20200609044648/www.stripe.com/pricing"
+      },
+      {
+        "date": "2020-06-28",
+        "timestamp": "20200628154316",
+        "text_hash": "934a7213879462f625eb3602c4cc2c119dfff9ca03d2205decb5652a2773f875",
+        "snapshot_url": "https://web.archive.org/web/20200628154316/www.stripe.com/pricing"
+      },
+      {
+        "date": "2020-07-26",
+        "timestamp": "20200726203208",
+        "text_hash": "5e52f8f876256a65a789ce85456ba1d97c83214dce85677734863d3955699834",
+        "snapshot_url": "https://web.archive.org/web/20200726203208/www.stripe.com/pricing"
+      },
+      {
+        "date": "2021-04-12",
+        "timestamp": "20210412065458",
+        "text_hash": "acda64e957834c9f12cccbd175167a29acb587bc9e8a7001932d0194e63fe125",
+        "snapshot_url": "https://web.archive.org/web/20210412065458/www.stripe.com/pricing"
+      },
+      {
+        "date": "2021-04-18",
+        "timestamp": "20210418104528",
+        "text_hash": "7a10978c99f6d878114f8e8a11e09d75b11b79f59756158ab8f1e40d18255955",
+        "snapshot_url": "https://web.archive.org/web/20210418104528/www.stripe.com/pricing"
+      },
+      {
+        "date": "2021-05-03",
+        "timestamp": "20210503024644",
+        "text_hash": "fa84f0e56c52ff0bcd6bbade28f4a8e2b4c3bc8b1b05c9843e7ed2940505af2e",
+        "snapshot_url": "https://web.archive.org/web/20210503024644/www.stripe.com/pricing"
+      },
+      {
+        "date": "2021-05-12",
+        "timestamp": "20210512184019",
+        "text_hash": "c2b514c656a01b698a9c14940c597bf3c155c3184483bc85ab4ef045df6fbe9c",
+        "snapshot_url": "https://web.archive.org/web/20210512184019/www.stripe.com/pricing"
+      },
+      {
+        "date": "2021-06-03",
+        "timestamp": "20210603043003",
+        "text_hash": "c0c81d02046faaa08993d188ab4bfd513aea501e418bf250e0ae9fdb9b7897c6",
+        "snapshot_url": "https://web.archive.org/web/20210603043003/www.stripe.com/pricing"
+      },
+      {
+        "date": "2021-06-16",
+        "timestamp": "20210616234102",
+        "text_hash": "13f7fa1259e33a166a29cc115583bfd9d42f57179e13cf53af290a84c1f5f26f",
+        "snapshot_url": "https://web.archive.org/web/20210616234102/www.stripe.com/pricing"
+      },
+      {
+        "date": "2021-06-21",
+        "timestamp": "20210621012103",
+        "text_hash": "c0a4398c4deb987cb72880ee61724085d8e42e3c08fdae74b310661d9fb227f1",
+        "snapshot_url": "https://web.archive.org/web/20210621012103/www.stripe.com/pricing"
+      },
+      {
+        "date": "2021-06-24",
+        "timestamp": "20210624050052",
+        "text_hash": "e600d11c5d9eef6b53826d0b4bf4bd83f72054dc0c29be6f53b935c5d49038c2",
+        "snapshot_url": "https://web.archive.org/web/20210624050052/www.stripe.com/pricing"
+      },
+      {
+        "date": "2021-07-01",
+        "timestamp": "20210701055514",
+        "text_hash": "69978c0cb28947ab10efea3d2f297d0836f29d1f2c698c69e991cb1a00293ba4",
+        "snapshot_url": "https://web.archive.org/web/20210701055514/www.stripe.com/pricing"
+      },
+      {
+        "date": "2021-07-06",
+        "timestamp": "20210706121612",
+        "text_hash": "9fdb3ae0f8dc3e676aa9135b795a62df0d5f924020591abb2dd206ea335005c1",
+        "snapshot_url": "https://web.archive.org/web/20210706121612/www.stripe.com/pricing"
+      },
+      {
+        "date": "2021-07-16",
+        "timestamp": "20210716184311",
+        "text_hash": "4a7d79a9692b13e2547cb7b1eb6cf7ae9ae78996902af56ae49b40c22c5cdb03",
+        "snapshot_url": "https://web.archive.org/web/20210716184311/www.stripe.com/pricing"
+      },
+      {
+        "date": "2021-07-27",
+        "timestamp": "20210727034817",
+        "text_hash": "6d761b94f053f9c1048659671659cbe346fe7debf7926ae49ea2e0041d086880",
+        "snapshot_url": "https://web.archive.org/web/20210727034817/www.stripe.com/pricing"
+      },
+      {
+        "date": "2022-12-29",
+        "timestamp": "20221229004939",
+        "text_hash": "ec9b54631d07a1ab2ae445cbd81c910a9b898d967f928566198bfb6d9c1ffdbf",
+        "snapshot_url": "https://web.archive.org/web/20221229004939/www.stripe.com/pricing"
+      },
+      {
+        "date": "2023-05-07",
+        "timestamp": "20230507235334",
+        "text_hash": "751dc673c2eb5b20fcc04982285a7e409f46dda8954fe5a28b22802f965fcc7d",
+        "snapshot_url": "https://web.archive.org/web/20230507235334/www.stripe.com/pricing"
+      },
+      {
+        "date": "2023-06-16",
+        "timestamp": "20230616071525",
+        "text_hash": "6aeec781b1d415a83d89353d3879ba54aad4d57d470ad3b0bffa02eaa99ce753",
+        "snapshot_url": "https://web.archive.org/web/20230616071525/www.stripe.com/pricing"
+      },
+      {
+        "date": "2023-07-25",
+        "timestamp": "20230725170514",
+        "text_hash": "1d640c4c354c8a501602294a1a61c456ef086198b7aff01300c75e6791c0cb07",
+        "snapshot_url": "https://web.archive.org/web/20230725170514/www.stripe.com/pricing"
+      },
+      {
+        "date": "2023-08-11",
+        "timestamp": "20230811095443",
+        "text_hash": "71da002f633994155daa43b857ad3fefa8c43c6398d85dd988379bc05e371b6e",
+        "snapshot_url": "https://web.archive.org/web/20230811095443/www.stripe.com/pricing"
+      },
+      {
+        "date": "2023-09-22",
+        "timestamp": "20230922192140",
+        "text_hash": "c8da40911ac14a8743fce8fdd52ec8f529aba6de5c53fc9a972839ed0024bd3a",
+        "snapshot_url": "https://web.archive.org/web/20230922192140/www.stripe.com/pricing"
+      },
+      {
+        "date": "2023-11-15",
+        "timestamp": "20231115191853",
+        "text_hash": "e5ec4fa77610b4815ae0c0a95b9ce3d69d3fdc162150a73fb9bc72a99d3050a3",
+        "snapshot_url": "https://web.archive.org/web/20231115191853/www.stripe.com/pricing"
+      },
+      {
+        "date": "2023-11-28",
+        "timestamp": "20231128141339",
+        "text_hash": "10ce4020e56539c57f3c11162858e38b89580746b6f63ec92eea91a6360f00e0",
+        "snapshot_url": "https://web.archive.org/web/20231128141339/www.stripe.com/pricing"
+      },
+      {
+        "date": "2023-12-08",
+        "timestamp": "20231208060904",
+        "text_hash": "576ebe17f828dc51e74e3da0db70a10112d7b7adf2c3207ffaec35fa09a3efca",
+        "snapshot_url": "https://web.archive.org/web/20231208060904/www.stripe.com/pricing"
+      },
+      {
+        "date": "2023-12-20",
+        "timestamp": "20231220003938",
+        "text_hash": "8b582b9fafc9f49a27a6dcfdef187beda40df8a53367018bac47b04e8ffe1aa2",
+        "snapshot_url": "https://web.archive.org/web/20231220003938/www.stripe.com/pricing"
+      },
+      {
+        "date": "2024-01-05",
+        "timestamp": "20240105003754",
+        "text_hash": "6ef87212ffb57e0d0400d1978e1b4963e50b1cf4242a2bf5527b9d6f7cf2d8c8",
+        "snapshot_url": "https://web.archive.org/web/20240105003754/www.stripe.com/pricing"
+      },
+      {
+        "date": "2024-01-24",
+        "timestamp": "20240124022046",
+        "text_hash": "2ecf52485dcdc1ddc531725da1554c5d4fef75070323c858c009e496b039598b",
+        "snapshot_url": "https://web.archive.org/web/20240124022046/www.stripe.com/pricing"
+      },
+      {
+        "date": "2024-02-19",
+        "timestamp": "20240219034259",
+        "text_hash": "cf49e57367862450fa3244d5c63f4874eaa79e0158a15f8f3566f063b5742fcc",
+        "snapshot_url": "https://web.archive.org/web/20240219034259/www.stripe.com/pricing"
+      },
+      {
+        "date": "2024-02-25",
+        "timestamp": "20240225015042",
+        "text_hash": "e7171821b48847a7f5025b4445f0e4f51ba4d8f539f0fd61df0e0437c6b6753e",
+        "snapshot_url": "https://web.archive.org/web/20240225015042/www.stripe.com/pricing"
+      },
+      {
+        "date": "2024-03-06",
+        "timestamp": "20240306012241",
+        "text_hash": "d56bdce67205b12dcbca96488eea243b971da11076b5f4e6e76deca585f2c38c",
+        "snapshot_url": "https://web.archive.org/web/20240306012241/www.stripe.com/pricing"
+      },
+      {
+        "date": "2024-03-19",
+        "timestamp": "20240319180508",
+        "text_hash": "f1bb788098f6f542f6fede186ecf6aa2aad465cd4b2b736a5ed3eb1294a2ae7a",
+        "snapshot_url": "https://web.archive.org/web/20240319180508/www.stripe.com/pricing"
+      },
+      {
+        "date": "2024-03-31",
+        "timestamp": "20240331171044",
+        "text_hash": "128871cc0a429c9800752f255edcf38b0de6b34f37d01575f76cf2923433f88e",
+        "snapshot_url": "https://web.archive.org/web/20240331171044/www.stripe.com/pricing"
+      },
+      {
+        "date": "2024-04-09",
+        "timestamp": "20240409065824",
+        "text_hash": "b7a3f67ea2628ab562cd5917cd02e42f43ef4ad81dbc4a629aeb8442ba3ac22c",
+        "snapshot_url": "https://web.archive.org/web/20240409065824/www.stripe.com/pricing"
+      },
+      {
+        "date": "2024-12-31",
+        "timestamp": "20241231002322",
+        "text_hash": "4bb2583de5f32cf46b5a706119cdb00640c35ebf262671770c7b5f5c3d771152",
+        "snapshot_url": "https://web.archive.org/web/20241231002322/www.stripe.com/pricing"
+      },
+      {
+        "date": "2025-03-10",
+        "timestamp": "20250310193808",
+        "text_hash": "33fccbe18818a928e4b1750222be8ef5ba0ef6c5e07441035b0fc95dc12ad9ca",
+        "snapshot_url": "https://web.archive.org/web/20250310193808/www.stripe.com/pricing"
+      },
+      {
+        "date": "2025-04-01",
+        "timestamp": "20250401060007",
+        "text_hash": "fbe66d8ed46cc75c962ac98a6c5082da54a5235700e8b5b878883c413ea92b3d",
+        "snapshot_url": "https://web.archive.org/web/20250401060007/www.stripe.com/pricing"
+      },
+      {
+        "date": "2025-05-01",
+        "timestamp": "20250501224026",
+        "text_hash": "8d61776a14935a3dbdb9ce82955b426c41084513ec011c1628188d645dd54702",
+        "snapshot_url": "https://web.archive.org/web/20250501224026/www.stripe.com/pricing"
+      },
+      {
+        "date": "2025-05-20",
+        "timestamp": "20250520070853",
+        "text_hash": "607c0d8a12710ff55bbcc42f8add3a63047bf608350e2704dac9fddbd12ede75",
+        "snapshot_url": "https://web.archive.org/web/20250520070853/www.stripe.com/pricing"
+      },
+      {
+        "date": "2025-05-27",
+        "timestamp": "20250527075156",
+        "text_hash": "afa27f169ba94bd87f140bcfcd784edfaa4010c99a70b4e3233d43b1bafb809d",
+        "snapshot_url": "https://web.archive.org/web/20250527075156/www.stripe.com/pricing"
+      },
+      {
+        "date": "2025-07-08",
+        "timestamp": "20250708092628",
+        "text_hash": "5bd8caab6d5e627d61274beae7c5d28eec0ab64ac98f4f5a3c7135913876f669",
+        "snapshot_url": "https://web.archive.org/web/20250708092628/www.stripe.com/pricing"
+      },
+      {
+        "date": "2025-07-27",
+        "timestamp": "20250727044802",
+        "text_hash": "f12c699e47f0b547a3cace1b7f7fb0719f1ee19713d4bfa858a8a42ba7e9a78d",
+        "snapshot_url": "https://web.archive.org/web/20250727044802/www.stripe.com/pricing"
+      },
+      {
+        "date": "2025-08-12",
+        "timestamp": "20250812082831",
+        "text_hash": "cc5fe9657cd938b93cd899626638393ea0fee26d4d71a719ab8414f7502494c5",
+        "snapshot_url": "https://web.archive.org/web/20250812082831/www.stripe.com/pricing"
+      },
+      {
+        "date": "2025-08-30",
+        "timestamp": "20250830114346",
+        "text_hash": "af6fba7eccdd71e93aabd3b3773e32cb9de9bf65adf2f33f6d9b2d75e4145020",
+        "snapshot_url": "https://web.archive.org/web/20250830114346/www.stripe.com/pricing"
+      },
+      {
+        "date": "2025-09-13",
+        "timestamp": "20250913182731",
+        "text_hash": "629bac5ba30a121a67b78bb0690247c3f4e95036785953de9f5031a82b1d118f",
+        "snapshot_url": "https://web.archive.org/web/20250913182731/www.stripe.com/pricing"
+      },
+      {
+        "date": "2025-09-25",
+        "timestamp": "20250925145619",
+        "text_hash": "acb4465780702e3783ef1738348d26743864378b742792917af2543020f15a24",
+        "snapshot_url": "https://web.archive.org/web/20250925145619/www.stripe.com/pricing"
+      },
+      {
+        "date": "2025-10-07",
+        "timestamp": "20251007003224",
+        "text_hash": "1c66d88e55bda42b154a429a65c7e84d35cb5f56568924cb91e1fdecce2578cc",
+        "snapshot_url": "https://web.archive.org/web/20251007003224/www.stripe.com/pricing"
+      },
+      {
+        "date": "2025-10-24",
+        "timestamp": "20251024230146",
+        "text_hash": "e1128fc4d9f285ef2761a21daefda02f7d9885e57e2d2da6dc681bf2d81ceccd",
+        "snapshot_url": "https://web.archive.org/web/20251024230146/www.stripe.com/pricing"
+      },
+      {
+        "date": "2025-11-06",
+        "timestamp": "20251106120614",
+        "text_hash": "04af71864ed5bf7634e05997b991a889f45601ea9bda2b2866aa04c442396c5b",
+        "snapshot_url": "https://web.archive.org/web/20251106120614/www.stripe.com/pricing"
+      },
+      {
+        "date": "2025-11-12",
+        "timestamp": "20251112044932",
+        "text_hash": "369d2f5a2f99d8eda8fa53d879bf0e7d017cb75a6d080497481e738b2475f4fd",
+        "snapshot_url": "https://web.archive.org/web/20251112044932/www.stripe.com/pricing"
+      },
+      {
+        "date": "2025-11-14",
+        "timestamp": "20251114213121",
+        "text_hash": "a2d743f1f3f31cf05f519af7d7912a1a85de630637b45d3cd5ede53b0480630b",
+        "snapshot_url": "https://web.archive.org/web/20251114213121/www.stripe.com/pricing"
+      },
+      {
+        "date": "2025-12-09",
+        "timestamp": "20251209120613",
+        "text_hash": "71581419775d9c0023f848d79e6e0cbe458d23761bfd69817fda0ab9f5e7d4ce",
+        "snapshot_url": "https://web.archive.org/web/20251209120613/www.stripe.com/pricing"
+      },
+      {
+        "date": "2025-12-13",
+        "timestamp": "20251213015601",
+        "text_hash": "52b01d9507f745522f7af8ab567995ac3171eae96848998cc54420d19d09fac5",
+        "snapshot_url": "https://web.archive.org/web/20251213015601/www.stripe.com/pricing"
+      },
+      {
+        "date": "2026-06-17",
+        "timestamp": "20260617085217",
+        "text_hash": "e46c0f735aabad9016245bcb0983c9df703519a5dd1ee772c3e12547379a63db",
+        "snapshot_url": "https://web.archive.org/web/20260617085217/www.stripe.com/pricing"
+      }
+    ]
+  },
+  "Notion": {
+    "total_raw_captures": 946,
+    "unique_content_events": 51,
+    "events": [
+      {
+        "date": "2017-10-29",
+        "timestamp": "20171029042702",
+        "text_hash": "d4c60fa7e66b03db69b3bef1e2554dae59119c7d1d87a30f0dbf18ce782d2a8b",
+        "snapshot_url": "https://web.archive.org/web/20171029042702/notion.so/pricing"
+      },
+      {
+        "date": "2018-05-17",
+        "timestamp": "20180517203338",
+        "text_hash": "04a3b7bfef716b740000c8d901f8c3514fc0130ae5d4bc6d00e1a7322623bdca",
+        "snapshot_url": "https://web.archive.org/web/20180517203338/notion.so/pricing"
+      },
+      {
+        "date": "2018-11-30",
+        "timestamp": "20181130121906",
+        "text_hash": "bd55c6806639b29c7e11ec5fc8e63b77a936175ab4c5c6f0a4a1ef889cf42ddd",
+        "snapshot_url": "https://web.archive.org/web/20181130121906/notion.so/pricing"
+      },
+      {
+        "date": "2021-06-04",
+        "timestamp": "20210604074515",
+        "text_hash": "89cdd23d3029c1c9350bd144428fdde8a53d7e8d548a310014c4aada8f01fb5a",
+        "snapshot_url": "https://web.archive.org/web/20210604074515/notion.so/pricing"
+      },
+      {
+        "date": "2021-10-09",
+        "timestamp": "20211009123352",
+        "text_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "snapshot_url": "https://web.archive.org/web/20211009123352/notion.so/pricing"
+      },
+      {
+        "date": "2021-12-03",
+        "timestamp": "20211203171712",
+        "text_hash": "d1dab3aadcd748c707905aaab05106be71bdd3ce7a4613f4723571ce6c457024",
+        "snapshot_url": "https://web.archive.org/web/20211203171712/notion.so/pricing"
+      },
+      {
+        "date": "2022-01-11",
+        "timestamp": "20220111091610",
+        "text_hash": "98176e8a07fff8567ae7c17b2b7bcf994f0a288bb767a87f740a366fb23268a7",
+        "snapshot_url": "https://web.archive.org/web/20220111091610/notion.so/pricing"
+      },
+      {
+        "date": "2022-01-13",
+        "timestamp": "20220113132130",
+        "text_hash": "c687a1b12ca2eddf1a525e63cfd74f91594fdb353c1cd1f1a4cba1e420bc676e",
+        "snapshot_url": "https://web.archive.org/web/20220113132130/notion.so/pricing"
+      },
+      {
+        "date": "2022-02-07",
+        "timestamp": "20220207000401",
+        "text_hash": "c0471bb615603896525ffac3ce6b66e0a3ca3adb1c9c8e8f4f6f107a5b7db925",
+        "snapshot_url": "https://web.archive.org/web/20220207000401/notion.so/pricing"
+      },
+      {
+        "date": "2022-02-28",
+        "timestamp": "20220228143730",
+        "text_hash": "9449b205dcf38750f29dcf92c6d370ed2c44291a6598cda89a1fe473fcb2419f",
+        "snapshot_url": "https://web.archive.org/web/20220228143730/notion.so/pricing"
+      },
+      {
+        "date": "2022-03-29",
+        "timestamp": "20220329075557",
+        "text_hash": "49973e7dc47aecdc1bcbbdb16531209bb1898bdbbdc8dbf2f2b497dc1f5021f3",
+        "snapshot_url": "https://web.archive.org/web/20220329075557/notion.so/pricing"
+      },
+      {
+        "date": "2022-04-14",
+        "timestamp": "20220414130552",
+        "text_hash": "ef6e2bc9b8dd6b9f4cca939e896bcf2e43fb348211b562958dcf455882857123",
+        "snapshot_url": "https://web.archive.org/web/20220414130552/notion.so/pricing"
+      },
+      {
+        "date": "2022-09-16",
+        "timestamp": "20220916102342",
+        "text_hash": "de43208f85769e9194663088e80aaefb36d4e1e4697aff7edf9a7f3491ed89b0",
+        "snapshot_url": "https://web.archive.org/web/20220916102342/notion.so/pricing"
+      },
+      {
+        "date": "2022-10-04",
+        "timestamp": "20221004110107",
+        "text_hash": "7b62fe7ab004873f0decca185ef23178143b2110c5d5850e91f903ba2ec941e2",
+        "snapshot_url": "https://web.archive.org/web/20221004110107/notion.so/pricing"
+      },
+      {
+        "date": "2022-12-24",
+        "timestamp": "20221224105619",
+        "text_hash": "abe6534e59891896686e63f4661681bd26718b6a4417580259b64d5ad1d187ba",
+        "snapshot_url": "https://web.archive.org/web/20221224105619/notion.so/pricing"
+      },
+      {
+        "date": "2023-01-21",
+        "timestamp": "20230121153531",
+        "text_hash": "80e14b0ca6d4c4739980a2aaca1f5c6f3a76e1d7bd7be07c10f04c533c7773bd",
+        "snapshot_url": "https://web.archive.org/web/20230121153531/notion.so/pricing"
+      },
+      {
+        "date": "2023-02-06",
+        "timestamp": "20230206024556",
+        "text_hash": "2c671cf9646982ac72a04775b7ab04653ea381139d11c45d5e9c5ef9a454ca3b",
+        "snapshot_url": "https://web.archive.org/web/20230206024556/notion.so/pricing"
+      },
+      {
+        "date": "2023-02-14",
+        "timestamp": "20230214040452",
+        "text_hash": "36806a33e56c78dd8d0a45d3815813ca516fa64d242b99011e52db44c84eab26",
+        "snapshot_url": "https://web.archive.org/web/20230214040452/notion.so/pricing"
+      },
+      {
+        "date": "2023-02-18",
+        "timestamp": "20230218175347",
+        "text_hash": "8084f9fd32409abef1798712a7f603e915e3614e126693828ba42d9b3570de07",
+        "snapshot_url": "https://web.archive.org/web/20230218175347/notion.so/pricing"
+      },
+      {
+        "date": "2023-02-24",
+        "timestamp": "20230224003843",
+        "text_hash": "38b0090bcce4690f352e1bb1f1a924022bac3631c9193d44d127bcf2475946ea",
+        "snapshot_url": "https://web.archive.org/web/20230224003843/notion.so/pricing"
+      },
+      {
+        "date": "2023-02-28",
+        "timestamp": "20230228222424",
+        "text_hash": "72372a269c0fee5450e629de3e2a46b0ee6807035ccb60e38e8e15d039666440",
+        "snapshot_url": "https://web.archive.org/web/20230228222424/notion.so/pricing"
+      },
+      {
+        "date": "2023-03-14",
+        "timestamp": "20230314214224",
+        "text_hash": "fbef8dd429712a32e164e46eb942b80c797c98265d91266af851a74644a81d37",
+        "snapshot_url": "https://web.archive.org/web/20230314214224/notion.so/pricing"
+      },
+      {
+        "date": "2023-03-23",
+        "timestamp": "20230323130715",
+        "text_hash": "704aad7d9796ca8d7c756a2251e029c19640a4bf5df3d54315f132f911591922",
+        "snapshot_url": "https://web.archive.org/web/20230323130715/notion.so/pricing"
+      },
+      {
+        "date": "2023-06-28",
+        "timestamp": "20230628143104",
+        "text_hash": "3bafb6e2ac3663af6f49c720c6341b37039c313ef82f3f0859429cc9576833e7",
+        "snapshot_url": "https://web.archive.org/web/20230628143104/notion.so/pricing"
+      },
+      {
+        "date": "2023-08-04",
+        "timestamp": "20230804141136",
+        "text_hash": "5bacd7b057c580ead828901e63dcb7d059b6da9a79cdb0b1bc6ee8e72b4c980c",
+        "snapshot_url": "https://web.archive.org/web/20230804141136/notion.so/pricing"
+      },
+      {
+        "date": "2023-09-25",
+        "timestamp": "20230925153448",
+        "text_hash": "44a913d7d3a05a0cb4d4b1e1b74c733351446d7649909ff6a17081db55cc743c",
+        "snapshot_url": "https://web.archive.org/web/20230925153448/notion.so/pricing"
+      },
+      {
+        "date": "2023-11-28",
+        "timestamp": "20231128005649",
+        "text_hash": "d146d2ffe89f524eccdf2ccbeb0776512b52a6955ba768add0b46a498e8c5b0f",
+        "snapshot_url": "https://web.archive.org/web/20231128005649/notion.so/pricing"
+      },
+      {
+        "date": "2023-12-01",
+        "timestamp": "20231201182441",
+        "text_hash": "dbd94eebc7fe4cbb909d111a24d7c5d4bddb6533fbfb14f4c35f2ac431d02337",
+        "snapshot_url": "https://web.archive.org/web/20231201182441/notion.so/pricing"
+      },
+      {
+        "date": "2023-12-22",
+        "timestamp": "20231222125304",
+        "text_hash": "71ec7effb18c130f3fddf4753bc759aee1bf5fac21804da37830d0a98a533d76",
+        "snapshot_url": "https://web.archive.org/web/20231222125304/notion.so/pricing"
+      },
+      {
+        "date": "2024-01-17",
+        "timestamp": "20240117181007",
+        "text_hash": "121bd02dc3472d52b7afaf813472f36fffcd13ad94c56b40a86d5aa87cc805a5",
+        "snapshot_url": "https://web.archive.org/web/20240117181007/notion.so/pricing"
+      },
+      {
+        "date": "2024-01-25",
+        "timestamp": "20240125132259",
+        "text_hash": "fcb91f35d1de5f2c6125b23a275c985bbd6b6ed6c4b0ae3bad1b61ff2e12879f",
+        "snapshot_url": "https://web.archive.org/web/20240125132259/notion.so/pricing"
+      },
+      {
+        "date": "2024-01-29",
+        "timestamp": "20240129155648",
+        "text_hash": "e627ef0df2c17690111162dc63bcaedbf619401b22c4f989ab95a4ac4585899b",
+        "snapshot_url": "https://web.archive.org/web/20240129155648/notion.so/pricing"
+      },
+      {
+        "date": "2024-02-02",
+        "timestamp": "20240202182846",
+        "text_hash": "44acbe99ddbc028bce7cd908d96a834488d3f0cbefbb6d791a4663a83ff06ddf",
+        "snapshot_url": "https://web.archive.org/web/20240202182846/notion.so/pricing"
+      },
+      {
+        "date": "2024-02-13",
+        "timestamp": "20240213072611",
+        "text_hash": "c872be7c031dc91f3414059475f3d4c99a34d17c555dffebd1008cca40be553e",
+        "snapshot_url": "https://web.archive.org/web/20240213072611/notion.so/pricing"
+      },
+      {
+        "date": "2024-02-19",
+        "timestamp": "20240219135139",
+        "text_hash": "9aa40e34333557f7eec64b9b8da5fe5497e1a61b040a2a5d812ea8f70b2057e7",
+        "snapshot_url": "https://web.archive.org/web/20240219135139/notion.so/pricing"
+      },
+      {
+        "date": "2024-02-24",
+        "timestamp": "20240224102606",
+        "text_hash": "9f9d177d2b123bf78f67f49acfed71db518301980e38ea0b3eb3c43c5107a5b5",
+        "snapshot_url": "https://web.archive.org/web/20240224102606/notion.so/pricing"
+      },
+      {
+        "date": "2024-02-29",
+        "timestamp": "20240229010408",
+        "text_hash": "47f4fc484fad1e3e6bf7d5a6a7c7a46a1049912b637fd02514598dc999882f9d",
+        "snapshot_url": "https://web.archive.org/web/20240229010408/notion.so/pricing"
+      },
+      {
+        "date": "2024-03-29",
+        "timestamp": "20240329154154",
+        "text_hash": "982b1f6d4df1773b0fccc41640bfbb25af133cb636fbda1481c6528d2732c133",
+        "snapshot_url": "https://web.archive.org/web/20240329154154/notion.so/pricing"
+      },
+      {
+        "date": "2024-05-25",
+        "timestamp": "20240525044737",
+        "text_hash": "011b20bfc8ccfa24511f1663ef25520427e32c503170c30f2732aefa9aa408b3",
+        "snapshot_url": "https://web.archive.org/web/20240525044737/notion.so/pricing"
+      },
+      {
+        "date": "2024-07-16",
+        "timestamp": "20240716134101",
+        "text_hash": "f9522dcf59d2e004711079011d27216b5f59a2476b8e0911a69ab10ac6a1103d",
+        "snapshot_url": "https://web.archive.org/web/20240716134101/notion.so/pricing"
+      },
+      {
+        "date": "2024-09-03",
+        "timestamp": "20240903062240",
+        "text_hash": "180a0a90aebe6e72fb358c01ef251c740e5af6fbca53d371e14cdca39917265a",
+        "snapshot_url": "https://web.archive.org/web/20240903062240/notion.so/pricing"
+      },
+      {
+        "date": "2024-09-04",
+        "timestamp": "20240904092613",
+        "text_hash": "bfb9a0159004ab14365818a56850bdbc1798fd844a26010b344a70ad9a85f861",
+        "snapshot_url": "https://web.archive.org/web/20240904092613/notion.so/pricing"
+      },
+      {
+        "date": "2024-09-04",
+        "timestamp": "20240904121603",
+        "text_hash": "180a0a90aebe6e72fb358c01ef251c740e5af6fbca53d371e14cdca39917265a",
+        "snapshot_url": "https://web.archive.org/web/20240904121603/notion.so/pricing"
+      },
+      {
+        "date": "2024-09-08",
+        "timestamp": "20240908203213",
+        "text_hash": "6ec79db9b44065667258d4d687d5681650fdd8b3deb95496c564f4505137abe7",
+        "snapshot_url": "https://web.archive.org/web/20240908203213/notion.so/pricing"
+      },
+      {
+        "date": "2024-09-17",
+        "timestamp": "20240917024414",
+        "text_hash": "7fae600ee57fa3b93b3ef848d92ccd0cc5e39b88983ccb1d6db7869f161fcc73",
+        "snapshot_url": "https://web.archive.org/web/20240917024414/notion.so/pricing"
+      },
+      {
+        "date": "2024-09-28",
+        "timestamp": "20240928083201",
+        "text_hash": "30c272500fe2660a7d28bedef28ea4b86bb6a6f07a501c5f2702f5bd7b96d986",
+        "snapshot_url": "https://web.archive.org/web/20240928083201/notion.so/pricing"
+      },
+      {
+        "date": "2024-10-02",
+        "timestamp": "20241002060437",
+        "text_hash": "65d1cedd956df37d62f9152b0aa1afe6f9d85f9e852e5df11a2e6ac90ab7ac20",
+        "snapshot_url": "https://web.archive.org/web/20241002060437/notion.so/pricing"
+      },
+      {
+        "date": "2024-10-17",
+        "timestamp": "20241017000923",
+        "text_hash": "f6d547f53934b12e7d9755e4b33256eb556651cdd57cd9d392c0fddd0fba5b58",
+        "snapshot_url": "https://web.archive.org/web/20241017000923/notion.so/pricing"
+      },
+      {
+        "date": "2024-11-07",
+        "timestamp": "20241107030809",
+        "text_hash": "5dbe04de4271f34ce103df7b7bbc90faffca4e4a4df8c8e19768c76e779514c6",
+        "snapshot_url": "https://web.archive.org/web/20241107030809/notion.so/pricing"
+      },
+      {
+        "date": "2024-11-16",
+        "timestamp": "20241116182712",
+        "text_hash": "4132bb3a0ca2b1faabc3733c6c3c7f438dc26cc4d884e24109978eac1e6a4a4c",
+        "snapshot_url": "https://web.archive.org/web/20241116182712/notion.so/pricing"
+      },
+      {
+        "date": "2024-11-30",
+        "timestamp": "20241130005528",
+        "text_hash": "f331f99d68f5f3059b529ea1076856fe0e70d83a343ea8f0d6615bcebd52065c",
+        "snapshot_url": "https://web.archive.org/web/20241130005528/notion.so/pricing"
+      }
+    ]
+  },
+  "Airtable": {
+    "total_raw_captures": 0,
+    "unique_content_events": 0,
+    "events": []
+  },
+  "Coda": {
+    "total_raw_captures": 362,
+    "unique_content_events": 3,
+    "events": [
+      {
+        "date": "2019-10-24",
+        "timestamp": "20191024165758",
+        "text_hash": "47f21eb8a5c07f21975a77aa78569da0ee0a71e682e8f7b17be3fd5e6831f86c",
+        "snapshot_url": "https://web.archive.org/web/20191024165758/coda.io/pricing"
+      },
+      {
+        "date": "2022-10-01",
+        "timestamp": "20221001201301",
+        "text_hash": "f27749f8f5448dfc37e4549e34cb8ab9365c53618f52bdf98e9aeb5d2b71619b",
+        "snapshot_url": "https://web.archive.org/web/20221001201301/coda.io/pricing"
+      },
+      {
+        "date": "2023-10-06",
+        "timestamp": "20231006165724",
+        "text_hash": "7dd7e5f7b3ee4510a411d6d72dc7dd6c4c28635aa1a4d7707ee6bae2e4979e9f",
+        "snapshot_url": "https://web.archive.org/web/20231006165724/coda.io/pricing"
+      }
+    ]
+  },
+  "Slack": {
+    "total_raw_captures": 1688,
+    "unique_content_events": 56,
+    "events": [
+      {
+        "date": "2014-02-12",
+        "timestamp": "20140212215245",
+        "text_hash": "6a714268bc41709cd3befcd39e49a5f8b76b6363d47d98b66e16b473b5459708",
+        "snapshot_url": "https://web.archive.org/web/20140212215245/slack.com/pricing"
+      },
+      {
+        "date": "2014-10-06",
+        "timestamp": "20141006012855",
+        "text_hash": "717bac6eb6c5b766d990a917c0c4f7f85cae7bf4ac361a8134b130f7f79cc2e2",
+        "snapshot_url": "https://web.archive.org/web/20141006012855/slack.com/pricing"
+      },
+      {
+        "date": "2014-12-17",
+        "timestamp": "20141217223034",
+        "text_hash": "66e646712e29b8955ac0d347315c63b0b5db4dd5c363188ad55a77cdee15f560",
+        "snapshot_url": "https://web.archive.org/web/20141217223034/slack.com/pricing"
+      },
+      {
+        "date": "2015-01-10",
+        "timestamp": "20150110203215",
+        "text_hash": "979649325f2ee6681b652fc70b3be79bca82958d55ed04a3b96eda1fdffb67c3",
+        "snapshot_url": "https://web.archive.org/web/20150110203215/slack.com/pricing"
+      },
+      {
+        "date": "2016-11-04",
+        "timestamp": "20161104055144",
+        "text_hash": "3b66137e59c62b0d57514c4fa20d12029062f32b09492cfb991bcc92db8d1127",
+        "snapshot_url": "https://web.archive.org/web/20161104055144/slack.com/pricing"
+      },
+      {
+        "date": "2017-09-10",
+        "timestamp": "20170910234936",
+        "text_hash": "b50e47d0d66e8254d213c5b0ea2b3cf4a610551e11d20b1a6470e6bb79e0c1f0",
+        "snapshot_url": "https://web.archive.org/web/20170910234936/slack.com/pricing"
+      },
+      {
+        "date": "2018-01-26",
+        "timestamp": "20180126142616",
+        "text_hash": "39595bfbfcde1d243549d6ae1f14c3071a4b69dd4fe97a3bd79f64a8f395d2bd",
+        "snapshot_url": "https://web.archive.org/web/20180126142616/slack.com/pricing"
+      },
+      {
+        "date": "2018-07-02",
+        "timestamp": "20180702150823",
+        "text_hash": "3bebca61229656d7fff8bedddeb2922c449e42e167749c5082d0c99bed61d574",
+        "snapshot_url": "https://web.archive.org/web/20180702150823/slack.com/pricing"
+      },
+      {
+        "date": "2018-08-16",
+        "timestamp": "20180816004552",
+        "text_hash": "abcd4aea3ba4b55b0eaa08d0ae768778d371a2c255871341fe69d6329a10553c",
+        "snapshot_url": "https://web.archive.org/web/20180816004552/slack.com/pricing"
+      },
+      {
+        "date": "2018-09-28",
+        "timestamp": "20180928130629",
+        "text_hash": "30a5820eca07a63ebc6248091147cfb036b514865fe47639c1a1d0a28b4808f0",
+        "snapshot_url": "https://web.archive.org/web/20180928130629/slack.com/pricing"
+      },
+      {
+        "date": "2018-11-08",
+        "timestamp": "20181108000317",
+        "text_hash": "aace6ca8adecbb19043cca40b09a937a9020c75de7f0139cf809fb2ccba2f120",
+        "snapshot_url": "https://web.archive.org/web/20181108000317/slack.com/pricing"
+      },
+      {
+        "date": "2019-02-07",
+        "timestamp": "20190207041701",
+        "text_hash": "044a823c3b19413278d49b4ba1b3addc1b69db3606c663fe723a0b3bc01b69d8",
+        "snapshot_url": "https://web.archive.org/web/20190207041701/slack.com/pricing"
+      },
+      {
+        "date": "2019-03-26",
+        "timestamp": "20190326075033",
+        "text_hash": "c4ab934995087be0fe1945cf0480867a1308800d84e2a7b5f7267ade2fa080c3",
+        "snapshot_url": "https://web.archive.org/web/20190326075033/slack.com/pricing"
+      },
+      {
+        "date": "2019-04-09",
+        "timestamp": "20190409132857",
+        "text_hash": "169ded3e6638bedc881ac6804c98bf846c868a95721dba63425f441498b552f3",
+        "snapshot_url": "https://web.archive.org/web/20190409132857/slack.com/pricing"
+      },
+      {
+        "date": "2019-06-20",
+        "timestamp": "20190620155855",
+        "text_hash": "d3e2428a59ed522a91364ae25fb76619b69d2b6ac62617eb186db82a0185c4d8",
+        "snapshot_url": "https://web.archive.org/web/20190620155855/slack.com/pricing"
+      },
+      {
+        "date": "2019-09-15",
+        "timestamp": "20190915120505",
+        "text_hash": "fc34d85ea40d0ae786260bf1ed478264ceb2b7e5a22618920f6928c62cc72c30",
+        "snapshot_url": "https://web.archive.org/web/20190915120505/slack.com/pricing"
+      },
+      {
+        "date": "2020-11-11",
+        "timestamp": "20201111020902",
+        "text_hash": "6e0f2a58e1d1e10a151906e20575f0c6ecaebc8ff5ea6e3ccc93ea9278c36894",
+        "snapshot_url": "https://web.archive.org/web/20201111020902/slack.com/pricing"
+      },
+      {
+        "date": "2020-12-03",
+        "timestamp": "20201203060419",
+        "text_hash": "90588f9c5a91903c12394c9e32034294b6cdf8061b34da5b2f790a393e1cd8b5",
+        "snapshot_url": "https://web.archive.org/web/20201203060419/slack.com/pricing"
+      },
+      {
+        "date": "2020-12-17",
+        "timestamp": "20201217231512",
+        "text_hash": "605c3225cb44a022d08c1b2bdd840146f5a99d28612fcec1f38f729217aa75a4",
+        "snapshot_url": "https://web.archive.org/web/20201217231512/slack.com/pricing"
+      },
+      {
+        "date": "2020-12-31",
+        "timestamp": "20201231060215",
+        "text_hash": "f48fd261a4bff4a509f42750ec0bd1e15b12a6f88255df4780bcdd3bcc1e485e",
+        "snapshot_url": "https://web.archive.org/web/20201231060215/slack.com/pricing"
+      },
+      {
+        "date": "2021-01-04",
+        "timestamp": "20210104202946",
+        "text_hash": "61fd02c9152d987d24b4caf03e001e8537bb2b7c0220ae4879f1b01c62e1ab34",
+        "snapshot_url": "https://web.archive.org/web/20210104202946/slack.com/pricing"
+      },
+      {
+        "date": "2021-01-26",
+        "timestamp": "20210126081636",
+        "text_hash": "e79c147e8abf0bbc14a4c312c6843c1dad5427cc114f047c282a7dc0f1be77d1",
+        "snapshot_url": "https://web.archive.org/web/20210126081636/slack.com/pricing"
+      },
+      {
+        "date": "2021-08-24",
+        "timestamp": "20210824173303",
+        "text_hash": "4d09082f93171bf14789cc843d9ff32a297724bd367e7aa413e25f975c1d54be",
+        "snapshot_url": "https://web.archive.org/web/20210824173303/slack.com/pricing"
+      },
+      {
+        "date": "2021-09-25",
+        "timestamp": "20210925065644",
+        "text_hash": "5e2f393c8e139452aea45eff0ece6bdda5b3962e1a424eac7db38b81f241651d",
+        "snapshot_url": "https://web.archive.org/web/20210925065644/slack.com/pricing"
+      },
+      {
+        "date": "2021-10-28",
+        "timestamp": "20211028000035",
+        "text_hash": "f004f2a128387198a22c2546a1b4b465d0e7aec4380c4b9e8b8221b927f9a9e1",
+        "snapshot_url": "https://web.archive.org/web/20211028000035/slack.com/pricing"
+      },
+      {
+        "date": "2021-11-05",
+        "timestamp": "20211105033349",
+        "text_hash": "d898f63a624fa2d2c6c8429547dd4264fd5494b0d4e15447e1f5b0f05994d74d",
+        "snapshot_url": "https://web.archive.org/web/20211105033349/slack.com/pricing"
+      },
+      {
+        "date": "2021-11-17",
+        "timestamp": "20211117223430",
+        "text_hash": "fccd407d8cf3e2cd5f96f39ec258e553f1a393000ee1469638c305dd94571987",
+        "snapshot_url": "https://web.archive.org/web/20211117223430/slack.com/pricing"
+      },
+      {
+        "date": "2021-12-08",
+        "timestamp": "20211208020950",
+        "text_hash": "03fc4303c5aab2155c5685066e76558bf7433036f93822f5a7a3cc618de256aa",
+        "snapshot_url": "https://web.archive.org/web/20211208020950/slack.com/pricing"
+      },
+      {
+        "date": "2022-01-03",
+        "timestamp": "20220103150604",
+        "text_hash": "80d3b4679efeedcedc845fc87a0b215b0206932bbd8850d1c50e5317364285dd",
+        "snapshot_url": "https://web.archive.org/web/20220103150604/slack.com/pricing"
+      },
+      {
+        "date": "2022-06-09",
+        "timestamp": "20220609220352",
+        "text_hash": "ba18da69c8969f5dd9c8f97f0f1e9bb77d2f55d0d05998ef31fd5d04ed9f7c4d",
+        "snapshot_url": "https://web.archive.org/web/20220609220352/slack.com/pricing"
+      },
+      {
+        "date": "2022-09-02",
+        "timestamp": "20220902005614",
+        "text_hash": "2ae7f2058218f970f618fea5da67ca37302249e63535f0fa51131c35d3f6f856",
+        "snapshot_url": "https://web.archive.org/web/20220902005614/slack.com/pricing"
+      },
+      {
+        "date": "2022-09-23",
+        "timestamp": "20220923222408",
+        "text_hash": "4ebc6698f8f9f7a1dc5c46594d571840488de32d44e46ef2636910cde6e5ff9b",
+        "snapshot_url": "https://web.archive.org/web/20220923222408/slack.com/pricing"
+      },
+      {
+        "date": "2022-09-29",
+        "timestamp": "20220929111044",
+        "text_hash": "22ceabe63601b16470cebe4143b07738efbb3aa707c812ac1cd2d2fdd838b42c",
+        "snapshot_url": "https://web.archive.org/web/20220929111044/slack.com/pricing"
+      },
+      {
+        "date": "2022-10-15",
+        "timestamp": "20221015160542",
+        "text_hash": "d25347ce4e22e89d1644750ef3da9808b9e1e4124304606668e9f8dac9feea89",
+        "snapshot_url": "https://web.archive.org/web/20221015160542/slack.com/pricing"
+      },
+      {
+        "date": "2022-11-23",
+        "timestamp": "20221123073414",
+        "text_hash": "aee6cfa46dee974ad979e834ed196172928acf54de75c756592ee2aefb05156a",
+        "snapshot_url": "https://web.archive.org/web/20221123073414/slack.com/pricing"
+      },
+      {
+        "date": "2022-12-18",
+        "timestamp": "20221218075334",
+        "text_hash": "1fcabcabfd5dae6fdfdeccc411e1ca4781848c8f08d5d61f399fd0bf8b25f5b6",
+        "snapshot_url": "https://web.archive.org/web/20221218075334/slack.com/pricing"
+      },
+      {
+        "date": "2023-04-16",
+        "timestamp": "20230416182044",
+        "text_hash": "4a7a5108aa411e55f54e25e0ca492f907ab45099f69eef7448a45d0d6a9d0fcd",
+        "snapshot_url": "https://web.archive.org/web/20230416182044/slack.com/pricing"
+      },
+      {
+        "date": "2023-05-12",
+        "timestamp": "20230512205146",
+        "text_hash": "528f0b647882a43f5dad2132aaedc34eece1a542711c41439ffc79efdd52bd75",
+        "snapshot_url": "https://web.archive.org/web/20230512205146/slack.com/pricing"
+      },
+      {
+        "date": "2023-08-19",
+        "timestamp": "20230819203849",
+        "text_hash": "3a92e083b3734021cba10c0fbabc40d5095b0baac3e69375e589966f27fc8aa3",
+        "snapshot_url": "https://web.archive.org/web/20230819203849/slack.com/pricing"
+      },
+      {
+        "date": "2024-06-26",
+        "timestamp": "20240626173240",
+        "text_hash": "efae7c498ba1a1381bc8e544f79cefef67bcb66dc9450300c1209265ac380bc2",
+        "snapshot_url": "https://web.archive.org/web/20240626173240/slack.com/pricing"
+      },
+      {
+        "date": "2024-06-29",
+        "timestamp": "20240629210806",
+        "text_hash": "58a546949dda71e4b17f1cb9c5fe08606f4c6d64e1987643d2d114c5bbe3dff9",
+        "snapshot_url": "https://web.archive.org/web/20240629210806/slack.com/pricing"
+      },
+      {
+        "date": "2024-07-27",
+        "timestamp": "20240727092802",
+        "text_hash": "556bea5a05062f5519e7acf6cd6f0559b79cd1255b26151aaa6fc6859a799202",
+        "snapshot_url": "https://web.archive.org/web/20240727092802/slack.com/pricing"
+      },
+      {
+        "date": "2024-09-25",
+        "timestamp": "20240925183711",
+        "text_hash": "5af556bc48cae4e25c760f672fa89b900a63710981eb3d88d33496b8ee4e50b1",
+        "snapshot_url": "https://web.archive.org/web/20240925183711/slack.com/pricing"
+      },
+      {
+        "date": "2024-10-22",
+        "timestamp": "20241022043527",
+        "text_hash": "b30fd15b965893b505d3bf4ed144c986ec963100e9f3f32492a1f7a5fa3504c5",
+        "snapshot_url": "https://web.archive.org/web/20241022043527/slack.com/pricing"
+      },
+      {
+        "date": "2024-12-22",
+        "timestamp": "20241222161905",
+        "text_hash": "04d12fcfbba88e57342fefbbb013d19a277169615a2fd9a1ebf5c21aeff89f04",
+        "snapshot_url": "https://web.archive.org/web/20241222161905/slack.com/pricing"
+      },
+      {
+        "date": "2025-03-09",
+        "timestamp": "20250309215955",
+        "text_hash": "dd9cc9f99f5a06b617e685f8995a66bec5a2acbbfd3b40054751b5647d208dec",
+        "snapshot_url": "https://web.archive.org/web/20250309215955/slack.com/pricing"
+      },
+      {
+        "date": "2025-03-21",
+        "timestamp": "20250321094755",
+        "text_hash": "e79cb22b950c95da53cc3e93e711fe997321e2bf32220ba9a94386b5acb5f1b3",
+        "snapshot_url": "https://web.archive.org/web/20250321094755/slack.com/pricing"
+      },
+      {
+        "date": "2025-03-29",
+        "timestamp": "20250329180441",
+        "text_hash": "f797e6585bf8748f6552f6eb529277dd912e0122e7ad508217cba261d0d85da2",
+        "snapshot_url": "https://web.archive.org/web/20250329180441/slack.com/pricing"
+      },
+      {
+        "date": "2025-06-13",
+        "timestamp": "20250613034814",
+        "text_hash": "cdbf2c0678b578cc137b8ac8fe61a9053d4db752f3155620ccfe8b2bee6a0181",
+        "snapshot_url": "https://web.archive.org/web/20250613034814/slack.com/pricing"
+      },
+      {
+        "date": "2025-07-24",
+        "timestamp": "20250724184219",
+        "text_hash": "a639d399891f5003ec6d4f8d6951ae6dc0e8ef8da93a6dc7e6ca129ce35fc8cc",
+        "snapshot_url": "https://web.archive.org/web/20250724184219/slack.com/pricing"
+      },
+      {
+        "date": "2025-08-06",
+        "timestamp": "20250806120651",
+        "text_hash": "b79c396212f8254a5494dc0a41212182fa9d7111c3d4fac20acbc36fe12ab947",
+        "snapshot_url": "https://web.archive.org/web/20250806120651/slack.com/pricing"
+      },
+      {
+        "date": "2025-09-18",
+        "timestamp": "20250918104915",
+        "text_hash": "d9adb489c981bc7cb872f05961a3509e54264c33b4adbb4dc08195eb8448bd4c",
+        "snapshot_url": "https://web.archive.org/web/20250918104915/slack.com/pricing"
+      },
+      {
+        "date": "2025-10-12",
+        "timestamp": "20251012044307",
+        "text_hash": "268ae3f4e62155cc84078aceb0eedb230a17f8a43fd2a6482c4bc8cc38dada6f",
+        "snapshot_url": "https://web.archive.org/web/20251012044307/slack.com/pricing"
+      },
+      {
+        "date": "2025-11-18",
+        "timestamp": "20251118185815",
+        "text_hash": "6cd194883422210f296e47aa5c90fa84e3966556569988082de0689180284c5a",
+        "snapshot_url": "https://web.archive.org/web/20251118185815/slack.com/pricing"
+      },
+      {
+        "date": "2025-11-26",
+        "timestamp": "20251126194412",
+        "text_hash": "09f6dc9f7f4b9e4b4bac5cc2ba4842a3394f1a5281de24d2fa4b7d152db67c96",
+        "snapshot_url": "https://web.archive.org/web/20251126194412/slack.com/pricing"
+      },
+      {
+        "date": "2026-02-04",
+        "timestamp": "20260204100934",
+        "text_hash": "3ca4d3fdb3f1293dc1d8c4a429e915ff77d17023fb2647cd79d6596e8efa0946",
+        "snapshot_url": "https://web.archive.org/web/20260204100934/slack.com/pricing"
+      }
+    ]
+  },
+  "HubSpot": {
+    "total_raw_captures": 2180,
+    "unique_content_events": 39,
+    "events": [
+      {
+        "date": "2011-09-03",
+        "timestamp": "20110903025602",
+        "text_hash": "e218e54f890fcb60869ae7d7f0ebcfb09507a3264ab4d1a44e1fe9a15376c057",
+        "snapshot_url": "https://web.archive.org/web/20110903025602/hubspot.com/pricing"
+      },
+      {
+        "date": "2011-09-25",
+        "timestamp": "20110925084024",
+        "text_hash": "d2c3ec83a4949c1df0a792bce6d387cf237176587a9bafe9215d045b53ac659b",
+        "snapshot_url": "https://web.archive.org/web/20110925084024/hubspot.com/pricing"
+      },
+      {
+        "date": "2011-10-20",
+        "timestamp": "20111020213155",
+        "text_hash": "39a60ab3eab79722d5068d860be211e5cea63f9b510ac7f85bec57fe9130ec25",
+        "snapshot_url": "https://web.archive.org/web/20111020213155/hubspot.com/pricing"
+      },
+      {
+        "date": "2011-11-06",
+        "timestamp": "20111106013250",
+        "text_hash": "3750a917b752538545a240608079b30d94cada417bf17b3417e288b346136393",
+        "snapshot_url": "https://web.archive.org/web/20111106013250/hubspot.com/pricing"
+      },
+      {
+        "date": "2011-11-27",
+        "timestamp": "20111127084905",
+        "text_hash": "be0c3263515512c3d448c032de13b97ee171de26404ac082a313bd477ef88d68",
+        "snapshot_url": "https://web.archive.org/web/20111127084905/hubspot.com/pricing"
+      },
+      {
+        "date": "2012-01-25",
+        "timestamp": "20120125031922",
+        "text_hash": "b029ddb561f31ee5ef15d8996e57a1b513d0e31d6a5a57cc859c1468316b434a",
+        "snapshot_url": "https://web.archive.org/web/20120125031922/hubspot.com/pricing"
+      },
+      {
+        "date": "2012-02-24",
+        "timestamp": "20120224181637",
+        "text_hash": "7b04e8095c883cd47ec9c96776c0016d72022df6947caf9d571a301679645926",
+        "snapshot_url": "https://web.archive.org/web/20120224181637/hubspot.com/pricing"
+      },
+      {
+        "date": "2012-04-10",
+        "timestamp": "20120410214347",
+        "text_hash": "02162d9134ef6e17ad435b3e9abc481c15a3a7f5df1ba0a5b86e07f69bbbed2c",
+        "snapshot_url": "https://web.archive.org/web/20120410214347/hubspot.com/pricing"
+      },
+      {
+        "date": "2012-06-17",
+        "timestamp": "20120617201551",
+        "text_hash": "52ba1fbffa94bff2922fbeeeb4a299375718c1ecb0e2b6999cd502d342f24ee4",
+        "snapshot_url": "https://web.archive.org/web/20120617201551/hubspot.com/pricing"
+      },
+      {
+        "date": "2012-07-30",
+        "timestamp": "20120730050748",
+        "text_hash": "42a836ef57f6e87979a7f4213760626e31eec64be7e6c74409fae0f7dc229d1f",
+        "snapshot_url": "https://web.archive.org/web/20120730050748/hubspot.com/pricing"
+      },
+      {
+        "date": "2012-08-31",
+        "timestamp": "20120831024132",
+        "text_hash": "d699e8065418cf342792801202e5e9e878f70fd96ffda413081dec2b0f3b9aeb",
+        "snapshot_url": "https://web.archive.org/web/20120831024132/hubspot.com/pricing"
+      },
+      {
+        "date": "2012-09-07",
+        "timestamp": "20120907235014",
+        "text_hash": "c58cb62f7d8800c1ee4c298af483765621e01214897f7962a6ecad5c2cd63af2",
+        "snapshot_url": "https://web.archive.org/web/20120907235014/hubspot.com/pricing"
+      },
+      {
+        "date": "2012-12-24",
+        "timestamp": "20121224042012",
+        "text_hash": "fe471dccf6ee30b0340e8209ec408fd77bff9cf9e403f9840518215e1a9d0e5b",
+        "snapshot_url": "https://web.archive.org/web/20121224042012/hubspot.com/pricing"
+      },
+      {
+        "date": "2013-05-02",
+        "timestamp": "20130502082611",
+        "text_hash": "3c414691c321d50f74c7aa228ca2af972b12e33f6817d3b0eaaf3973b0674f2a",
+        "snapshot_url": "https://web.archive.org/web/20130502082611/hubspot.com/pricing"
+      },
+      {
+        "date": "2013-05-13",
+        "timestamp": "20130513061337",
+        "text_hash": "5debbb125a699aece1bf610ae3e3b80ccd26620273064f5fd823dcbb5b8aef8a",
+        "snapshot_url": "https://web.archive.org/web/20130513061337/hubspot.com/pricing"
+      },
+      {
+        "date": "2013-05-26",
+        "timestamp": "20130526044416",
+        "text_hash": "3d29a0500ac6a1b4c1f4a86a8095d9539fc92c2914c16a710f8d90f25571cfe9",
+        "snapshot_url": "https://web.archive.org/web/20130526044416/hubspot.com/pricing"
+      },
+      {
+        "date": "2013-06-29",
+        "timestamp": "20130629130031",
+        "text_hash": "4cb2ba08a92d772cf2a199286d46ce5b18a7b1e44ddd143010b3269bcefdc47e",
+        "snapshot_url": "https://web.archive.org/web/20130629130031/hubspot.com/pricing"
+      },
+      {
+        "date": "2013-08-17",
+        "timestamp": "20130817223113",
+        "text_hash": "750681ba6c065b67aff37b7d461203907e263f11a82ee00f0c287ce8ad2e70ee",
+        "snapshot_url": "https://web.archive.org/web/20130817223113/hubspot.com/pricing"
+      },
+      {
+        "date": "2013-09-30",
+        "timestamp": "20130930065113",
+        "text_hash": "29d8c99d0e8a0a4c4c567e990129fd5a7f0621ffd57c3fc7e80d92c19b7e4f80",
+        "snapshot_url": "https://web.archive.org/web/20130930065113/hubspot.com/pricing"
+      },
+      {
+        "date": "2013-10-20",
+        "timestamp": "20131020065907",
+        "text_hash": "8e1472cdfd983feba0529a2d43056c464910c076158805b352dfb1f98494419b",
+        "snapshot_url": "https://web.archive.org/web/20131020065907/hubspot.com/pricing"
+      },
+      {
+        "date": "2013-11-22",
+        "timestamp": "20131122033132",
+        "text_hash": "8a02de2ac4d3d64ebf8e2c0e0b1762160b56e567e9915d52bb15ac003a1e88bc",
+        "snapshot_url": "https://web.archive.org/web/20131122033132/hubspot.com/pricing"
+      },
+      {
+        "date": "2013-12-29",
+        "timestamp": "20131229003734",
+        "text_hash": "373840718dc55bc1ecf30a45ef291dc9082333f2a8e5f149a7a414451d69e064",
+        "snapshot_url": "https://web.archive.org/web/20131229003734/hubspot.com/pricing"
+      },
+      {
+        "date": "2014-02-23",
+        "timestamp": "20140223203414",
+        "text_hash": "f8b34dd34ffef11c6484e4bd77cddad916580295767442299588da13c4a772dd",
+        "snapshot_url": "https://web.archive.org/web/20140223203414/hubspot.com/pricing"
+      },
+      {
+        "date": "2014-03-07",
+        "timestamp": "20140307033051",
+        "text_hash": "9f35092ed8668fec937fb6fa23e0ddece1676fee2cd0f5abfa4123fb92974e71",
+        "snapshot_url": "https://web.archive.org/web/20140307033051/hubspot.com/pricing"
+      },
+      {
+        "date": "2014-03-31",
+        "timestamp": "20140331132332",
+        "text_hash": "a35b08152670845fa0df45799b232254997a0d157c623c17a892508276e1e1ac",
+        "snapshot_url": "https://web.archive.org/web/20140331132332/hubspot.com/pricing"
+      },
+      {
+        "date": "2014-04-10",
+        "timestamp": "20140410120530",
+        "text_hash": "98650ec335da53d726cc3768050e7a30af441e4ad87d7a14fff4dd900264b34a",
+        "snapshot_url": "https://web.archive.org/web/20140410120530/hubspot.com/pricing"
+      },
+      {
+        "date": "2014-05-24",
+        "timestamp": "20140524141351",
+        "text_hash": "98305628a3054527849702a6ae2702fe7f14b67e92167eaf37f5d4f4803cee91",
+        "snapshot_url": "https://web.archive.org/web/20140524141351/hubspot.com/pricing"
+      },
+      {
+        "date": "2014-06-07",
+        "timestamp": "20140607180742",
+        "text_hash": "b138360ad2d2149986be751a52709947293423ec40fe2940de9c0e81be92f651",
+        "snapshot_url": "https://web.archive.org/web/20140607180742/hubspot.com/pricing"
+      },
+      {
+        "date": "2014-06-16",
+        "timestamp": "20140616190102",
+        "text_hash": "df1a7ef5a1332516ce2d354a646d6783259c67a47b44dc5d75f5f6814ae515be",
+        "snapshot_url": "https://web.archive.org/web/20140616190102/hubspot.com/pricing"
+      },
+      {
+        "date": "2014-08-10",
+        "timestamp": "20140810005407",
+        "text_hash": "abab811ebce44da42d682cc4d85eba85517ddc2f3fcdad39bb9f3e95e7abf10b",
+        "snapshot_url": "https://web.archive.org/web/20140810005407/hubspot.com/pricing"
+      },
+      {
+        "date": "2014-10-03",
+        "timestamp": "20141003040251",
+        "text_hash": "5095aca3e3435c12f0b72e2ed02e6fd7aca97e2df5464b3c4a91352015d02a2b",
+        "snapshot_url": "https://web.archive.org/web/20141003040251/hubspot.com/pricing"
+      },
+      {
+        "date": "2014-11-11",
+        "timestamp": "20141111012237",
+        "text_hash": "98fc42119ebaa96f9f5f24ec28a0cbfa991ffe8cfacd5704186ab3da230ff91e",
+        "snapshot_url": "https://web.archive.org/web/20141111012237/hubspot.com/pricing"
+      },
+      {
+        "date": "2014-11-24",
+        "timestamp": "20141124140457",
+        "text_hash": "0b02defb1ffaaa6282219a9a0ac2a0be7eb0f8fe10670415e60eb1076bea091a",
+        "snapshot_url": "https://web.archive.org/web/20141124140457/hubspot.com/pricing"
+      },
+      {
+        "date": "2014-12-06",
+        "timestamp": "20141206195102",
+        "text_hash": "ca82c0d517f41a72dfd1ad1d9293bada4a657fe7d0b1a8fe81cce62980b5aca6",
+        "snapshot_url": "https://web.archive.org/web/20141206195102/hubspot.com/pricing"
+      },
+      {
+        "date": "2015-01-21",
+        "timestamp": "20150121150536",
+        "text_hash": "066e1d1900acd5db4db02dec69831f66a2065cd94b82a4ae0e79238cce422688",
+        "snapshot_url": "https://web.archive.org/web/20150121150536/hubspot.com/pricing"
+      },
+      {
+        "date": "2015-02-07",
+        "timestamp": "20150207060630",
+        "text_hash": "f50bee6714e1fed078dd2a74f580837bbb3cb662f72229924aaf7f40f017cef6",
+        "snapshot_url": "https://web.archive.org/web/20150207060630/hubspot.com/pricing"
+      },
+      {
+        "date": "2015-05-28",
+        "timestamp": "20150528044741",
+        "text_hash": "2cc2a5c1e4e3dc79f873a4aa40c4feeb983503091fdba23e4d2c0282e6504965",
+        "snapshot_url": "https://web.archive.org/web/20150528044741/hubspot.com/pricing"
+      },
+      {
+        "date": "2015-09-05",
+        "timestamp": "20150905163847",
+        "text_hash": "8cac9949851fa421300a21a225fd6e9637ea148f13e1ee35377c602bf379ad0e",
+        "snapshot_url": "https://web.archive.org/web/20150905163847/hubspot.com/pricing"
+      },
+      {
+        "date": "2026-04-03",
+        "timestamp": "20260403154337",
+        "text_hash": "61917c2ed7c2d57d8327963cdfaaa0fa070981aa8d7265131039bd34c4bacc07",
+        "snapshot_url": "https://web.archive.org/web/20260403154337/hubspot.com/pricing"
+      }
+    ]
+  },
+  "Zoom": {
+    "total_raw_captures": 9778,
+    "unique_content_events": 47,
+    "events": [
+      {
+        "date": "2013-01-30",
+        "timestamp": "20130130110337",
+        "text_hash": "867a54300d57d351d318be1706467e52caa7016efa1d65af4df39427eaca6467",
+        "snapshot_url": "https://web.archive.org/web/20130130110337/zoom.us/pricing"
+      },
+      {
+        "date": "2014-12-23",
+        "timestamp": "20141223054953",
+        "text_hash": "122b746a37d1711507a48ed886d3adb5d2c0645f68121a56f3cf147ee7c9bf5e",
+        "snapshot_url": "https://web.archive.org/web/20141223054953/zoom.us/pricing"
+      },
+      {
+        "date": "2015-09-06",
+        "timestamp": "20150906132301",
+        "text_hash": "57525ab9e80769638df23ce8100bb4229179e9baf9efcf594269bcf6b34f190d",
+        "snapshot_url": "https://web.archive.org/web/20150906132301/zoom.us/pricing"
+      },
+      {
+        "date": "2016-03-12",
+        "timestamp": "20160312212533",
+        "text_hash": "b41dfd76535be0b80b487a1ae2a5704cec012fbcebe27aad4f1a4a76362fd8f2",
+        "snapshot_url": "https://web.archive.org/web/20160312212533/zoom.us/pricing"
+      },
+      {
+        "date": "2016-08-21",
+        "timestamp": "20160821212331",
+        "text_hash": "31a7944bbd0d4eed05813060f45c12c75492a7bf7c187c651d14e2caca45a870",
+        "snapshot_url": "https://web.archive.org/web/20160821212331/zoom.us/pricing"
+      },
+      {
+        "date": "2017-04-13",
+        "timestamp": "20170413102449",
+        "text_hash": "1cd32f948fa0f9e8dccb232d0427486dab854c708fa40213b643783f2620df64",
+        "snapshot_url": "https://web.archive.org/web/20170413102449/zoom.us/pricing"
+      },
+      {
+        "date": "2018-08-12",
+        "timestamp": "20180812122206",
+        "text_hash": "50348f8378b199af63fc59f82cfab1ed5bf86300895aa59688768a77e71c6af3",
+        "snapshot_url": "https://web.archive.org/web/20180812122206/zoom.us/pricing"
+      },
+      {
+        "date": "2019-07-17",
+        "timestamp": "20190717174126",
+        "text_hash": "a0e3a267a6c1669a4767697e2e1252b2da8f903f41619c0b4c0c7677ae22deb3",
+        "snapshot_url": "https://web.archive.org/web/20190717174126/zoom.us/pricing"
+      },
+      {
+        "date": "2020-01-19",
+        "timestamp": "20200119034606",
+        "text_hash": "28be27803ce6cb35d7e7405065dca1ea60fcd98e479ee4d7b5b7896c824679ad",
+        "snapshot_url": "https://web.archive.org/web/20200119034606/zoom.us/pricing"
+      },
+      {
+        "date": "2020-03-31",
+        "timestamp": "20200331121255",
+        "text_hash": "3b17a3cf3845319c8edf89f9f74e8b2f4950e288037d6a2d64be3de497b8bf52",
+        "snapshot_url": "https://web.archive.org/web/20200331121255/zoom.us/pricing"
+      },
+      {
+        "date": "2020-04-15",
+        "timestamp": "20200415102722",
+        "text_hash": "f52c21044742308d47b5c3a03a386c015cb06c410d36924354e8257b6d1dc536",
+        "snapshot_url": "https://web.archive.org/web/20200415102722/zoom.us/pricing"
+      },
+      {
+        "date": "2020-04-30",
+        "timestamp": "20200430211204",
+        "text_hash": "100f5a929f95347116e1f28078bce0cfe9fa9c7f0838956aa0f572be525679a6",
+        "snapshot_url": "https://web.archive.org/web/20200430211204/zoom.us/pricing"
+      },
+      {
+        "date": "2020-05-21",
+        "timestamp": "20200521090902",
+        "text_hash": "b0b9d6790a9cd10e01dd2eacd35f855c74d417404de845424c6d0a4bf5384f61",
+        "snapshot_url": "https://web.archive.org/web/20200521090902/zoom.us/pricing"
+      },
+      {
+        "date": "2020-10-29",
+        "timestamp": "20201029170423",
+        "text_hash": "27a5f863d0e6778bbf45584b50328ad90281fc3f0d7d3002a1210b073f6553d4",
+        "snapshot_url": "https://web.archive.org/web/20201029170423/zoom.us/pricing"
+      },
+      {
+        "date": "2020-11-01",
+        "timestamp": "20201101080415",
+        "text_hash": "2fdcfd4525b8e4b6b742aac192985450ec629478b3bbb76796084c0f29f276f5",
+        "snapshot_url": "https://web.archive.org/web/20201101080415/zoom.us/pricing"
+      },
+      {
+        "date": "2021-03-10",
+        "timestamp": "20210310203957",
+        "text_hash": "6d9879c01694b356166319c11d949a1ca3356c9ae69460abb574007072eab107",
+        "snapshot_url": "https://web.archive.org/web/20210310203957/zoom.us/pricing"
+      },
+      {
+        "date": "2021-06-20",
+        "timestamp": "20210620161930",
+        "text_hash": "6db765af339abdef5265e831e514af921dc62dad68f3278f52854a3def58d096",
+        "snapshot_url": "https://web.archive.org/web/20210620161930/zoom.us/pricing"
+      },
+      {
+        "date": "2021-07-25",
+        "timestamp": "20210725145549",
+        "text_hash": "0b8e262e630cd29704c380f990fa03329e46a9aea91a56de11bee5ed20b1eff9",
+        "snapshot_url": "https://web.archive.org/web/20210725145549/zoom.us/pricing"
+      },
+      {
+        "date": "2021-09-02",
+        "timestamp": "20210902211328",
+        "text_hash": "ade2dbf883cd1be8b1ec5115766c0b2ae6a71b32dcc59ead11ebaf9bf1f0eeef",
+        "snapshot_url": "https://web.archive.org/web/20210902211328/zoom.us/pricing"
+      },
+      {
+        "date": "2021-09-18",
+        "timestamp": "20210918203953",
+        "text_hash": "f012cc27fd3fc880ddfe0f16f8773e7f47c5e93d716f21ace773f05bac784bec",
+        "snapshot_url": "https://web.archive.org/web/20210918203953/zoom.us/pricing"
+      },
+      {
+        "date": "2021-09-27",
+        "timestamp": "20210927153304",
+        "text_hash": "004e610352afea7796ea9d52863925f2d9f7d5677feafce3391170248d6cf20d",
+        "snapshot_url": "https://web.archive.org/web/20210927153304/zoom.us/pricing"
+      },
+      {
+        "date": "2021-11-29",
+        "timestamp": "20211129030455",
+        "text_hash": "6b47c516b68a891495c4df2444d277b32cd1b13d48b068ed7fe2291ae6fe18fd",
+        "snapshot_url": "https://web.archive.org/web/20211129030455/zoom.us/pricing"
+      },
+      {
+        "date": "2022-01-25",
+        "timestamp": "20220125153724",
+        "text_hash": "e0970c0f52fa7e417937b031373c1851e928242d99c9c5b1294f47807e285205",
+        "snapshot_url": "https://web.archive.org/web/20220125153724/zoom.us/pricing"
+      },
+      {
+        "date": "2022-05-16",
+        "timestamp": "20220516123634",
+        "text_hash": "dc393e8f88ebb55714934cea2ed64bdf109fa01eb9fff3b93017a3d2799e8c51",
+        "snapshot_url": "https://web.archive.org/web/20220516123634/zoom.us/pricing"
+      },
+      {
+        "date": "2022-07-12",
+        "timestamp": "20220712063929",
+        "text_hash": "005283e74671cb33031e1da87ea692e7d7da1d36caf5189824b89fd7f3987482",
+        "snapshot_url": "https://web.archive.org/web/20220712063929/zoom.us/pricing"
+      },
+      {
+        "date": "2022-08-16",
+        "timestamp": "20220816100351",
+        "text_hash": "4aa2fbec3fff02d4ebc1aa5bf698bf85e75c2609bfa571995cd305bfee82657a",
+        "snapshot_url": "https://web.archive.org/web/20220816100351/zoom.us/pricing"
+      },
+      {
+        "date": "2022-09-01",
+        "timestamp": "20220901065007",
+        "text_hash": "373e6309808458e091f5849a1ee87290c32cc8c6d052e6840b64ba96813e24dd",
+        "snapshot_url": "https://web.archive.org/web/20220901065007/zoom.us/pricing"
+      },
+      {
+        "date": "2022-09-22",
+        "timestamp": "20220922055416",
+        "text_hash": "bb792344d5a828c06c95698edf418040d786b40bc833541c1796ae2b01610ea2",
+        "snapshot_url": "https://web.archive.org/web/20220922055416/zoom.us/pricing"
+      },
+      {
+        "date": "2022-10-28",
+        "timestamp": "20221028040024",
+        "text_hash": "cf6be5154b56dbf9bd1de0a00ffbb1e13cef66f321584eecb92fe9234e415ded",
+        "snapshot_url": "https://web.archive.org/web/20221028040024/zoom.us/pricing"
+      },
+      {
+        "date": "2022-11-04",
+        "timestamp": "20221104202723",
+        "text_hash": "68c828f78162ac88dc58ebe2f3dbf2999c83f1995b311dd6eaa43ee596ae53c0",
+        "snapshot_url": "https://web.archive.org/web/20221104202723/zoom.us/pricing"
+      },
+      {
+        "date": "2022-11-24",
+        "timestamp": "20221124041206",
+        "text_hash": "11357804fcbd55a9b2b5e889d57807d04a20f1e2afa9a6eab83f7c4194591d9f",
+        "snapshot_url": "https://web.archive.org/web/20221124041206/zoom.us/pricing"
+      },
+      {
+        "date": "2023-01-12",
+        "timestamp": "20230112004747",
+        "text_hash": "075c27563e1311b406ce3a41fb0f42091661f825ae65903fa7c6790f92e5f8b8",
+        "snapshot_url": "https://web.archive.org/web/20230112004747/zoom.us/pricing"
+      },
+      {
+        "date": "2023-03-28",
+        "timestamp": "20230328001844",
+        "text_hash": "25a43d9d3284121c53d16803e5be2d31aebf9690a050f2b893177267686291ed",
+        "snapshot_url": "https://web.archive.org/web/20230328001844/zoom.us/pricing"
+      },
+      {
+        "date": "2023-08-13",
+        "timestamp": "20230813144322",
+        "text_hash": "26037293427b3620bd7f9bba3c29ad76198b28347ac6fb95a9bccc884f379479",
+        "snapshot_url": "https://web.archive.org/web/20230813144322/zoom.us/pricing"
+      },
+      {
+        "date": "2023-08-21",
+        "timestamp": "20230821143913",
+        "text_hash": "be630335203ca05cda5910d5276a23c9c3980600923c1b8ef061c1e17ae6dcda",
+        "snapshot_url": "https://web.archive.org/web/20230821143913/zoom.us/pricing"
+      },
+      {
+        "date": "2023-09-30",
+        "timestamp": "20230930145322",
+        "text_hash": "b1091d9ef73fc1471ed44b18079f0bdfafbebef7d59e2315139609df7e533d26",
+        "snapshot_url": "https://web.archive.org/web/20230930145322/zoom.us/pricing"
+      },
+      {
+        "date": "2023-10-26",
+        "timestamp": "20231026171359",
+        "text_hash": "19664043e0d4e54a62426a6f9af0098292d59ffc7c225e6908de72a79243d8f1",
+        "snapshot_url": "https://web.archive.org/web/20231026171359/zoom.us/pricing"
+      },
+      {
+        "date": "2023-11-28",
+        "timestamp": "20231128033645",
+        "text_hash": "b6ec22acd3ba2502904eb14d5858f44adc7feaae2ca66fdfe04f7295dd01b328",
+        "snapshot_url": "https://web.archive.org/web/20231128033645/zoom.us/pricing"
+      },
+      {
+        "date": "2023-12-19",
+        "timestamp": "20231219162635",
+        "text_hash": "fbe396bbbab622d44d527c2b89437dddcfbd73d48541a991f54d9fccebf18c89",
+        "snapshot_url": "https://web.archive.org/web/20231219162635/zoom.us/pricing"
+      },
+      {
+        "date": "2024-01-31",
+        "timestamp": "20240131143218",
+        "text_hash": "1d055d084ccb34926f6bab2be5bb4d53a64231792a7c96f94ba204adc4026c99",
+        "snapshot_url": "https://web.archive.org/web/20240131143218/zoom.us/pricing"
+      },
+      {
+        "date": "2024-02-19",
+        "timestamp": "20240219044346",
+        "text_hash": "469d5eef8befdb7cbad95c0ec147cbe48b3c832bb9b9a313236946ad3ecd8cfa",
+        "snapshot_url": "https://web.archive.org/web/20240219044346/zoom.us/pricing"
+      },
+      {
+        "date": "2024-03-28",
+        "timestamp": "20240328010450",
+        "text_hash": "6d006be2d49dfbd8272c04aa21763474879a1e0e1a1a564bb027d5b27a95ade0",
+        "snapshot_url": "https://web.archive.org/web/20240328010450/zoom.us/pricing"
+      },
+      {
+        "date": "2024-04-30",
+        "timestamp": "20240430121733",
+        "text_hash": "a7c528498bc6f19a2919924dce75f9d42bd0cfdb02911a2a177bbb7fb727136f",
+        "snapshot_url": "https://web.archive.org/web/20240430121733/zoom.us/pricing"
+      },
+      {
+        "date": "2024-07-03",
+        "timestamp": "20240703155830",
+        "text_hash": "6d006be2d49dfbd8272c04aa21763474879a1e0e1a1a564bb027d5b27a95ade0",
+        "snapshot_url": "https://web.archive.org/web/20240703155830/zoom.us/pricing"
+      },
+      {
+        "date": "2024-09-27",
+        "timestamp": "20240927140729",
+        "text_hash": "57664f78417e37c6dab87c9a23029bfc83666d9105a74f50206a7dda2111f8cd",
+        "snapshot_url": "https://web.archive.org/web/20240927140729/zoom.us/pricing"
+      },
+      {
+        "date": "2025-09-15",
+        "timestamp": "20250915073818",
+        "text_hash": "d9cc44125935fc36f0950cbe6f409e0420441c05b1d105846d15718c5afa878f",
+        "snapshot_url": "https://web.archive.org/web/20250915073818/zoom.us/pricing"
+      },
+      {
+        "date": "2026-04-04",
+        "timestamp": "20260404222624",
+        "text_hash": "8b73ea8b65acead3c75d3fef1846b05d87157c0ebc9059b6a461842a1c2cc1e4",
+        "snapshot_url": "https://web.archive.org/web/20260404222624/zoom.us/pricing"
+      }
+    ]
+  },
+  "Figma": {
+    "total_raw_captures": 451,
+    "unique_content_events": 63,
+    "events": [
+      {
+        "date": "2016-03-10",
+        "timestamp": "20160310052258",
+        "text_hash": "bfe3763876f607d03ff3193f64d1868e3c1b11a32b1aee53d527882990c3237b",
+        "snapshot_url": "https://web.archive.org/web/20160310052258/www.figma.com/pricing"
+      },
+      {
+        "date": "2017-08-05",
+        "timestamp": "20170805045412",
+        "text_hash": "efc47aec9a30b49d2b9adc138eb19ca28ff0470adc13354d4129e3783c307cb3",
+        "snapshot_url": "https://web.archive.org/web/20170805045412/www.figma.com/pricing"
+      },
+      {
+        "date": "2018-06-21",
+        "timestamp": "20180621170352",
+        "text_hash": "c69b05af886a5f0fa9ae40d908b6114983356e2c6a94c8a88b00d2261d28d250",
+        "snapshot_url": "https://web.archive.org/web/20180621170352/www.figma.com/pricing"
+      },
+      {
+        "date": "2018-06-22",
+        "timestamp": "20180622180548",
+        "text_hash": "49f4579ec3ca95dbd4510668f18c9f6b74e011fb8cff5af6b3a7e5c562e7f063",
+        "snapshot_url": "https://web.archive.org/web/20180622180548/www.figma.com/pricing"
+      },
+      {
+        "date": "2018-06-24",
+        "timestamp": "20180624200956",
+        "text_hash": "9bd549e8ec0b8141b6ed074cf61741804eed1bbb877bfe053d06e40528c921f1",
+        "snapshot_url": "https://web.archive.org/web/20180624200956/www.figma.com/pricing"
+      },
+      {
+        "date": "2018-06-29",
+        "timestamp": "20180629010739",
+        "text_hash": "698abc65ae526c19a23e0184d7d0e2ff827a1e5cee45f96dd97d741b008220ab",
+        "snapshot_url": "https://web.archive.org/web/20180629010739/www.figma.com/pricing"
+      },
+      {
+        "date": "2018-09-01",
+        "timestamp": "20180901151850",
+        "text_hash": "72b5d20db5cf84d0f097393a65da7cd9e8ad1f7fb029c392a4e95b55d8d8410f",
+        "snapshot_url": "https://web.archive.org/web/20180901151850/www.figma.com/pricing"
+      },
+      {
+        "date": "2018-11-14",
+        "timestamp": "20181114224411",
+        "text_hash": "62e669f2dc929074833fef52c8f17f1171abd21079ceed615aad38bd67d4c9cf",
+        "snapshot_url": "https://web.archive.org/web/20181114224411/www.figma.com/pricing"
+      },
+      {
+        "date": "2019-04-11",
+        "timestamp": "20190411092149",
+        "text_hash": "48d7962b22a57e2db1e17b6b6d10dce771ad784417c4945b301e99f48af89237",
+        "snapshot_url": "https://web.archive.org/web/20190411092149/www.figma.com/pricing"
+      },
+      {
+        "date": "2019-12-02",
+        "timestamp": "20191202125724",
+        "text_hash": "552ad0a01cbe42a5f7f29d5c0a8a7603fed261a0470f29934f55df0b8ff5aabe",
+        "snapshot_url": "https://web.archive.org/web/20191202125724/www.figma.com/pricing"
+      },
+      {
+        "date": "2021-02-15",
+        "timestamp": "20210215195213",
+        "text_hash": "96c6982de7d94489ea84a2300b298ce2e08ca461133e54d3e1283924fac7a61e",
+        "snapshot_url": "https://web.archive.org/web/20210215195213/www.figma.com/pricing"
+      },
+      {
+        "date": "2021-04-26",
+        "timestamp": "20210426060709",
+        "text_hash": "7e541cd7e4b8f6f133ab99b977a7613034a000221cc0005e75a5e984ecfbbc62",
+        "snapshot_url": "https://web.archive.org/web/20210426060709/www.figma.com/pricing"
+      },
+      {
+        "date": "2021-05-14",
+        "timestamp": "20210514001606",
+        "text_hash": "2a6d416da15886f2eb704b59fed86a7dc55dc1598502a73e2b4fe27002d3535d",
+        "snapshot_url": "https://web.archive.org/web/20210514001606/www.figma.com/pricing"
+      },
+      {
+        "date": "2021-06-18",
+        "timestamp": "20210618053645",
+        "text_hash": "0b9c7fef0bc4c9a5f00cd8a6c9bb7bfb40ed2c6453bf7fcb6d7c1c6b7535b709",
+        "snapshot_url": "https://web.archive.org/web/20210618053645/www.figma.com/pricing"
+      },
+      {
+        "date": "2021-08-13",
+        "timestamp": "20210813190830",
+        "text_hash": "23528ba5b44a1b1a34f6544d957330a82cecdb9f89729e8faefc728fb8750247",
+        "snapshot_url": "https://web.archive.org/web/20210813190830/www.figma.com/pricing"
+      },
+      {
+        "date": "2021-09-10",
+        "timestamp": "20210910032116",
+        "text_hash": "f1209b527eb6236de67d666a8c4f7449d163d2447d50430f783c5561041f2386",
+        "snapshot_url": "https://web.archive.org/web/20210910032116/www.figma.com/pricing"
+      },
+      {
+        "date": "2021-09-24",
+        "timestamp": "20210924131549",
+        "text_hash": "c11f4928f1dc3c1b3924f336ac91f825cc1f3f008517b16037a3d3466fcb3cac",
+        "snapshot_url": "https://web.archive.org/web/20210924131549/www.figma.com/pricing"
+      },
+      {
+        "date": "2021-10-05",
+        "timestamp": "20211005210226",
+        "text_hash": "c54a8e6231110fc6a8eadbf86a731bc5a5ab59f3706dac81de728a43cabd5a3d",
+        "snapshot_url": "https://web.archive.org/web/20211005210226/www.figma.com/pricing"
+      },
+      {
+        "date": "2021-10-14",
+        "timestamp": "20211014182515",
+        "text_hash": "03e0061c9b4968eae1e9767a085773e6956a41d1f4942a7cdc3f67e851874adc",
+        "snapshot_url": "https://web.archive.org/web/20211014182515/www.figma.com/pricing"
+      },
+      {
+        "date": "2021-10-27",
+        "timestamp": "20211027175522",
+        "text_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "snapshot_url": "https://web.archive.org/web/20211027175522/www.figma.com/pricing"
+      },
+      {
+        "date": "2021-12-26",
+        "timestamp": "20211226163315",
+        "text_hash": "67cd58ba68351727e72827479dce9dde5b90be3f4880347857790acc3dd96f3b",
+        "snapshot_url": "https://web.archive.org/web/20211226163315/www.figma.com/pricing"
+      },
+      {
+        "date": "2022-01-19",
+        "timestamp": "20220119184517",
+        "text_hash": "2f6442331d2b8a5e6262ed5b6e44b9a650f5c6a588f83e2e7da05d26d64d27af",
+        "snapshot_url": "https://web.archive.org/web/20220119184517/www.figma.com/pricing"
+      },
+      {
+        "date": "2022-02-07",
+        "timestamp": "20220207233340",
+        "text_hash": "725b1d502acb1abfb06224f7553faeb0cf1ce9b977b025d47d1fa5aa28ccb357",
+        "snapshot_url": "https://web.archive.org/web/20220207233340/www.figma.com/pricing"
+      },
+      {
+        "date": "2022-03-07",
+        "timestamp": "20220307094833",
+        "text_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "snapshot_url": "https://web.archive.org/web/20220307094833/www.figma.com/pricing"
+      },
+      {
+        "date": "2022-08-06",
+        "timestamp": "20220806001725",
+        "text_hash": "e3a024d6deace429f8c28e5ee8d44adfc426c4190e41edfaba7fd6f56e56dc5d",
+        "snapshot_url": "https://web.archive.org/web/20220806001725/www.figma.com/pricing"
+      },
+      {
+        "date": "2022-11-02",
+        "timestamp": "20221102081435",
+        "text_hash": "6bd5e718a020eca25ce5b3b4db95bd6311dc59434a03b9bc6dfb48a453a79379",
+        "snapshot_url": "https://web.archive.org/web/20221102081435/www.figma.com/pricing"
+      },
+      {
+        "date": "2023-06-03",
+        "timestamp": "20230603060059",
+        "text_hash": "c5a4c68801ce6b113de4c180f8d09def2622488dd2c7ae823d46c8c9e3567c76",
+        "snapshot_url": "https://web.archive.org/web/20230603060059/www.figma.com/pricing"
+      },
+      {
+        "date": "2023-07-09",
+        "timestamp": "20230709102737",
+        "text_hash": "2841c6421c39020b45ca8408df7ab79759fefc68b5270430be58a54078240623",
+        "snapshot_url": "https://web.archive.org/web/20230709102737/www.figma.com/pricing"
+      },
+      {
+        "date": "2023-08-12",
+        "timestamp": "20230812172939",
+        "text_hash": "295e92416040d6159d8417f2637c2f439893924d2824f7cafa9c10525ec2dd05",
+        "snapshot_url": "https://web.archive.org/web/20230812172939/www.figma.com/pricing"
+      },
+      {
+        "date": "2023-09-01",
+        "timestamp": "20230901101658",
+        "text_hash": "a6a42d45b0a8471ce40178068941fe115274c2a6592184aec61edd61a77011f8",
+        "snapshot_url": "https://web.archive.org/web/20230901101658/www.figma.com/pricing"
+      },
+      {
+        "date": "2023-09-15",
+        "timestamp": "20230915003256",
+        "text_hash": "97194bb98e532379f70504bef01aad57a24c590b4f4fd62671b34d671b54d805",
+        "snapshot_url": "https://web.archive.org/web/20230915003256/www.figma.com/pricing"
+      },
+      {
+        "date": "2023-09-29",
+        "timestamp": "20230929082419",
+        "text_hash": "1f59c5959f25e47ba98cfcd66e22b25a04ba7f21216baca5e0e81d7e64b84379",
+        "snapshot_url": "https://web.archive.org/web/20230929082419/www.figma.com/pricing"
+      },
+      {
+        "date": "2023-11-11",
+        "timestamp": "20231111135956",
+        "text_hash": "9562560a9a68521433dacb6cc415439bf6211d4156b8e7d7f5d6ccfe1454ffd1",
+        "snapshot_url": "https://web.archive.org/web/20231111135956/www.figma.com/pricing"
+      },
+      {
+        "date": "2023-11-28",
+        "timestamp": "20231128000140",
+        "text_hash": "49135f4f07628484cbed1f2e4d63a9b9f8edd9a29cd6a30f2d99ce25dd7ab9a8",
+        "snapshot_url": "https://web.archive.org/web/20231128000140/www.figma.com/pricing"
+      },
+      {
+        "date": "2023-12-03",
+        "timestamp": "20231203143342",
+        "text_hash": "bb87581eedd02a7905303e3cb6fb5a0058fec1ba47e2c5d81afe79e6940d4353",
+        "snapshot_url": "https://web.archive.org/web/20231203143342/www.figma.com/pricing"
+      },
+      {
+        "date": "2023-12-09",
+        "timestamp": "20231209191343",
+        "text_hash": "5b2a47315f49c6c48b51a3bd6ca97a12b90b219c70882f84c6573d4c91152729",
+        "snapshot_url": "https://web.archive.org/web/20231209191343/www.figma.com/pricing"
+      },
+      {
+        "date": "2023-12-24",
+        "timestamp": "20231224135913",
+        "text_hash": "08ee695e44be404f81e582d1acd38eb550b3cce71efdbd7d17c021e7a2af9289",
+        "snapshot_url": "https://web.archive.org/web/20231224135913/www.figma.com/pricing"
+      },
+      {
+        "date": "2024-01-17",
+        "timestamp": "20240117093850",
+        "text_hash": "97a7590241aebc3fbd764880f1110405fcdb9b0408cbcbfea5505542ba27127c",
+        "snapshot_url": "https://web.archive.org/web/20240117093850/www.figma.com/pricing"
+      },
+      {
+        "date": "2024-01-24",
+        "timestamp": "20240124044959",
+        "text_hash": "858f0953f43a1f85951b76776ed79bc39d1514c9605d40c325bd13da76f3043c",
+        "snapshot_url": "https://web.archive.org/web/20240124044959/www.figma.com/pricing"
+      },
+      {
+        "date": "2024-02-05",
+        "timestamp": "20240205185424",
+        "text_hash": "324f321cf48198b98a17b9197fc737b0b751ee4621bb8f4962d8154fc637e7c0",
+        "snapshot_url": "https://web.archive.org/web/20240205185424/www.figma.com/pricing"
+      },
+      {
+        "date": "2024-02-16",
+        "timestamp": "20240216214137",
+        "text_hash": "177f3946076a41025f1efbef08b249b3da96ccf80189e1b4ca6b5261fd8ae380",
+        "snapshot_url": "https://web.archive.org/web/20240216214137/www.figma.com/pricing"
+      },
+      {
+        "date": "2024-02-29",
+        "timestamp": "20240229135313",
+        "text_hash": "926edc469b4a69754dafac57bc2aeaf24ab604034cde6ac7a97c49175b543432",
+        "snapshot_url": "https://web.archive.org/web/20240229135313/www.figma.com/pricing"
+      },
+      {
+        "date": "2024-11-10",
+        "timestamp": "20241110015321",
+        "text_hash": "01713e0f47df557c013e765d4f4f3396ccef01adc45b3bcde90ed2404e517136",
+        "snapshot_url": "https://web.archive.org/web/20241110015321/www.figma.com/pricing"
+      },
+      {
+        "date": "2024-12-14",
+        "timestamp": "20241214234152",
+        "text_hash": "2eedd06ba65ed84e34862234201a5cf2903afc29be451c06a7e3da7d1a586ef4",
+        "snapshot_url": "https://web.archive.org/web/20241214234152/www.figma.com/pricing"
+      },
+      {
+        "date": "2024-12-19",
+        "timestamp": "20241219122809",
+        "text_hash": "9b1430ba4f9ae76831b0a50282b6f5737dcd2c11f3b38c9e0baa1a7686e229c6",
+        "snapshot_url": "https://web.archive.org/web/20241219122809/www.figma.com/pricing"
+      },
+      {
+        "date": "2025-01-09",
+        "timestamp": "20250109022853",
+        "text_hash": "86096924df62d052acd27adbd1a9b1b22d5ec3a49b9036f5182c66f7c2c2d33a",
+        "snapshot_url": "https://web.archive.org/web/20250109022853/www.figma.com/pricing"
+      },
+      {
+        "date": "2025-01-27",
+        "timestamp": "20250127195431",
+        "text_hash": "3fdf3b4860b08c99688a7a28f1288e085e6735310af5e904c912c0470358df3a",
+        "snapshot_url": "https://web.archive.org/web/20250127195431/www.figma.com/pricing"
+      },
+      {
+        "date": "2025-02-13",
+        "timestamp": "20250213055432",
+        "text_hash": "ff57075f7c44d3ee6e2ddae90997a68062b86641c880a12d5c4b83862f52a2da",
+        "snapshot_url": "https://web.archive.org/web/20250213055432/www.figma.com/pricing"
+      },
+      {
+        "date": "2025-03-18",
+        "timestamp": "20250318093334",
+        "text_hash": "2bcbba29e3d03193d88b516df49f322b7dda7e950c63e489942b55d91231a90f",
+        "snapshot_url": "https://web.archive.org/web/20250318093334/www.figma.com/pricing"
+      },
+      {
+        "date": "2025-03-28",
+        "timestamp": "20250328103017",
+        "text_hash": "a302f40cefcbab2cfb68fe82399401a6a288adb49af9f06bcc3a9b8db7f2db8b",
+        "snapshot_url": "https://web.archive.org/web/20250328103017/www.figma.com/pricing"
+      },
+      {
+        "date": "2025-04-07",
+        "timestamp": "20250407124504",
+        "text_hash": "2963538459a75a3d932219d3b0005c7c313fd2757126a3fa2866defde614bc51",
+        "snapshot_url": "https://web.archive.org/web/20250407124504/www.figma.com/pricing"
+      },
+      {
+        "date": "2025-04-15",
+        "timestamp": "20250415132104",
+        "text_hash": "72ce8d4e90a181a5e857669d4ddbd808bf01b6cbbd3a362463ddae27c019c886",
+        "snapshot_url": "https://web.archive.org/web/20250415132104/www.figma.com/pricing"
+      },
+      {
+        "date": "2025-04-26",
+        "timestamp": "20250426195104",
+        "text_hash": "4dfb6b074e85fef4ac611bebcd17846d070ceec3450948fc1833024c09d6bc39",
+        "snapshot_url": "https://web.archive.org/web/20250426195104/www.figma.com/pricing"
+      },
+      {
+        "date": "2025-10-13",
+        "timestamp": "20251013234946",
+        "text_hash": "93641dcc5f35bef44c244333348ea58dde92c6809bfe2a124da4ae044d1cdd2b",
+        "snapshot_url": "https://web.archive.org/web/20251013234946/www.figma.com/pricing"
+      },
+      {
+        "date": "2025-10-16",
+        "timestamp": "20251016054612",
+        "text_hash": "14b04004ee05e6f09becac05da77391f5b8cbe9e97ae2bc9a45ce97d7c5aa054",
+        "snapshot_url": "https://web.archive.org/web/20251016054612/www.figma.com/pricing"
+      },
+      {
+        "date": "2025-11-07",
+        "timestamp": "20251107221101",
+        "text_hash": "71638496f579708632c5b49edc1bc6c0525056de17804df5182252471acc7140",
+        "snapshot_url": "https://web.archive.org/web/20251107221101/www.figma.com/pricing"
+      },
+      {
+        "date": "2025-11-16",
+        "timestamp": "20251116012955",
+        "text_hash": "887b867959362bf527c9bdbe9932e358f39b9506ebf3aed6ca58d3933912c678",
+        "snapshot_url": "https://web.archive.org/web/20251116012955/www.figma.com/pricing"
+      },
+      {
+        "date": "2025-11-22",
+        "timestamp": "20251122160322",
+        "text_hash": "e23ffc82acbfa7087f0596815a67c537de214b7379261f0a8e14252ae876631b",
+        "snapshot_url": "https://web.archive.org/web/20251122160322/www.figma.com/pricing"
+      },
+      {
+        "date": "2025-12-06",
+        "timestamp": "20251206231846",
+        "text_hash": "89a88beef7ff0ccac616de0f45c30a803cad890f189d55e5b8bd88e2cc893eb0",
+        "snapshot_url": "https://web.archive.org/web/20251206231846/www.figma.com/pricing"
+      },
+      {
+        "date": "2025-12-10",
+        "timestamp": "20251210050050",
+        "text_hash": "6a87825d9237b3277302980017456a9f333dc69fc08cf7a6f7aee585020a41a2",
+        "snapshot_url": "https://web.archive.org/web/20251210050050/www.figma.com/pricing"
+      },
+      {
+        "date": "2025-12-12",
+        "timestamp": "20251212175826",
+        "text_hash": "289f8c61c3bd0c1c6c2090c5b5865456e7e86e1450fefeb4ba3cef270a4d0a42",
+        "snapshot_url": "https://web.archive.org/web/20251212175826/www.figma.com/pricing"
+      },
+      {
+        "date": "2026-01-27",
+        "timestamp": "20260127043626",
+        "text_hash": "d0569179eae5fc91fb21bfce851c4ecd22a6b6587f3264ee78493de3363e82b4",
+        "snapshot_url": "https://web.archive.org/web/20260127043626/www.figma.com/pricing"
+      },
+      {
+        "date": "2026-02-08",
+        "timestamp": "20260208022500",
+        "text_hash": "976aaaa510589a24b91998b14cdbddca80a1bbcef32c013209226c325a24d898",
+        "snapshot_url": "https://web.archive.org/web/20260208022500/www.figma.com/pricing"
+      }
+    ]
+  },
+  "Canva": {
+    "total_raw_captures": 308,
+    "unique_content_events": 52,
+    "events": [
+      {
+        "date": "2020-02-25",
+        "timestamp": "20200225174648",
+        "text_hash": "f2a6a26dc1b207b6008f5d00a47108530a45c1c9e394facf8e070ee3e7e23c8e",
+        "snapshot_url": "https://web.archive.org/web/20200225174648/canva.com/pricing"
+      },
+      {
+        "date": "2020-04-01",
+        "timestamp": "20200401092214",
+        "text_hash": "8a0aa0e542d396a17161c21e657b57604fc3e64aa8f4481c31976b417a454bd7",
+        "snapshot_url": "https://web.archive.org/web/20200401092214/canva.com/pricing"
+      },
+      {
+        "date": "2020-04-02",
+        "timestamp": "20200402184837",
+        "text_hash": "9991b7b3d607569b23a36cfbdce26e147d98de7084fe228a0694930c94efb893",
+        "snapshot_url": "https://web.archive.org/web/20200402184837/canva.com/pricing"
+      },
+      {
+        "date": "2020-04-06",
+        "timestamp": "20200406183557",
+        "text_hash": "be9ad4076fcfc6c2108b92061101c62a7e515bcb058db737665dba07f7958ddb",
+        "snapshot_url": "https://web.archive.org/web/20200406183557/canva.com/pricing"
+      },
+      {
+        "date": "2020-04-27",
+        "timestamp": "20200427011435",
+        "text_hash": "a9883d5d9c3f742a2d9c4e229289d2c969951e901b90168eab775f621bd78be2",
+        "snapshot_url": "https://web.archive.org/web/20200427011435/canva.com/pricing"
+      },
+      {
+        "date": "2020-06-22",
+        "timestamp": "20200622231157",
+        "text_hash": "a6e1afcaf888f71dcdfc7b9eacefb31a91bbc9881c36e764a98d79894f88d803",
+        "snapshot_url": "https://web.archive.org/web/20200622231157/canva.com/pricing"
+      },
+      {
+        "date": "2020-07-20",
+        "timestamp": "20200720161814",
+        "text_hash": "bba560e8919b70d027659c441895a7c8fe13b4f77aa70ee9d000b9167e89718b",
+        "snapshot_url": "https://web.archive.org/web/20200720161814/canva.com/pricing"
+      },
+      {
+        "date": "2020-08-03",
+        "timestamp": "20200803135521",
+        "text_hash": "33b3aa09716602465d028a8af8d92fd5642fd56dd8892dd3e5cfa9a1dc75ad1d",
+        "snapshot_url": "https://web.archive.org/web/20200803135521/canva.com/pricing"
+      },
+      {
+        "date": "2020-08-29",
+        "timestamp": "20200829052310",
+        "text_hash": "858b33e1a17ad3038389c58d5945af934c0922dc431d25e22dc3364ba509bb68",
+        "snapshot_url": "https://web.archive.org/web/20200829052310/canva.com/pricing"
+      },
+      {
+        "date": "2020-10-06",
+        "timestamp": "20201006055844",
+        "text_hash": "fed5c5356c47242a7caa16b67ccc669683db1ec21e2f72e820d4b1719539e228",
+        "snapshot_url": "https://web.archive.org/web/20201006055844/canva.com/pricing"
+      },
+      {
+        "date": "2020-10-22",
+        "timestamp": "20201022152951",
+        "text_hash": "ec40e3eb28cd9f0f10c8ce1af5dd190a4badb08c8a3436f0b48188f022696654",
+        "snapshot_url": "https://web.archive.org/web/20201022152951/canva.com/pricing"
+      },
+      {
+        "date": "2020-10-29",
+        "timestamp": "20201029171407",
+        "text_hash": "b911ddc9fc9998af15ac5580580b5a2c7cf4ae7d4d21afd7dfea8d85c58d0e64",
+        "snapshot_url": "https://web.archive.org/web/20201029171407/canva.com/pricing"
+      },
+      {
+        "date": "2020-11-01",
+        "timestamp": "20201101053952",
+        "text_hash": "371537c3b6204b89c429096942c5bc59857f53c79ee5df1bc16e15ed33449703",
+        "snapshot_url": "https://web.archive.org/web/20201101053952/canva.com/pricing"
+      },
+      {
+        "date": "2020-11-30",
+        "timestamp": "20201130153615",
+        "text_hash": "d1ae7eb6aff6628df8e111bdeee0c3ca7613bcabd3f6d946c43557b08c7e00ff",
+        "snapshot_url": "https://web.archive.org/web/20201130153615/canva.com/pricing"
+      },
+      {
+        "date": "2020-12-21",
+        "timestamp": "20201221102107",
+        "text_hash": "2ff9aea64c0fd0e95e812a3158dc45efd09788c9044a8e93b066bc735e3851eb",
+        "snapshot_url": "https://web.archive.org/web/20201221102107/canva.com/pricing"
+      },
+      {
+        "date": "2021-01-19",
+        "timestamp": "20210119115931",
+        "text_hash": "e559cbbec1f504c038ba21c853f9509ed74937dd3f72603853a423c627dea06e",
+        "snapshot_url": "https://web.archive.org/web/20210119115931/canva.com/pricing"
+      },
+      {
+        "date": "2021-01-24",
+        "timestamp": "20210124000136",
+        "text_hash": "8447c19c53321c6a19ae29b383974d8d41b988cb2ba1ab1b5144bc4be5c96656",
+        "snapshot_url": "https://web.archive.org/web/20210124000136/canva.com/pricing"
+      },
+      {
+        "date": "2021-08-14",
+        "timestamp": "20210814230205",
+        "text_hash": "63ca7678f614ebac1ae48297892552d5f990da685e491af50ceb110e6f3f9b09",
+        "snapshot_url": "https://web.archive.org/web/20210814230205/canva.com/pricing"
+      },
+      {
+        "date": "2021-09-20",
+        "timestamp": "20210920022019",
+        "text_hash": "c17160ab5a0f75829eeeea4f76e0cc18a283ad1d129c197ba053382220df841d",
+        "snapshot_url": "https://web.archive.org/web/20210920022019/canva.com/pricing"
+      },
+      {
+        "date": "2021-12-30",
+        "timestamp": "20211230144740",
+        "text_hash": "9d2574c0a03b93e37547b4c3ae19765e776f4c17b599c8d86d54421b2ccbd362",
+        "snapshot_url": "https://web.archive.org/web/20211230144740/canva.com/pricing"
+      },
+      {
+        "date": "2022-01-03",
+        "timestamp": "20220103232307",
+        "text_hash": "c17160ab5a0f75829eeeea4f76e0cc18a283ad1d129c197ba053382220df841d",
+        "snapshot_url": "https://web.archive.org/web/20220103232307/canva.com/pricing"
+      },
+      {
+        "date": "2022-01-09",
+        "timestamp": "20220109054011",
+        "text_hash": "9d2574c0a03b93e37547b4c3ae19765e776f4c17b599c8d86d54421b2ccbd362",
+        "snapshot_url": "https://web.archive.org/web/20220109054011/canva.com/pricing"
+      },
+      {
+        "date": "2022-01-14",
+        "timestamp": "20220114044339",
+        "text_hash": "c17160ab5a0f75829eeeea4f76e0cc18a283ad1d129c197ba053382220df841d",
+        "snapshot_url": "https://web.archive.org/web/20220114044339/canva.com/pricing"
+      },
+      {
+        "date": "2022-01-17",
+        "timestamp": "20220117182514",
+        "text_hash": "9d2574c0a03b93e37547b4c3ae19765e776f4c17b599c8d86d54421b2ccbd362",
+        "snapshot_url": "https://web.archive.org/web/20220117182514/canva.com/pricing"
+      },
+      {
+        "date": "2022-03-12",
+        "timestamp": "20220312022923",
+        "text_hash": "c17160ab5a0f75829eeeea4f76e0cc18a283ad1d129c197ba053382220df841d",
+        "snapshot_url": "https://web.archive.org/web/20220312022923/canva.com/pricing"
+      },
+      {
+        "date": "2024-04-14",
+        "timestamp": "20240414195755",
+        "text_hash": "ed1fff6ac223f8aa8f9c719b417628a8a55bbe6851e38133bf37643f86ce86b9",
+        "snapshot_url": "https://web.archive.org/web/20240414195755/canva.com/pricing"
+      },
+      {
+        "date": "2024-04-30",
+        "timestamp": "20240430055302",
+        "text_hash": "0bea2c2dbacc406e7341e27470125d2724286e3f93d84e0f3f2a91d9e90caf14",
+        "snapshot_url": "https://web.archive.org/web/20240430055302/canva.com/pricing"
+      },
+      {
+        "date": "2024-04-30",
+        "timestamp": "20240430102131",
+        "text_hash": "c17160ab5a0f75829eeeea4f76e0cc18a283ad1d129c197ba053382220df841d",
+        "snapshot_url": "https://web.archive.org/web/20240430102131/canva.com/pricing"
+      },
+      {
+        "date": "2024-05-20",
+        "timestamp": "20240520171512",
+        "text_hash": "57f421edef8e0a96837cfa117b24c0173cc0b8b585dee7f4de520ebad91c4187",
+        "snapshot_url": "https://web.archive.org/web/20240520171512/canva.com/pricing"
+      },
+      {
+        "date": "2024-05-21",
+        "timestamp": "20240521135530",
+        "text_hash": "c17160ab5a0f75829eeeea4f76e0cc18a283ad1d129c197ba053382220df841d",
+        "snapshot_url": "https://web.archive.org/web/20240521135530/canva.com/pricing"
+      },
+      {
+        "date": "2024-06-18",
+        "timestamp": "20240618095406",
+        "text_hash": "4be0178ab4b6a078247c908a1559c5d7dc905d116705abb22134694fdd657d47",
+        "snapshot_url": "https://web.archive.org/web/20240618095406/canva.com/pricing"
+      },
+      {
+        "date": "2024-07-02",
+        "timestamp": "20240702071806",
+        "text_hash": "c17160ab5a0f75829eeeea4f76e0cc18a283ad1d129c197ba053382220df841d",
+        "snapshot_url": "https://web.archive.org/web/20240702071806/canva.com/pricing"
+      },
+      {
+        "date": "2025-07-09",
+        "timestamp": "20250709185954",
+        "text_hash": "7eaf26f6bab75ef449e61d825939d7925078637d9f213866fc83ce2b2a214c92",
+        "snapshot_url": "https://web.archive.org/web/20250709185954/canva.com/pricing"
+      },
+      {
+        "date": "2025-07-11",
+        "timestamp": "20250711094656",
+        "text_hash": "cdc2db6e702796844f1cc4d3428efaa7ade71267e1245a124c242314e12aabbf",
+        "snapshot_url": "https://web.archive.org/web/20250711094656/canva.com/pricing"
+      },
+      {
+        "date": "2025-07-29",
+        "timestamp": "20250729085900",
+        "text_hash": "5247bcf1bd8b436c1fb420ca2151f62ce051ef618d6cbd9f31f3317b32747cac",
+        "snapshot_url": "https://web.archive.org/web/20250729085900/canva.com/pricing"
+      },
+      {
+        "date": "2025-07-30",
+        "timestamp": "20250730233647",
+        "text_hash": "5cf885aefcdde88b8781e525307879731cd6e3bc9b91880c3f301d65e90834a0",
+        "snapshot_url": "https://web.archive.org/web/20250730233647/canva.com/pricing"
+      },
+      {
+        "date": "2025-08-09",
+        "timestamp": "20250809063621",
+        "text_hash": "92da3efc09f248f22b30879ee1a3e6c4d21db63d43aa73dd15377f5c79e37b21",
+        "snapshot_url": "https://web.archive.org/web/20250809063621/canva.com/pricing"
+      },
+      {
+        "date": "2025-08-09",
+        "timestamp": "20250809144609",
+        "text_hash": "3eca509f1bfed6bd37320a67b3f17a0694df9bb015e5e1bdc5b97e3ec8930774",
+        "snapshot_url": "https://web.archive.org/web/20250809144609/canva.com/pricing"
+      },
+      {
+        "date": "2025-08-12",
+        "timestamp": "20250812165657",
+        "text_hash": "9b8037bd164bd6ed337a420aa719964c199e819785faed6228d09bc3d416adc6",
+        "snapshot_url": "https://web.archive.org/web/20250812165657/canva.com/pricing"
+      },
+      {
+        "date": "2025-08-13",
+        "timestamp": "20250813090247",
+        "text_hash": "6a23a94f55693cdf115ca183a393cff8af8fef6669d7101ac6d593eb8ff73ce4",
+        "snapshot_url": "https://web.archive.org/web/20250813090247/canva.com/pricing"
+      },
+      {
+        "date": "2025-08-15",
+        "timestamp": "20250815080315",
+        "text_hash": "ff1da708ba35ee2f40f97550e3648442fa1d8c3185e378b4fc6e4fe36d43ad88",
+        "snapshot_url": "https://web.archive.org/web/20250815080315/canva.com/pricing"
+      },
+      {
+        "date": "2025-08-15",
+        "timestamp": "20250815172039",
+        "text_hash": "14e686abbb5679f3be8853783db1386a6830f279a973cc05391bf16ad1e35c54",
+        "snapshot_url": "https://web.archive.org/web/20250815172039/canva.com/pricing"
+      },
+      {
+        "date": "2025-08-17",
+        "timestamp": "20250817094058",
+        "text_hash": "9b8037bd164bd6ed337a420aa719964c199e819785faed6228d09bc3d416adc6",
+        "snapshot_url": "https://web.archive.org/web/20250817094058/canva.com/pricing"
+      },
+      {
+        "date": "2025-08-21",
+        "timestamp": "20250821090328",
+        "text_hash": "825efaba3cc2a39f299e8855a9c924c8fd045b2e584879f48f37828d37403849",
+        "snapshot_url": "https://web.archive.org/web/20250821090328/canva.com/pricing"
+      },
+      {
+        "date": "2025-08-27",
+        "timestamp": "20250827133428",
+        "text_hash": "ff1da708ba35ee2f40f97550e3648442fa1d8c3185e378b4fc6e4fe36d43ad88",
+        "snapshot_url": "https://web.archive.org/web/20250827133428/canva.com/pricing"
+      },
+      {
+        "date": "2025-10-31",
+        "timestamp": "20251031054541",
+        "text_hash": "a529453940d01a5267591ae81168ac7a07badc1fd2448048eb12fac5cfb33173",
+        "snapshot_url": "https://web.archive.org/web/20251031054541/canva.com/pricing"
+      },
+      {
+        "date": "2025-11-13",
+        "timestamp": "20251113102831",
+        "text_hash": "53ebb94e6ec29f24d8bbbd2094fa8622f67c78b28167309fb9d926e0bacfb20f",
+        "snapshot_url": "https://web.archive.org/web/20251113102831/canva.com/pricing"
+      },
+      {
+        "date": "2025-11-23",
+        "timestamp": "20251123081227",
+        "text_hash": "9b8037bd164bd6ed337a420aa719964c199e819785faed6228d09bc3d416adc6",
+        "snapshot_url": "https://web.archive.org/web/20251123081227/canva.com/pricing"
+      },
+      {
+        "date": "2026-05-11",
+        "timestamp": "20260511143417",
+        "text_hash": "4c035b6242a4a10e22a23342fbf318a6314fb02d37dc19d012be9160ce75b10c",
+        "snapshot_url": "https://web.archive.org/web/20260511143417/canva.com/pricing"
+      },
+      {
+        "date": "2026-05-31",
+        "timestamp": "20260531022945",
+        "text_hash": "9b8037bd164bd6ed337a420aa719964c199e819785faed6228d09bc3d416adc6",
+        "snapshot_url": "https://web.archive.org/web/20260531022945/canva.com/pricing"
+      },
+      {
+        "date": "2026-07-13",
+        "timestamp": "20260713042706",
+        "text_hash": "4c035b6242a4a10e22a23342fbf318a6314fb02d37dc19d012be9160ce75b10c",
+        "snapshot_url": "https://web.archive.org/web/20260713042706/canva.com/pricing"
+      },
+      {
+        "date": "2026-07-16",
+        "timestamp": "20260716141102",
+        "text_hash": "9b8037bd164bd6ed337a420aa719964c199e819785faed6228d09bc3d416adc6",
+        "snapshot_url": "https://web.archive.org/web/20260716141102/canva.com/pricing"
+      }
+    ]
+  },
+  "ConvertKit": {
+    "total_raw_captures": 325,
+    "unique_content_events": 64,
+    "events": [
+      {
+        "date": "2015-09-08",
+        "timestamp": "20150908034923",
+        "text_hash": "618265251717424d2b002a8951b3b73e4491b9f0543e6c62cbc10e50bbe575e6",
+        "snapshot_url": "https://web.archive.org/web/20150908034923/convertkit.com/pricing"
+      },
+      {
+        "date": "2016-05-06",
+        "timestamp": "20160506154806",
+        "text_hash": "62fa04f371f4bd113fb947507dfcf1a39632a3a77491d49f1df322e776ecee62",
+        "snapshot_url": "https://web.archive.org/web/20160506154806/convertkit.com/pricing"
+      },
+      {
+        "date": "2018-06-12",
+        "timestamp": "20180612161018",
+        "text_hash": "fcfa23e0de8caf6f3560751f1d0bfd9f2330edad535c1110fd61e2e7cd776f9d",
+        "snapshot_url": "https://web.archive.org/web/20180612161018/convertkit.com/pricing"
+      },
+      {
+        "date": "2018-07-18",
+        "timestamp": "20180718000512",
+        "text_hash": "bc3f0046b1ae9a4d2295e94a0298820fff2f36f9651d09d9d573be88815b0aac",
+        "snapshot_url": "https://web.archive.org/web/20180718000512/convertkit.com/pricing"
+      },
+      {
+        "date": "2018-07-25",
+        "timestamp": "20180725055914",
+        "text_hash": "fcfa23e0de8caf6f3560751f1d0bfd9f2330edad535c1110fd61e2e7cd776f9d",
+        "snapshot_url": "https://web.archive.org/web/20180725055914/convertkit.com/pricing"
+      },
+      {
+        "date": "2018-08-30",
+        "timestamp": "20180830080002",
+        "text_hash": "b233155ef42b617c145fd914fafc10798240234cf6d244e0fd17cf903dea4bd7",
+        "snapshot_url": "https://web.archive.org/web/20180830080002/convertkit.com/pricing"
+      },
+      {
+        "date": "2018-12-19",
+        "timestamp": "20181219070149",
+        "text_hash": "430cff4097395b1280053853c90c6e3ea4301d433d2f60fcb0eb8b18d41746fd",
+        "snapshot_url": "https://web.archive.org/web/20181219070149/convertkit.com/pricing"
+      },
+      {
+        "date": "2019-01-09",
+        "timestamp": "20190109073728",
+        "text_hash": "30728df3eaccd0d551467a7fb7b8e9e2ab09b9ea7ae485869e5124598cf14bcf",
+        "snapshot_url": "https://web.archive.org/web/20190109073728/convertkit.com/pricing"
+      },
+      {
+        "date": "2019-04-10",
+        "timestamp": "20190410214250",
+        "text_hash": "26ba293f42cd05325097d8f477853b7e2ccb9259200653ded6499cab36a3c14b",
+        "snapshot_url": "https://web.archive.org/web/20190410214250/convertkit.com/pricing"
+      },
+      {
+        "date": "2019-04-24",
+        "timestamp": "20190424121018",
+        "text_hash": "30728df3eaccd0d551467a7fb7b8e9e2ab09b9ea7ae485869e5124598cf14bcf",
+        "snapshot_url": "https://web.archive.org/web/20190424121018/convertkit.com/pricing"
+      },
+      {
+        "date": "2019-09-17",
+        "timestamp": "20190917153830",
+        "text_hash": "1f6729f15d2df07f323616f1da6de47c9bdaf44ee193cd2d0237d5d03ac4dcd0",
+        "snapshot_url": "https://web.archive.org/web/20190917153830/convertkit.com/pricing"
+      },
+      {
+        "date": "2019-09-22",
+        "timestamp": "20190922161718",
+        "text_hash": "9ffda7cd66c80d379d8c44c7d7eac93ac38593bd83602812e152878ec9eb1a7d",
+        "snapshot_url": "https://web.archive.org/web/20190922161718/convertkit.com/pricing"
+      },
+      {
+        "date": "2019-10-15",
+        "timestamp": "20191015184251",
+        "text_hash": "e0f60d900cf32897f06e66042c45b63fe8633e1e1f77f799c7ada80144751621",
+        "snapshot_url": "https://web.archive.org/web/20191015184251/convertkit.com/pricing"
+      },
+      {
+        "date": "2020-05-13",
+        "timestamp": "20200513035407",
+        "text_hash": "4d0a90c232c2c6af1a51dfbef8d941d01366c931e2e30a48673a5a965e8fc530",
+        "snapshot_url": "https://web.archive.org/web/20200513035407/convertkit.com/pricing"
+      },
+      {
+        "date": "2020-07-21",
+        "timestamp": "20200721125947",
+        "text_hash": "12b402c8dc0398702e0e0029b08b46689753a4eddc671b86c78d4cc8e718967d",
+        "snapshot_url": "https://web.archive.org/web/20200721125947/convertkit.com/pricing"
+      },
+      {
+        "date": "2020-08-12",
+        "timestamp": "20200812091116",
+        "text_hash": "9461045bca97ec46fc194709a74af6cbfbf33b32a4dd4e1e72fe4d167412474f",
+        "snapshot_url": "https://web.archive.org/web/20200812091116/convertkit.com/pricing"
+      },
+      {
+        "date": "2020-09-21",
+        "timestamp": "20200921024734",
+        "text_hash": "b3c280af683aac734cca733decf53012d7ccdc1a38e1919fb8d34875c8024634",
+        "snapshot_url": "https://web.archive.org/web/20200921024734/convertkit.com/pricing"
+      },
+      {
+        "date": "2021-02-26",
+        "timestamp": "20210226005738",
+        "text_hash": "740a644b621d53a7315a9c4788f58f6b3767583442636a3ec8870baa28313402",
+        "snapshot_url": "https://web.archive.org/web/20210226005738/convertkit.com/pricing"
+      },
+      {
+        "date": "2021-03-27",
+        "timestamp": "20210327042726",
+        "text_hash": "5d07f918aedc710db3d4e6414fe23f05fcfa898e271011557e833d37edacb9df",
+        "snapshot_url": "https://web.archive.org/web/20210327042726/convertkit.com/pricing"
+      },
+      {
+        "date": "2021-05-09",
+        "timestamp": "20210509234247",
+        "text_hash": "f75c1730dbf7073e9f9fabb4ae2f209a1c8844d9dbe2be51e29b1e2292416551",
+        "snapshot_url": "https://web.archive.org/web/20210509234247/convertkit.com/pricing"
+      },
+      {
+        "date": "2021-08-11",
+        "timestamp": "20210811210019",
+        "text_hash": "dd742cd6be857533e9b565956cc43f43fedcc462dd603749404193277a154dfd",
+        "snapshot_url": "https://web.archive.org/web/20210811210019/convertkit.com/pricing"
+      },
+      {
+        "date": "2021-09-21",
+        "timestamp": "20210921223339",
+        "text_hash": "a8521b3c9e0e22d96e2e60469ffc8ce555970ff3818c9e1900feea69326a7a03",
+        "snapshot_url": "https://web.archive.org/web/20210921223339/convertkit.com/pricing"
+      },
+      {
+        "date": "2022-02-23",
+        "timestamp": "20220223203335",
+        "text_hash": "f1dd19c3bbb255b8b361faef84c1f6ef1fac4169dae6570526fed439f2548d22",
+        "snapshot_url": "https://web.archive.org/web/20220223203335/convertkit.com/pricing"
+      },
+      {
+        "date": "2022-04-08",
+        "timestamp": "20220408160812",
+        "text_hash": "0f4f1b22da710b67549ded38661d13efa78bfb5e614af25862e0d32621730a90",
+        "snapshot_url": "https://web.archive.org/web/20220408160812/convertkit.com/pricing"
+      },
+      {
+        "date": "2022-06-16",
+        "timestamp": "20220616035555",
+        "text_hash": "64617c2bfff2143dea5e662efa7327cf09527ff27fd126b2513e9bf48b12623b",
+        "snapshot_url": "https://web.archive.org/web/20220616035555/convertkit.com/pricing"
+      },
+      {
+        "date": "2022-07-23",
+        "timestamp": "20220723013953",
+        "text_hash": "8fb54d7f0fe6b9393cac799168421549dd7d8cf00b7b0c53d7ac5b38d50170f8",
+        "snapshot_url": "https://web.archive.org/web/20220723013953/convertkit.com/pricing"
+      },
+      {
+        "date": "2022-10-02",
+        "timestamp": "20221002233716",
+        "text_hash": "9a615e42ccb52768fb8081d5f8b7759116673c2da621dc7b9f4b35c077515208",
+        "snapshot_url": "https://web.archive.org/web/20221002233716/convertkit.com/pricing"
+      },
+      {
+        "date": "2022-12-29",
+        "timestamp": "20221229154545",
+        "text_hash": "e766012c48c83cde43ab3cc12afd60291c11fcf2b802acfbaff95d5e9510dac7",
+        "snapshot_url": "https://web.archive.org/web/20221229154545/convertkit.com/pricing"
+      },
+      {
+        "date": "2023-02-13",
+        "timestamp": "20230213131449",
+        "text_hash": "508da8c13f3373b7255792992aaef6f4f6503d7e24521761bb3dfb55145d304b",
+        "snapshot_url": "https://web.archive.org/web/20230213131449/convertkit.com/pricing"
+      },
+      {
+        "date": "2023-02-22",
+        "timestamp": "20230222221216",
+        "text_hash": "192743bf3e26e69877054d8efc92538a5ba3053640df8a4a59508a3347bd8150",
+        "snapshot_url": "https://web.archive.org/web/20230222221216/convertkit.com/pricing"
+      },
+      {
+        "date": "2023-03-08",
+        "timestamp": "20230308043708",
+        "text_hash": "1ae3679223dd1661f70a08c02ad94ef27fb2ddecc7599cb15dfd0d38b4fc88a8",
+        "snapshot_url": "https://web.archive.org/web/20230308043708/convertkit.com/pricing"
+      },
+      {
+        "date": "2023-03-13",
+        "timestamp": "20230313174711",
+        "text_hash": "9c49cbb76d941db4c840c18b5b0bc1c63d0d1e451ebaf154993dc9f4148ef843",
+        "snapshot_url": "https://web.archive.org/web/20230313174711/convertkit.com/pricing"
+      },
+      {
+        "date": "2023-08-07",
+        "timestamp": "20230807015143",
+        "text_hash": "e9beb1dc6e493a93962973005c065f383cf328a34bc5a4491909d6445f82e038",
+        "snapshot_url": "https://web.archive.org/web/20230807015143/convertkit.com/pricing"
+      },
+      {
+        "date": "2023-09-08",
+        "timestamp": "20230908215041",
+        "text_hash": "b8d50456ccefc30d9daa94bee32ee2d50dcadde797b169f4ba8b9f2bc866111d",
+        "snapshot_url": "https://web.archive.org/web/20230908215041/convertkit.com/pricing"
+      },
+      {
+        "date": "2023-09-20",
+        "timestamp": "20230920103345",
+        "text_hash": "860bbf106a6194f89bdcff4191d07916e003c756891748af4b36579935d3fe7d",
+        "snapshot_url": "https://web.archive.org/web/20230920103345/convertkit.com/pricing"
+      },
+      {
+        "date": "2023-09-25",
+        "timestamp": "20230925062435",
+        "text_hash": "a3525e2d14c9a0412ec0136a7d6038779cb0504537f0400c4589cd9c2bd2d4f4",
+        "snapshot_url": "https://web.archive.org/web/20230925062435/convertkit.com/pricing"
+      },
+      {
+        "date": "2023-09-28",
+        "timestamp": "20230928043211",
+        "text_hash": "c2663a292e6d66770cad04ec53e2b6bdfaa4a4b7926e0b01f416d45648c1ddb3",
+        "snapshot_url": "https://web.archive.org/web/20230928043211/convertkit.com/pricing"
+      },
+      {
+        "date": "2023-10-22",
+        "timestamp": "20231022051100",
+        "text_hash": "ab9cfa33e7927682197eee95cd3e019d575ac778b6e2742ad0463a9d773123e5",
+        "snapshot_url": "https://web.archive.org/web/20231022051100/convertkit.com/pricing"
+      },
+      {
+        "date": "2023-11-26",
+        "timestamp": "20231126215557",
+        "text_hash": "bbf4d150f211edbcacc55a69318f663b3170edd132c4c09fc7b28a05a6ae80ab",
+        "snapshot_url": "https://web.archive.org/web/20231126215557/convertkit.com/pricing"
+      },
+      {
+        "date": "2023-11-29",
+        "timestamp": "20231129053206",
+        "text_hash": "d8f188a3f7e1d3f43d37ab3f3c7edfbdeaa4183f9902830b47dcedf29d915eda",
+        "snapshot_url": "https://web.archive.org/web/20231129053206/convertkit.com/pricing"
+      },
+      {
+        "date": "2023-11-29",
+        "timestamp": "20231129163034",
+        "text_hash": "645b7aae9683203e72d69862540e67eae42ba1002df5e78ae529b65d8abc202b",
+        "snapshot_url": "https://web.archive.org/web/20231129163034/convertkit.com/pricing"
+      },
+      {
+        "date": "2023-12-10",
+        "timestamp": "20231210130628",
+        "text_hash": "619d9e4b2848906efd0f131c5fbe2ac5cc0c40ec1951e454ca2335b01f8e406a",
+        "snapshot_url": "https://web.archive.org/web/20231210130628/convertkit.com/pricing"
+      },
+      {
+        "date": "2024-01-10",
+        "timestamp": "20240110122254",
+        "text_hash": "2cc2af83007d310a92fe09b63426ccdde845a54df119138f4cc7e2bec6daf57f",
+        "snapshot_url": "https://web.archive.org/web/20240110122254/convertkit.com/pricing"
+      },
+      {
+        "date": "2024-03-05",
+        "timestamp": "20240305053145",
+        "text_hash": "28e26d9d6cd935a4a3b17c48ec4e2746542beff7bdd99aa1d7ae70dc420e563d",
+        "snapshot_url": "https://web.archive.org/web/20240305053145/convertkit.com/pricing"
+      },
+      {
+        "date": "2024-04-13",
+        "timestamp": "20240413133045",
+        "text_hash": "19add5d9a2f32ed88e775c73283d4c982cae998da570a7da4523bb92f3e8167e",
+        "snapshot_url": "https://web.archive.org/web/20240413133045/convertkit.com/pricing"
+      },
+      {
+        "date": "2024-07-03",
+        "timestamp": "20240703080235",
+        "text_hash": "dc6f8165e11391c4a8452a51ff3fe6fca65b97fd58afbc42a74b97e2994a840e",
+        "snapshot_url": "https://web.archive.org/web/20240703080235/convertkit.com/pricing"
+      },
+      {
+        "date": "2024-07-14",
+        "timestamp": "20240714160932",
+        "text_hash": "b277e08b9cd558643982947ab4d109da9901a2b26118aa2c10709f315e02f04b",
+        "snapshot_url": "https://web.archive.org/web/20240714160932/convertkit.com/pricing"
+      },
+      {
+        "date": "2024-08-16",
+        "timestamp": "20240816205102",
+        "text_hash": "e2bc477969228dd1bfa308cd2b4e9297297ca955cd0d88e5c019b3a132a69fbb",
+        "snapshot_url": "https://web.archive.org/web/20240816205102/convertkit.com/pricing"
+      },
+      {
+        "date": "2024-10-07",
+        "timestamp": "20241007054511",
+        "text_hash": "2b2e26b687e3ae64b100d3b2f2ad37a3ad36d7c5c828c8f27a86f341a2bb1f89",
+        "snapshot_url": "https://web.archive.org/web/20241007054511/kit.com/pricing"
+      },
+      {
+        "date": "2024-12-09",
+        "timestamp": "20241209110721",
+        "text_hash": "36e95e40a46d8810b50bc87541faca4ec70182166241689ad248ab06c82b3d2d",
+        "snapshot_url": "https://web.archive.org/web/20241209110721/kit.com/pricing"
+      },
+      {
+        "date": "2025-01-14",
+        "timestamp": "20250114131747",
+        "text_hash": "154994bad396140589cfed1395ba5d4c03b2eb67d8e8b69456b572437d5347ad",
+        "snapshot_url": "https://web.archive.org/web/20250114131747/kit.com/pricing"
+      },
+      {
+        "date": "2025-05-06",
+        "timestamp": "20250506133903",
+        "text_hash": "8ce2d2b4350bc360878b15aa56e6f89a6f76b6cb0a9706e5f81833d3b771d8c1",
+        "snapshot_url": "https://web.archive.org/web/20250506133903/kit.com/pricing"
+      },
+      {
+        "date": "2025-05-20",
+        "timestamp": "20250520224022",
+        "text_hash": "fc8f78bb866a80afe7ab649795918243087c4f69ba724e8a4f2fa135651093c2",
+        "snapshot_url": "https://web.archive.org/web/20250520224022/kit.com/pricing"
+      },
+      {
+        "date": "2025-06-15",
+        "timestamp": "20250615001144",
+        "text_hash": "41b09efb249e76c794cf9e79311995b896b041880e246e240dc132e523bfbc45",
+        "snapshot_url": "https://web.archive.org/web/20250615001144/kit.com/pricing"
+      },
+      {
+        "date": "2025-06-26",
+        "timestamp": "20250626172825",
+        "text_hash": "f4a747aa8a2fc7d66d877e5ffb8193d15a373bd45f8ba15f7ae54a1bba83e021",
+        "snapshot_url": "https://web.archive.org/web/20250626172825/kit.com/pricing"
+      },
+      {
+        "date": "2025-07-02",
+        "timestamp": "20250702212315",
+        "text_hash": "16b6cc7b779e0cdb581d149f03dab2fbbaf860fc3ad6ebdecd4972e98bbc7de4",
+        "snapshot_url": "https://web.archive.org/web/20250702212315/kit.com/pricing"
+      },
+      {
+        "date": "2025-08-02",
+        "timestamp": "20250802012534",
+        "text_hash": "92bb38f0152b9c3a9ad5e4008ee7ae244b47b6d71ea602df8c6d6f89823dd790",
+        "snapshot_url": "https://web.archive.org/web/20250802012534/kit.com/pricing"
+      },
+      {
+        "date": "2025-09-08",
+        "timestamp": "20250908200747",
+        "text_hash": "d1fa2312cd988689582f3433b358c1d84087aa582fc8edd4efb01b6a052fe075",
+        "snapshot_url": "https://web.archive.org/web/20250908200747/kit.com/pricing"
+      },
+      {
+        "date": "2025-10-29",
+        "timestamp": "20251029113417",
+        "text_hash": "073122261e4b27845415da6e7f17adaa787a6cf12bd6cf0c42a0b88c708c6146",
+        "snapshot_url": "https://web.archive.org/web/20251029113417/kit.com/pricing"
+      },
+      {
+        "date": "2025-12-09",
+        "timestamp": "20251209230127",
+        "text_hash": "79977658a23854a7aa7e8a94fe4e9cd0ce1c9f44a59c085fe8e57dc266d22dc4",
+        "snapshot_url": "https://web.archive.org/web/20251209230127/kit.com/pricing"
+      },
+      {
+        "date": "2026-02-07",
+        "timestamp": "20260207132505",
+        "text_hash": "5a27860343a8fdec899de7405456769d9c4d14a4c86fa28892984a97e2c9c5b4",
+        "snapshot_url": "https://web.archive.org/web/20260207132505/kit.com/pricing"
+      },
+      {
+        "date": "2026-05-17",
+        "timestamp": "20260517171641",
+        "text_hash": "ff699b6f3c11a6fceec30db26c830106f8bb038ab7a85a23b4e1e74cde56dfbf",
+        "snapshot_url": "https://web.archive.org/web/20260517171641/kit.com/pricing"
+      },
+      {
+        "date": "2026-06-30",
+        "timestamp": "20260630004754",
+        "text_hash": "e30d3dd5c2c07c12e01c5bd2c1316369c4f79261aed7d6e8da5e6aa984c69477",
+        "snapshot_url": "https://web.archive.org/web/20260630004754/kit.com/pricing"
+      },
+      {
+        "date": "2026-07-11",
+        "timestamp": "20260711104112",
+        "text_hash": "c09c027f663c0fed6d4bad96041549d8c51076e2c5c331cfc78799d68eac8c6b",
+        "snapshot_url": "https://web.archive.org/web/20260711104112/kit.com/pricing"
+      }
+    ]
+  }
+}

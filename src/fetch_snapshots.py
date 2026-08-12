@@ -1,159 +1,269 @@
-"""Wayback Machine CDX Snapshot Fetcher.
+"""
+src/fetch_snapshots.py
 
-Queries the Internet Archive CDX API to retrieve historical pricing page metadata
-for target SaaS domains. Includes automatic retry logic, status filtering, and CSV export.
+Harvests CDX metadata from Internet Archive's Web Archive API for the 13
+SaaS target domains defined in data/seed_domains.csv, then builds a summary
+manifest of what was actually retrieved for each company.
 """
 
 import csv
 import json
 import logging
-import time
-import urllib.parse
-import urllib.request
-from typing import Dict, List, Optional
+from typing import List, Dict, Optional
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
-from src.config import (
-    BACKOFF_FACTOR_SECONDS,
-    DEFAULT_RATE_LIMIT_DELAY,
-    MAX_RETRIES,
-    OUTPUT_MANIFEST_PATH,
-    REQUEST_TIMEOUT_SECONDS,
-    SEED_FILE_PATH,
-    USER_AGENT,
-    WAYBACK_CDX_ENDPOINT,
-    validate_environment,
-)
+import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util import Retry
 
-# Configure logging output
+from config import RAW_CDX_DIR, SEED_CSV_PATH, DATA_DIR
+
 logging.basicConfig(
-    level=logging.INFO, format="%(asctime)s - [%(levelname)s] - %(message)s"
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    handlers=[logging.StreamHandler()]
 )
+logger = logging.getLogger("fetch_snapshots")
+
+SUMMARY_MANIFEST_PATH = DATA_DIR / "snapshot_manifest.csv"
 
 
-def fetch_domain_snapshots(
-    domain: str, path_suffix: str = "/pricing"
-) -> List[List[str]]:
-    """Queries the CDX API for successful HTTP 200 captures of a target URL.
+def load_targets_from_csv(csv_path=SEED_CSV_PATH) -> List[Dict[str, str]]:
+    """Reads the 13 company targets from seed_domains.csv."""
+    targets = []
+    if not csv_path.exists():
+        logger.error(f"Seed domains CSV not found at '{csv_path}'.")
+        return targets
 
-    Args:
-        domain (str): Target root domain (e.g., 'convertkit.com').
-        path_suffix (str): URL path to evaluate. Defaults to '/pricing'.
+    with open(csv_path, mode="r", encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            company = row["company"].strip()
+            domain = row["domain"].strip()
+            path = row["pricing_path"].strip()
 
-    Returns:
-        List[List[str]]: Filtered list of [timestamp, original_url, statuscode] records.
-    """
-    target_url = f"{domain.strip().lower()}{path_suffix}"
-    query_params = {
-        "url": target_url,
+            if path.startswith("/"):
+                path = path[1:]
+
+            full_url = f"{domain}/{path}" if path else domain
+            targets.append({
+                "name": company.lower(),
+                "display_name": company,
+                "domain": domain,
+                "url": full_url
+            })
+
+    logger.info(f"Loaded {len(targets)} target domains from '{csv_path}'.")
+    return targets
+
+
+def get_cdx_session() -> requests.Session:
+    session = requests.Session()
+    session.headers.update({
+        "User-Agent": "SaaS-Repricing-Index-Research/1.0 (contact@yourdomain.com)"
+    })
+
+    retries = Retry(
+        total=5,
+        backoff_factor=2.0,
+        status_forcelist=[429, 500, 502, 503, 504],
+        raise_on_status=False
+    )
+
+    adapter = HTTPAdapter(max_retries=retries)
+    session.mount("http://", adapter)
+    session.mount("https://", adapter)
+    return session
+
+
+def target_already_harvested(target_name: str) -> bool:
+    file_path = RAW_CDX_DIR / f"{target_name}_cdx.json"
+    return file_path.exists() and file_path.stat().st_size > 0
+
+
+def fetch_cdx_metadata_for_target(
+    session: requests.Session,
+    target: Dict[str, str],
+    from_date: str = "20100101",
+    to_date: str = "20261231"
+) -> Optional[List[List[str]]]:
+    endpoint = "https://web.archive.org/cdx/search/cdx"
+    params = {
+        "url": target["url"],
         "output": "json",
-        "fl": "timestamp,original,statuscode",
-        "filter": "statuscode:200",
+        "fl": "timestamp,original,mimetype,statuscode,digest,length",
+        "from": from_date,
+        "to": to_date,
+        "collapse": "timestamp:8",
+        "filter": "statuscode:200"
     }
 
-    encoded_url = f"{WAYBACK_CDX_ENDPOINT}?{urllib.parse.urlencode(query_params)}"
-    request = urllib.request.Request(
-        encoded_url, headers={"User-Agent": USER_AGENT}
-    )
+    logger.info(f"Issuing CDX API request for target '{target['name']}' ({target['url']})...")
 
-    for attempt in range(1, MAX_RETRIES + 1):
-        try:
-            with urllib.request.urlopen(
-                request, timeout=REQUEST_TIMEOUT_SECONDS
-            ) as response:
-                if response.status == 200:
-                    raw_data = response.read().decode("utf-8")
-                    parsed_json = json.loads(raw_data)
+    try:
+        response = session.get(endpoint, params=params, timeout=(10.0, 60.0))
+        response.raise_for_status()
+        data = response.json()
 
-                    # Exclude API header row
-                    if len(parsed_json) > 1:
-                        snapshots = parsed_json[1:]
-                        logging.info(
-                            f"Fetched {len(snapshots)} valid snapshots for {domain}"
-                        )
-                        return snapshots
+        if not data or len(data) <= 1:
+            logger.warning(f"No snapshot metadata returned for target '{target['name']}'.")
+            return None
 
-                    logging.warning(
-                        f"No successful captures recorded for {domain}"
-                    )
-                    return []
+        logger.info(f"Successfully retrieved {len(data) - 1} CDX records for target '{target['name']}'.")
+        return data
 
-        except Exception as err:
-            wait_time = BACKOFF_FACTOR_SECONDS**attempt
-            logging.warning(
-                f"Attempt {attempt}/{MAX_RETRIES} failed for {domain}: {err}. Retrying in {wait_time}s..."
-            )
-            time.sleep(wait_time)
-
-    logging.error(
-        f"Exhausted all {MAX_RETRIES} retries for {domain}. Returning empty dataset."
-    )
-    return []
+    except requests.exceptions.RequestException as e:
+        logger.error(f"HTTP/Network error harvesting target '{target['name']}': {str(e)}")
+        return None
+    except json.JSONDecodeError as e:
+        logger.error(f"Failed to decode CDX JSON response for target '{target['name']}': {str(e)}")
+        return None
 
 
-def process_seed_manifest() -> Optional[List[Dict[str, str]]]:
-    """Reads seed domain CSV, executes archival fetch, and structures summary records.
+def harvest_single_target(
+    target: Dict[str, str],
+    force_refetch: bool = False
+) -> bool:
+    target_name = target["name"]
+    file_path = RAW_CDX_DIR / f"{target_name}_cdx.json"
 
-    Returns:
-        Optional[List[Dict[str, str]]]: Aggregated dataset ready for export.
+    if not force_refetch and target_already_harvested(target_name):
+        logger.info(f"Target '{target_name}' already harvested. Skipping due to local cache.")
+        return True
+
+    RAW_CDX_DIR.mkdir(parents=True, exist_ok=True)
+    session = get_cdx_session()
+
+    cdx_data = fetch_cdx_metadata_for_target(session, target)
+    if cdx_data is None:
+        return False
+
+    try:
+        with open(file_path, "w", encoding="utf-8") as f:
+            json.dump(cdx_data, f, indent=2)
+        logger.info(f"Saved CDX metadata to '{file_path}'.")
+        return True
+    except IOError as e:
+        logger.error(f"Disk write error for target '{target_name}': {str(e)}")
+        return False
+
+
+def harvest_all_targets(
+    targets: Optional[List[Dict[str, str]]] = None,
+    max_workers: int = 2,
+    force_refetch: bool = False
+) -> Dict[str, bool]:
+    if targets is None:
+        targets = load_targets_from_csv()
+
+    results = {}
+    logger.info(f"Starting CDX harvest for {len(targets)} targets with max_workers={max_workers}.")
+
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        future_to_target = {
+            executor.submit(harvest_single_target, target, force_refetch): target
+            for target in targets
+        }
+
+        for future in as_completed(future_to_target):
+            target = future_to_target[future]
+            target_name = target["name"]
+            try:
+                status = future.result()
+                results[target_name] = status
+            except Exception as e:
+                logger.critical(f"Unhandled execution exception for target '{target_name}': {str(e)}")
+                results[target_name] = False
+
+    successful = sum(1 for status in results.values() if status)
+    logger.info(f"CDX harvest complete. Completed successfully: {successful}/{len(targets)} targets.")
+    return results
+
+
+def process_seed_manifest() -> List[Dict[str, str]]:
+    """Phase 1 of the pipeline: harvest CDX metadata for all 13 seed companies.
+
+    Returns the list of target dicts that were processed, so main.py can
+    confirm the harvest produced something before continuing.
     """
-    validate_environment()
+    targets = load_targets_from_csv()
+    if not targets:
+        logger.error("No targets loaded from seed CSV. Aborting harvest.")
+        return []
 
-    records = []
-    with open(SEED_FILE_PATH, mode="r", encoding="utf-8") as file:
-        reader = csv.DictReader(file)
-        for row in reader:
-            company = row.get("company", "Unknown")
-            domain = row.get("domain", "")
-
-            if not domain:
-                continue
-
-            logging.info(f"Processing target domain: {company} ({domain})")
-            snapshots = fetch_domain_snapshots(domain)
-
-            first_archived = snapshots[0][0][:8] if snapshots else "N/A"
-            latest_archived = snapshots[-1][0][:8] if snapshots else "N/A"
-
-            records.append(
-                {
-                    "company": company,
-                    "domain": domain,
-                    "approx_launch_year": row.get("approx_launch_year", "N/A"),
-                    "total_snapshots": len(snapshots),
-                    "first_archived_date": first_archived,
-                    "latest_archived_date": latest_archived,
-                }
-            )
-
-            time.sleep(DEFAULT_RATE_LIMIT_DELAY)
-
-    return records
+    harvest_all_targets(targets)
+    return targets
 
 
-def export_summary_manifest(records: List[Dict[str, str]]) -> None:
-    """Exports processed snapshot summary records to CSV.
-
-    Args:
-        records (List[Dict[str, str]]): List of dictionary records to write.
+def export_summary_manifest(targets: List[Dict[str, str]]) -> None:
+    """Builds snapshot_manifest.csv: one row per company showing how many
+    real, status-200 snapshots were actually retrieved, based on the CDX
+    JSON files saved to disk. This replaces any hand-written or fabricated
+    manifest with numbers computed directly from real harvested data.
     """
-    if not records:
-        logging.error("No data collected to export.")
-        return
+    rows = []
 
-    fieldnames = list(records[0].keys())
-    OUTPUT_MANIFEST_PATH.parent.mkdir(parents=True, exist_ok=True)
+    for target in targets:
+        target_name = target["name"]
+        cdx_file = RAW_CDX_DIR / f"{target_name}_cdx.json"
 
-    with open(
-        OUTPUT_MANIFEST_PATH, mode="w", newline="", encoding="utf-8"
-    ) as file:
-        writer = csv.DictWriter(file, fieldnames=fieldnames)
+        if not cdx_file.exists():
+            rows.append({
+                "company": target["display_name"],
+                "domain": target["domain"],
+                "total_snapshots": 0,
+                "first_snapshot_timestamp": "NONE",
+                "last_snapshot_timestamp": "NONE",
+            })
+            continue
+
+        with open(cdx_file, "r", encoding="utf-8") as f:
+            records = json.load(f)
+
+        timestamps = []
+        for row in records:
+            if isinstance(row, dict):
+                ts = row.get("timestamp", "")
+                if ts:
+                    timestamps.append(ts)
+            elif isinstance(row, list) and row:
+                if row[0] == "timestamp":
+                    continue  # CDX header row
+                timestamps.append(row[0])
+
+        if timestamps:
+            rows.append({
+                "company": target["display_name"],
+                "domain": target["domain"],
+                "total_snapshots": len(timestamps),
+                "first_snapshot_timestamp": min(timestamps),
+                "last_snapshot_timestamp": max(timestamps),
+            })
+        else:
+            rows.append({
+                "company": target["display_name"],
+                "domain": target["domain"],
+                "total_snapshots": 0,
+                "first_snapshot_timestamp": "NONE",
+                "last_snapshot_timestamp": "NONE",
+            })
+
+    with open(SUMMARY_MANIFEST_PATH, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=[
+            "company", "domain", "total_snapshots",
+            "first_snapshot_timestamp", "last_snapshot_timestamp"
+        ])
         writer.writeheader()
-        writer.writerows(records)
+        writer.writerows(rows)
 
-    logging.info(f"Successfully generated summary report at {OUTPUT_MANIFEST_PATH}")
+    logger.info(f"Exported snapshot manifest to '{SUMMARY_MANIFEST_PATH}' ({len(rows)} companies).")
+
+
+def main():
+    targets = process_seed_manifest()
+    if targets:
+        export_summary_manifest(targets)
 
 
 if __name__ == "__main__":
-    extracted_data = process_seed_manifest()
-    if extracted_data:
-        export_summary_manifest(extracted_data)
+    main()
