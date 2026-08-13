@@ -1,6 +1,7 @@
 # SaaS Repricing Index
 
-A longitudinal analysis of how frequently 13 SaaS companies revise their observable pricing and packaging strategies through historical Wayback Machine data.
+A longitudinal analysis of how frequently 13 SaaS companies from early-stage growth through maturity revise their observable pricing and packaging strategies through historical Wayback Machine data.
+
 
 ## Project Overview
 
