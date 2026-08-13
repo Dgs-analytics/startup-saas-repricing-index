@@ -213,6 +213,7 @@ This was built as a portfolio project to demonstrate:
 - Translating raw metrics into business insights
 - Building defensible analysis (not just dashboards)
 
+## Contact [dgs.analytics@proton.me]
 If you have questions about the methodology or the findings, see [INSIGHTS.md](./INSIGHTS.md) for the full analyst perspective.
 
 ---
