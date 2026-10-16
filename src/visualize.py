@@ -204,6 +204,7 @@ def chart3_neon_lollipop_plot() -> None:
 
 
 def generate_index_visuals() -> None:
+     """Generate three publication-ready charts: time-series, radar, and cadence distribution."""
     apply_theme()
     chart1_time_series_index()
     chart2_radar_cohort_grid()
