@@ -172,11 +172,11 @@ See [INSIGHTS.md](./INSIGHTS.md) for the full business analysis and what these p
 
 The pipeline generates three publication-ready charts analyzing repricing patterns:
 
-![Time Series: Annual Repricing Trends](./outputs/figures/chart1_time_series_index.png)
+![Time Series: Annual Repricing Trends](./docs/sample-outputs/chart1_time_series_index.png)
 
-![Sector Radar: Cohort Archetypes](./outputs/figures/chart2_strategic_matrix.png)
+![Sector Radar: Cohort Archetypes](./docs/sample-outputs/chart2_strategic_matrix.png)
 
-![Cadence Distribution: Median Days Between Changes](./outputs/figures/chart3_interval_distribution.png)
+![Cadence Distribution: Median Days Between Changes](./docs/sample-outputs/chart3_interval_distribution.png)
 
 ## Limitations
 

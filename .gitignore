@@ -25,3 +25,7 @@ outputs/reports/
 
 # Logs
 *.log
+
+# Portfolio display: sample outputs ARE committed (so they show on GitHub)
+!docs/
+!docs/sample-outputs/
